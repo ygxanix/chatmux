@@ -3,7 +3,7 @@ name: chatmux
 type: space
 runtime: python
 app: server.app:app
-port: 8000
+port: 7860
 endpoints:
   - path: /reset
     method: POST

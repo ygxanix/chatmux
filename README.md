@@ -4,7 +4,7 @@ emoji: 💬
 colorFrom: blue
 colorTo: purple
 sdk: docker
-app_file: server/app.py
+app_file: app.py
 pinned: false
 ---
 
@@ -204,6 +204,19 @@ chatmux/
 - uvicorn
 
 For LLM baseline: `OPENAI_API_KEY` environment variable
+
+---
+
+## Environment Variables (Required for Inference)
+
+| Variable | Default | Required | Description |
+|----------|---------|----------|-------------|
+| `OPENAI_API_KEY` | - | Yes | OpenAI API key for LLM calls |
+| `API_BASE_URL` | `https://api.openai.com/v1` | No | Base URL for OpenAI-compatible API |
+| `MODEL_NAME` | `gpt-3.5-turbo` | No | Model to use for inference |
+| `HF_TOKEN` | - | No | HuggingFace token (if needed) |
+| `DIFFICULTY` | `medium` | No | Task difficulty (easy/medium/hard) |
+| `MAX_STEPS` | `20` | No | Maximum steps per episode |
 
 ---
 

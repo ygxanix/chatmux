@@ -10,7 +10,7 @@ ChatMux - RL Environment for Chat Message Prioritization
 MAIN FILE: app.py
 This is the main entry point for the OpenEnv server.
 Run with: python app.py
-Or: uvicorn app:app --host 0.0.0.0 --port 8000
+Or: uvicorn app:app --host 0.0.0.0 --port 7860
 """
 
 import os
@@ -21,6 +21,8 @@ except Exception as e:
     raise ImportError(
         "openenv is required. Install with: uv sync"
     ) from e
+
+from fastapi.responses import HTMLResponse
 
 from models import UrgentChatPrioritizerAction, UrgentChatPrioritizerObservation
 from server.urgent_chat_prioritizer_environment import UrgentChatPrioritizerEnvironment
@@ -45,6 +47,164 @@ def load_work_prompt() -> str:
 
 
 WORK_PROMPT = load_work_prompt()
+
+
+@app.get("/")
+async def root():
+    """Serve landing page."""
+    html = """<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatMux - RL Environment</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            color: #fff;
+            padding: 20px;
+        }
+        .container { max-width: 900px; margin: 0 auto; }
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #00d4ff, #7b2ff7);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        h2 { color: #00d4ff; margin: 25px 0 15px; font-size: 1.4rem; }
+        h3 { color: #aaa; margin: 15px 0 10px; font-size: 1.1rem; }
+        .subtitle { font-size: 1.2rem; color: #888; margin-bottom: 25px; }
+        .card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 20px;
+            margin: 15px 0;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .card p, .card li { color: #ccc; line-height: 1.6; }
+        code {
+            background: rgba(0,212,255,0.15);
+            padding: 2px 8px;
+            border-radius: 4px;
+            color: #00d4ff;
+            font-size: 0.9em;
+        }
+        pre {
+            background: #0d1117;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 10px 0;
+        }
+        pre code { background: none; padding: 0; }
+        .badge {
+            display: inline-block;
+            background: linear-gradient(90deg, #00d4ff, #7b2ff7);
+            padding: 6px 15px;
+            border-radius: 15px;
+            font-size: 0.85rem;
+            margin: 5px;
+        }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin: 15px 0; }
+        .endpoint { background: rgba(0,212,255,0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(0,212,255,0.2); }
+        .endpoint code { display: block; font-weight: bold; margin-bottom: 4px; }
+        .endpoint span { color: #888; font-size: 0.8rem; }
+        table { width: 100%; border-collapse: collapse; margin: 15px 0; }
+        th, td { padding: 10px; text-align: left; border-bottom: 1px solid rgba(255,255,255,0.1); }
+        th { color: #00d4ff; }
+        .footer { margin-top: 30px; color: #555; font-size: 0.85rem; text-align: center; }
+        a { color: #00d4ff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>ChatMux</h1>
+        <p class="subtitle">RL Environment for Chat Message Prioritization</p>
+        <div class="badge">Meta PyTorch OpenEnv Hackathon 2026</div>
+        <div class="badge">Reinforcement Learning</div>
+
+        <div class="card">
+            <h2>What is ChatMux?</h2>
+            <p>OpenEnv-compatible RL environment that trains AI agents to automatically prioritize chat messages by urgency. Simulates a busy inbox with 10-15 users sending 3-12 messages each.</p>
+        </div>
+
+        <div class="card">
+            <h2>Quick Start</h2>
+            <h3>Run Locally</h3>
+            <pre><code>pip install openenv-core openai rapidfuzz pydantic fastapi uvicorn
+python app.py --port 7860</code></pre>
+            <h3>With Docker</h3>
+            <pre><code>docker build -t chatmux .
+docker run -p 7860:7860 -e OPENAI_API_KEY=your_key chatmux</code></pre>
+        </div>
+
+        <div class="card">
+            <h2>API Endpoints</h2>
+            <div class="grid">
+                <div class="endpoint"><code>POST /reset</code><span>Start new episode</span></div>
+                <div class="endpoint"><code>POST /step</code><span>Execute action</span></div>
+                <div class="endpoint"><code>GET /tasks</code><span>List tasks</span></div>
+                <div class="endpoint"><code>POST /grader</code><span>Grade performance</span></div>
+                <div class="endpoint"><code>POST /baseline</code><span>Run LLM baseline</span></div>
+                <div class="endpoint"><code>GET /action-schema</code><span>Get schema</span></div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>LLM API Setup</h2>
+            <p>Set <code>OPENAI_API_KEY</code> environment variable to use LLM features:</p>
+            <pre><code>export OPENAI_API_KEY=sk-...</code></pre>
+            <h3>Environment Variables</h3>
+            <table>
+                <tr><th>Variable</th><th>Default</th><th>Description</th></tr>
+                <tr><td>OPENAI_API_KEY</td><td>-</td><td>Required for LLM calls</td></tr>
+                <tr><td>API_BASE_URL</td><td>https://api.openai.com/v1</td><td>OpenAI-compatible API</td></tr>
+                <tr><td>MODEL_NAME</td><td>gpt-3.5-turbo</td><td>Model to use</td></tr>
+                <tr><td>DIFFICULTY</td><td>medium</td><td>easy/medium/hard</td></tr>
+                <tr><td>MAX_STEPS</td><td>20</td><td>Max steps per episode</td></tr>
+            </table>
+        </div>
+
+        <div class="card">
+            <h2>Baseline Inference</h2>
+            <p>Use <code>baseline.py</code> or <code>inference.py</code> for LLM-powered inference:</p>
+            <pre><code># Using baseline.py
+export OPENAI_API_KEY=sk-...
+python baseline.py --difficulty medium
+
+# Using inference.py (presubmission format)
+export OPENAI_API_KEY=sk-...
+export MODEL_NAME=gpt-3.5-turbo
+python inference.py</code></pre>
+        </div>
+
+        <div class="card">
+            <h2>Docker Deployment</h2>
+            <pre><code># Build
+docker build -t chatmux .
+
+# Run without LLM
+docker run -p 7860:7860 chatmux
+
+# Run with OpenAI API
+docker run -p 7860:7860 -e OPENAI_API_KEY=your_key chatmux</code></pre>
+        </div>
+
+        <div class="card">
+            <h2>Features</h2>
+            <p>10-15 chat users | 11,578+ urgency keywords | Fuzzy matching | OpenAI API | 3 difficulty levels</p>
+        </div>
+
+        <p class="footer">Built for Meta PyTorch OpenEnv Hackathon 2026 | <a href="https://huggingface.co/spaces/Ygxanix/chatmux">HuggingFace Space</a></p>
+    </div>
+</body>
+</html>"""
+    return HTMLResponse(content=html)
 
 
 @app.get("/tasks")
@@ -170,113 +330,14 @@ async def get_action_schema():
     }
 
 
-def main(host: str = "0.0.0.0", port: int = 8000):
+def main(host: str = "0.0.0.0", port: int = 7860):
     import uvicorn
     uvicorn.run(app, host=host, port=port)
-
-
-@app.get("/")
-async def root():
-    """Serve landing page."""
-    return """
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChatMux - RL Environment</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #fff;
-            padding: 20px;
-        }
-        .container { max-width: 800px; text-align: center; }
-        h1 {
-            font-size: 3.5rem;
-            margin-bottom: 10px;
-            background: linear-gradient(90deg, #00d4ff, #7b2ff7);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-        .subtitle { font-size: 1.3rem; color: #888; margin-bottom: 40px; }
-        .card {
-            background: rgba(255,255,255,0.05);
-            border-radius: 16px;
-            padding: 30px;
-            margin: 20px 0;
-            border: 1px solid rgba(255,255,255,0.1);
-        }
-        .card h2 { color: #00d4ff; margin-bottom: 15px; font-size: 1.5rem; }
-        .card p { color: #aaa; line-height: 1.6; }
-        .endpoints {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-            margin-top: 20px;
-        }
-        .endpoint {
-            background: rgba(0,212,255,0.1);
-            padding: 15px;
-            border-radius: 10px;
-            border: 1px solid rgba(0,212,255,0.2);
-        }
-        .endpoint code { color: #00d4ff; font-weight: bold; }
-        .endpoint span { display: block; color: #888; font-size: 0.85rem; margin-top: 5px; }
-        .badge {
-            display: inline-block;
-            background: linear-gradient(90deg, #00d4ff, #7b2ff7);
-            padding: 8px 20px;
-            border-radius: 20px;
-            font-size: 0.9rem;
-            margin: 10px;
-        }
-        .footer { margin-top: 40px; color: #555; font-size: 0.9rem; }
-        .footer a { color: #00d4ff; text-decoration: none; }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>ChatMux</h1>
-        <p class="subtitle">RL Environment for Chat Message Prioritization</p>
-        <div class="badge">Meta PyTorch OpenEnv Hackathon 2026</div>
-        <div class="badge">Reinforcement Learning</div>
-        <div class="card">
-            <h2>What is ChatMux?</h2>
-            <p>ChatMux is an OpenEnv-compatible RL environment that trains AI agents to automatically prioritize chat messages by urgency.</p>
-        </div>
-        <div class="card">
-            <h2>API Endpoints</h2>
-            <div class="endpoints">
-                <div class="endpoint"><code>POST /reset</code><span>Start new episode</span></div>
-                <div class="endpoint"><code>POST /step</code><span>Execute action</span></div>
-                <div class="endpoint"><code>GET /tasks</code><span>List tasks</span></div>
-                <div class="endpoint"><code>POST /grader</code><span>Grade performance</span></div>
-                <div class="endpoint"><code>POST /baseline</code><span>Run LLM baseline</span></div>
-                <div class="endpoint"><code>GET /action-schema</code><span>Get action schema</span></div>
-            </div>
-        </div>
-        <div class="card">
-            <h2>Features</h2>
-            <p>• 10-15 chat users<br>• 11,578+ urgency keywords<br>• Fuzzy matching<br>• OpenAI API<br>• 3 difficulty levels</p>
-        </div>
-        <p class="footer">Built for Meta PyTorch OpenEnv Hackathon 2026</p>
-    </div>
-</body>
-</html>
-    """
 
 
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("--port", type=int, default=8000)
+    parser.add_argument("--port", type=int, default=7860)
     args = parser.parse_args()
     main(port=args.port)
