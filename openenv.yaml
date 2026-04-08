@@ -1,0 +1,53 @@
+spec_version: 1
+name: urgent_chat_prioritizer
+type: space
+runtime: python
+app: server.app:app
+port: 8000
+endpoints:
+  - path: /reset
+    method: POST
+    description: Reset the environment and start a new episode
+  - path: /step
+    method: POST
+    description: Execute an action in the environment
+  - path: /state
+    method: GET
+    description: Get current environment state
+  - path: /tasks
+    method: GET
+    description: Get list of available tasks with graders
+  - path: /grader
+    method: POST
+    description: Grade agent's performance on a task
+  - path: /baseline
+    method: POST
+    description: Run baseline inference with OpenAI API
+  - path: /action-schema
+    method: GET
+    description: Get action schema for the environment
+  - path: /schema
+    method: GET
+    description: Get full action and observation schemas
+tasks:
+  - id: easy_urgent_vs_spam
+    name: Easy: Urgent vs Spam Detection
+    description: Classify clearly urgent messages vs spam messages
+    difficulty: easy
+    grader_type: programmatic
+  - id: medium_mixed_urgency
+    name: Medium: Mixed Urgency Detection
+    description: Handle messages with conflicting urgency signals
+    difficulty: medium
+    grader_type: programmatic
+  - id: hard_conflicting_signals
+    name: Hard: Conflicting Signals with High Volume
+    description: Prioritize correctly when many messages arrive with conflicting signals
+    difficulty: hard
+    grader_type: programmatic
+tags:
+  - openenv
+  - reinforcement-learning
+  - chat-prioritization
+  - urgency-detection
+  - meta-hackathon

@@ -1,0 +1,1486 @@
+# Appointment/Reminder Keywords - Medium Priority
+# Priority Level: MEDIUM
+
+appointment reminder
+appointment confirmed
+appointment scheduled
+appointment booked
+appointment tomorrow
+appointment today
+upcoming appointment
+due tomorrow
+due today
+due soon
+deadline approaching
+deadline reminder
+payment due
+bill due
+subscription renewal
+membership renewal
+policy renewal
+insurance renewal
+license renewal
+registration renewal
+expiration notice
+expires soon
+will expire
+valid until
+renew now
+extend now
+confirm attendance
+rsvp
+meeting reminder
+meeting tomorrow
+meeting today
+call scheduled
+video call
+conference call
+interview scheduled
+interview reminder
+booking confirmation
+reservation confirmed
+table reserved
+room booked
+flight confirmed
+check in reminder
+check out reminder
+trip reminder
+travel dates
+reservation reminder
+booking reminder
+schedule change
+appointment moved
+appointment cancelled
+appointment rescheduled
+meeting rescheduled
+event cancelled
+event postponed
+event reminder
+event tomorrow
+event today
+class reminder
+lesson reminder
+session reminder
+webinar reminder
+workshop reminder
+seminar reminder
+course start
+program start
+program reminder
+session start
+session begins
+trial ending
+trial expires
+trial reminder
+subscription ending
+cancel before
+opt out reminder
+unsubscribe reminder
+payment reminder
+overdue notice
+past due
+late notice
+final notice
+last reminder
+collection notice
+bill reminder
+invoice reminder
+receipt reminder
+tax deadline
+tax due
+filing deadline
+submission deadline
+application deadline
+registration deadline
+enrollment deadline
+entry deadline
+contest deadline
+promotion ending
+offer expires
+limited time
+last day
+countdown reminder
+24 hours left
+48 hours left
+one week left
+ EOF# Expanded Appointment/Reminder Keywords
+
+# Additional Appointment Confirmations/Reminders
+appointment confirmation
+appointment set
+appointment in 1 hour
+appointment in 2 hours
+appointment in 24 hours
+appointment pending
+appointment request
+appointment approved
+appointment waiting
+appointment upcoming
+appointment reminder call
+appointment text reminder
+appointment email reminder
+appointment notification
+appointment alert
+appointment notice
+your appointment
+my appointment
+dentist appointment
+doctor appointment
+medical appointment
+telehealth appointment
+virtual appointment
+in-person appointment
+office appointment
+clinic appointment
+hospital appointment
+wellness appointment
+annual appointment
+follow-up appointment
+checkup appointment
+consultation appointment
+evaluation appointment
+screening appointment
+vaccination appointment
+lab appointment
+test appointment
+procedure appointment
+surgery appointment
+recovery appointment
+therapy appointment
+counseling appointment
+psychiatry appointment
+appointment window
+appointment slot
+appointment availability
+schedule appointment
+reschedule appointment
+modify appointment
+change appointment
+confirm appointment
+cancel appointment
+missed appointment
+no-show appointment
+appointment status
+appointment details
+appointment time
+appointment date
+appointment location
+appointment address
+appointment instructions
+appointment preparation
+appointment requirements
+
+# Due Date Reminders
+payment due tomorrow
+payment due today
+payment due in 3 days
+payment due in 7 days
+payment due soon
+bill due tomorrow
+bill due today
+bill due next week
+statement due
+balance due
+amount due
+total due
+minimum due
+payment deadline
+payment cutoff
+payment required
+due by end of day
+due by midnight
+due by closing
+due immediately
+overdue payment
+late payment
+payment reminder
+payment alert
+payment notice
+payment notification
+automatic payment
+debited soon
+will be charged
+charge pending
+charge scheduled
+credit card expiring
+payment method expiring
+update payment info
+payment failed
+payment declined
+payment rejected
+payment retry
+
+# Subscription Renewals
+auto-renew
+auto renewal
+subscription expires
+membership expires
+plan expires
+account expires
+trial expires
+subscription ending
+membership ending
+plan ending
+trial ending
+subscription renewal date
+membership renewal date
+plan renewal date
+renewal coming up
+renewal due
+renewal scheduled
+renewal pending
+renewal notice
+renewal reminder
+renewal alert
+membership renewal notice
+plan renewal notice
+subscription renewal notice
+annual renewal
+monthly renewal
+quarterly renewal
+yearly renewal
+plan renewal
+policy renewal
+contract renewal
+service renewal
+agreement renewal
+term renewal
+period renewal
+renew subscription
+renew membership
+renew plan
+renew policy
+renew contract
+renew service
+renew agreement
+renewal payment
+renewal fee
+renewal charge
+renewal cost
+renewal price
+renewal rate
+renewal discount
+renewal offer
+
+# License/Registration Renewals
+driver license renewal
+vehicle registration renewal
+business license renewal
+professional license renewal
+certificate renewal
+permit renewal
+registration expires
+license expires
+certificate expires
+permit expires
+registration due
+license due
+certificate due
+permit due
+registration deadline
+license deadline
+certificate deadline
+permit deadline
+registration expiring
+license expiring
+certificate expiring
+permit expiring
+annual registration
+annual license
+annual certificate
+annual permit
+biennial renewal
+renew license online
+renew registration online
+renew certificate online
+renewal required
+renewal mandatory
+renewal optional
+renewal notice sent
+renewal form
+renewal application
+
+# Expiration Notices
+card expires
+account expires
+membership expires
+pass expires
+id expires
+ticket expires
+coupon expires
+offer expires
+deal expires
+discount expires
+credit expires
+points expire
+miles expire
+rewards expire
+voucher expires
+pass expires soon
+card expires soon
+account expires soon
+id expires soon
+passport expires
+visa expires
+work permit expires
+authorization expires
+approval expires
+consent expires
+agreement expires
+contract expires
+warranty expires
+guarantee expires
+insurance expires
+coverage expires
+policy expires
+plan expires
+service expires
+access expires
+subscription expires
+membership expires
+account expires
+trial expires
+promo expires
+campaign expires
+
+# RSVP/Confirm Attendance
+rsvp required
+rsvp deadline
+rsvp by
+rsvp now
+rsvp today
+rsvp tomorrow
+rsvp due
+rsvp confirmation
+rsvp reminder
+rsvp pending
+rsvp waiting
+please rsvp
+can you attend
+will you attend
+confirm attendance
+confirm presence
+confirm participation
+confirm joining
+confirm coming
+confirm going
+confirm you're coming
+confirm you'll be there
+confirm your spot
+reserve your spot
+save your spot
+hold your spot
+book your spot
+claim your spot
+attendance required
+attendance mandatory
+attendance confirmation
+attendance reminder
+attendance notice
+are you attending
+are you coming
+will you join us
+can you make it
+join us
+attend event
+attend meeting
+attend session
+attend class
+attend webinar
+attend workshop
+attend seminar
+attend conference
+attend ceremony
+attend celebration
+attend party
+attend dinner
+attend lunch
+attend breakfast
+attend reception
+
+# Meeting Reminders
+meeting tomorrow
+meeting today
+meeting in 1 hour
+meeting in 30 minutes
+meeting in 15 minutes
+meeting soon
+meeting starts
+meeting begins
+meeting pending
+meeting scheduled
+meeting request
+meeting invitation
+meeting invite
+meeting confirmation
+meeting reminder
+calendar invite
+calendar event
+calendar reminder
+calendar notification
+team meeting
+staff meeting
+client meeting
+customer meeting
+partner meeting
+vendor meeting
+supplier meeting
+board meeting
+committee meeting
+project meeting
+status meeting
+review meeting
+planning meeting
+strategy meeting
+kickoff meeting
+wrap-up meeting
+daily meeting
+weekly meeting
+monthly meeting
+quarterly meeting
+annual meeting
+morning meeting
+evening meeting
+lunch meeting
+dinner meeting
+virtual meeting
+online meeting
+video meeting
+audio meeting
+phone meeting
+conference meeting
+group meeting
+one-on-one meeting
+1-on-1 meeting
+private meeting
+confidential meeting
+urgent meeting
+important meeting
+critical meeting
+mandatory meeting
+optional meeting
+meeting agenda
+meeting notes
+meeting minutes
+meeting recording
+meeting link
+meeting id
+meeting password
+join meeting
+enter meeting
+start meeting
+
+# Interview Scheduling
+interview tomorrow
+interview today
+interview scheduled
+interview confirmation
+interview reminder
+interview time
+interview date
+interview location
+phone interview
+video interview
+virtual interview
+in-person interview
+panel interview
+group interview
+screening interview
+behavioral interview
+technical interview
+case interview
+final interview
+second interview
+follow-up interview
+reschedule interview
+interview request
+interview invitation
+interview availability
+interview slot
+interview window
+candidate interview
+applicant interview
+job interview
+employment interview
+hiring interview
+recruiter interview
+hr interview
+hiring manager interview
+phone screen
+screening call
+assessment scheduled
+evaluation scheduled
+
+# Booking Confirmations
+booking confirmed
+reservation confirmed
+appointment confirmed
+schedule confirmed
+slot confirmed
+spot reserved
+spot confirmed
+place reserved
+place confirmed
+space reserved
+space confirmed
+seat reserved
+seat confirmed
+table confirmed
+room confirmed
+venue confirmed
+event confirmed
+activity confirmed
+tour confirmed
+trip confirmed
+vacation confirmed
+holiday confirmed
+stay confirmed
+accommodation confirmed
+lodging confirmed
+rental confirmed
+vehicle confirmed
+equipment confirmed
+service confirmed
+package confirmed
+delivery confirmed
+pickup confirmed
+drop-off confirmed
+booking number
+reservation number
+confirmation number
+reference number
+booking details
+reservation details
+confirmation email
+confirmation text
+booking complete
+booking successful
+reservation made
+reservation placed
+
+# Travel Reminders
+trip reminder
+trip tomorrow
+trip today
+trip in 24 hours
+trip soon
+trip upcoming
+trip departing
+trip arrival
+trip check-in
+trip check-out
+flight reminder
+flight tomorrow
+flight today
+flight departing
+flight arrival
+flight boarding
+flight gate
+boarding pass
+check-in online
+check-in now
+check-in reminder
+check-in opens
+check-in closes
+boarding soon
+boarding now
+boarding call
+departure time
+arrival time
+gate information
+terminal information
+baggage information
+security wait time
+flight status
+flight delay
+flight cancellation
+train reminder
+bus reminder
+cruise reminder
+ferry reminder
+rental car reminder
+taxi reminder
+rideshare reminder
+uber reminder
+lyft reminder
+hotel reminder
+hotel check-in
+hotel check-out
+resort reminder
+airbnb reminder
+accommodation reminder
+packing reminder
+passport reminder
+visa reminder
+travel documents
+travel insurance
+travel alert
+travel advisory
+travel notice
+itinerary reminder
+itinerary update
+itinerary change
+trip update
+trip modification
+trip change
+
+# Event Reminders
+event tomorrow
+event today
+event in 1 hour
+event starting
+event begins
+event soon
+event upcoming
+event reminder
+event alert
+event notice
+event notification
+event update
+event change
+event cancelled
+event postponed
+event rescheduled
+event moved
+event location
+event time
+event date
+event address
+event venue
+event tickets
+event access
+event check-in
+event registration
+event sign-in
+event login
+event password
+event link
+event virtual
+event online
+event in-person
+event hybrid
+event live
+event recorded
+event stream
+event webinar
+event workshop
+event seminar
+event conference
+event convention
+event summit
+event expo
+event exhibition
+event fair
+event festival
+event concert
+event show
+event performance
+event ceremony
+event celebration
+event party
+event gathering
+event reunion
+event meeting
+event session
+event class
+event webinar
+event deadline
+event registration deadline
+event signup deadline
+event rsvp deadline
+
+# Class/Session Reminders
+class tomorrow
+class today
+class now
+class soon
+class starting
+class begins
+class reminder
+class alert
+class notice
+class notification
+class update
+class cancelled
+class rescheduled
+class moved
+class online
+class in-person
+class virtual
+class hybrid
+class recording
+class materials
+class prep
+class preparation
+homework due
+assignment due
+project due
+paper due
+essay due
+report due
+presentation due
+quiz tomorrow
+quiz today
+quiz soon
+quiz reminder
+exam tomorrow
+exam today
+exam soon
+exam reminder
+midterm reminder
+final reminder
+midterm exam
+final exam
+test tomorrow
+test today
+test reminder
+lab tomorrow
+lab today
+lab reminder
+session tomorrow
+session today
+session now
+session soon
+session starting
+session begins
+session reminder
+session alert
+session notice
+session update
+tutoring reminder
+lesson reminder
+training reminder
+course reminder
+program reminder
+module reminder
+unit reminder
+chapter reminder
+lecture reminder
+seminar reminder
+workshop reminder
+webinar reminder
+lab session
+study session
+review session
+practice session
+
+# Trial Ending Reminders
+trial ends tomorrow
+trial ends today
+trial ends soon
+trial ending soon
+trial expires tomorrow
+trial expires today
+trial expires soon
+trial period ending
+trial period expired
+free trial ending
+free trial expires
+free trial reminder
+trial reminder
+trial notice
+trial alert
+trial notification
+trial update
+trial status
+trial almost over
+trial almost done
+trial nearly complete
+trial countdown
+trial days left
+trial hours left
+7 days left in trial
+3 days left in trial
+1 day left in trial
+last day of trial
+final day of trial
+trial conversion
+trial upgrade
+trial to paid
+convert trial
+upgrade trial
+extend trial
+trial extension
+trial extension request
+continue trial
+keep trial active
+trial benefits ending
+trial features ending
+trial access ending
+trial membership ending
+trial subscription ending
+
+# Cancellation Notices
+cancelled appointment
+cancelled meeting
+cancelled event
+cancelled class
+cancelled session
+cancelled reservation
+cancelled booking
+cancelled flight
+cancelled trip
+cancelled order
+cancelled service
+cancellation notice
+cancellation alert
+cancellation reminder
+cancellation email
+cancellation text
+cancellation confirmed
+appointment cancelled by
+meeting cancelled by
+event cancelled by
+cancellation policy
+cancellation fee
+cancellation deadline
+cancellation window
+cancel by
+cancel before
+cancellation request
+cancellation pending
+cancellation processed
+your cancellation
+order cancelled
+reservation cancelled
+subscription cancelled
+membership cancelled
+account cancelled
+policy cancelled
+plan cancelled
+service cancelled
+appointment cancelled by provider
+event cancelled by organizer
+class cancelled by instructor
+meeting cancelled by host
+
+# Rescheduling
+reschedule appointment
+reschedule meeting
+reschedule event
+reschedule class
+reschedule session
+reschedule interview
+reschedule call
+reschedule consultation
+reschedule booking
+reschedule reservation
+reschedule trip
+reschedule flight
+reschedule travel
+reschedule available
+reschedule options
+reschedule request
+reschedule notice
+reschedule confirmation
+reschedule pending
+reschedule approved
+reschedule denied
+reschedule by
+reschedule before
+reschedule deadline
+reschedule window
+new appointment time
+new meeting time
+new event time
+new class time
+new session time
+appointment moved to
+meeting moved to
+event moved to
+class moved to
+session moved to
+time changed
+date changed
+location changed
+venue changed
+schedule changed
+schedule updated
+calendar updated
+availability changed
+conflict detected
+conflict notice
+conflict alert
+conflict resolution
+
+# Deadline Reminders
+deadline tomorrow
+deadline today
+deadline soon
+deadline approaching
+deadline pending
+deadline reminder
+deadline notice
+deadline alert
+deadline notification
+deadline update
+deadline changed
+deadline extended
+deadline moved
+deadline passed
+deadline missed
+final deadline
+hard deadline
+soft deadline
+strict deadline
+firm deadline
+critical deadline
+urgent deadline
+important deadline
+approaching deadline
+upcoming deadline
+near deadline
+declining deadline
+countdown to deadline
+days until deadline
+hours until deadline
+minutes until deadline
+last chance deadline
+final opportunity
+last opportunity
+cutoff time
+cutoff date
+cutoff approaching
+closing date
+closing soon
+closing tomorrow
+closing today
+
+# Tax Deadlines
+tax deadline
+tax due
+tax filing deadline
+tax payment deadline
+tax season
+tax time
+tax reminder
+tax notice
+tax alert
+tax notification
+irs deadline
+federal tax deadline
+state tax deadline
+local tax deadline
+income tax due
+property tax due
+sales tax due
+quarterly tax due
+estimated tax due
+quarterly estimated taxes
+estimated payment due
+tax extension
+tax extension deadline
+file by deadline
+pay by deadline
+tax return due
+tax return deadline
+tax forms due
+tax documents due
+1099 deadline
+w2 deadline
+tax preparation reminder
+tax appointment
+tax consultation
+tax meeting
+tax filing reminder
+tax owed
+tax balance due
+tax penalty
+tax interest
+tax bill
+tax notice
+tax assessment
+tax audit
+
+# Application Deadlines
+application deadline
+application due
+application closing
+application ending
+apply by
+apply before
+last day to apply
+final day to apply
+application reminder
+application alert
+application notice
+admissions deadline
+enrollment deadline
+registration deadline
+sign up deadline
+signup deadline
+join by deadline
+course deadline
+program deadline
+certification deadline
+licensing deadline
+permit deadline
+grant deadline
+scholarship deadline
+financial aid deadline
+fellowship deadline
+internship deadline
+job application deadline
+position closing
+posting closing
+requisition closing
+proposal deadline
+bid deadline
+rfp deadline
+rfq deadline
+tender deadline
+submission deadline
+entry deadline
+contest deadline
+competition deadline
+nomination deadline
+award deadline
+
+# Promotion Ending
+promotion ending
+promotion expires
+promo ending
+promo expires
+sale ending
+sale expires
+offer ending
+offer expires
+deal ending
+deal expires
+discount ending
+discount expires
+special offer ending
+limited offer ending
+exclusive offer ending
+flash sale ending
+doorbuster ending
+clearance ending
+promo code expires
+coupon expires
+voucher expires
+gift card expires
+credit expires
+bonus expires
+rewards expire
+points expire
+miles expire
+promotion deadline
+sale deadline
+offer deadline
+last day of sale
+final day of sale
+last day of promotion
+final day of promotion
+last chance offer
+final chance offer
+limited quantity
+limited stock
+while supplies last
+offer ends tonight
+offer ends midnight
+offer ends soon
+hurry ends soon
+act fast
+limited time only
+time running out
+offer closing soon
+
+# Limited Time Reminders
+limited time
+limited time offer
+limited time deal
+limited time sale
+limited time promotion
+limited time only
+limited availability
+limited spots
+limited seats
+limited space
+limited rooms
+limited tickets
+limited quantity
+limited stock
+limited supply
+limited access
+limited window
+time sensitive
+time limited
+time restricted
+expires soon
+expires today
+expires tomorrow
+ends soon
+ends today
+ends tomorrow
+closing soon
+closing today
+closing tomorrow
+not available for long
+only available until
+available until
+valid until
+good until
+offer until
+sale until
+promo until
+hurry while available
+act now
+dont wait
+available for short time
+temporary offer
+temporary sale
+temporary promotion
+one day only
+today only
+this week only
+this weekend only
+24 hours only
+48 hours only
+72 hours only
+
+# Final Notices
+final notice
+final reminder
+final alert
+final warning
+last notice
+last reminder
+last alert
+last warning
+final chance
+last chance
+final opportunity
+last opportunity
+final day
+last day
+final hours
+last hours
+final minutes
+last minutes
+final attempt
+last attempt
+final contact
+last contact
+final outreach
+last outreach
+final communication
+last communication
+this is final
+this is last
+no more reminders
+no more notices
+account will be
+membership will be
+subscription will be
+service will be
+access will be
+closing your account
+terminating service
+discontinuing service
+action required now
+must act now
+urgent action required
+immediate action required
+final notice before
+last notice before
+
+# Past Due Notices
+past due
+past due notice
+past due bill
+past due payment
+past due invoice
+past due account
+past due balance
+overdue
+overdue notice
+overdue bill
+overdue payment
+overdue invoice
+overdue account
+overdue balance
+late payment
+late notice
+late fee
+late charge
+payment overdue
+bill overdue
+invoice overdue
+account overdue
+balance overdue
+delinquent
+delinquent account
+delinquent notice
+arrears
+in arrears
+payment arrears
+account in arrears
+missed payment
+missed deadline
+missed due date
+failed payment
+unsuccessful payment
+payment failed
+payment bounced
+nsf payment
+returned payment
+rejected payment
+collections
+collections notice
+sent to collections
+ collection agency
+outstanding balance
+outstanding payment
+outstanding bill
+outstanding invoice
+unpaid
+unpaid bill
+unpaid invoice
+unpaid balance
+unpaid account
+amount owed
+balance owed
+
+# Billing Reminders
+billing reminder
+billing notice
+billing alert
+billing update
+billing cycle
+billing statement
+billing due
+billing period
+monthly billing
+quarterly billing
+annual billing
+autopay reminder
+autopay notice
+autopay scheduled
+autopay pending
+autopay failed
+payment processed
+payment received
+payment confirmed
+invoice reminder
+invoice due
+invoice pending
+invoice sent
+invoice available
+new invoice
+upcoming invoice
+recurring payment
+recurring charge
+recurring bill
+subscription charge
+membership charge
+plan charge
+service charge
+usage charge
+overage charge
+prorated charge
+adjustment charge
+credit applied
+refund processed
+payment plan
+installment due
+installment reminder
+payment schedule
+billing inquiry
+billing question
+billing dispute
+
+# Countdown Reminders
+countdown
+24 hours left
+48 hours left
+72 hours left
+1 day left
+2 days left
+3 days left
+5 days left
+7 days left
+10 days left
+14 days left
+30 days left
+1 week left
+2 weeks left
+1 month left
+countdown timer
+countdown clock
+countdown to
+countdown begins
+final countdown
+counting down
+time remaining
+time left
+only hours left
+only days left
+only weeks left
+hours to go
+days to go
+weeks to go
+approaching fast
+getting close
+almost here
+almost time
+almost due
+nearly there
+coming up
+coming soon
+right around the corner
+just around the corner
+soon approaching
+rapidly approaching
+quickly approaching
+
+# Additional Appointment/Reminder Terms
+remind me
+set reminder
+create reminder
+add reminder
+calendar reminder
+task reminder
+to-do reminder
+deadline tracker
+due date tracker
+reminder app
+reminder service
+reminder text
+reminder email
+reminder call
+voice reminder
+push notification
+sms reminder
+scheduled reminder
+recurring reminder
+weekly reminder
+monthly reminder
+daily reminder
+one-time reminder
+snooze reminder
+dismiss reminder
+mark complete
+mark done
+completed reminder
+follow up
+follow-up needed
+follow-up required
+follow-up scheduled
+check-in reminder
+check-up reminder
+status update
+status check
+progress check
+milestone reminder
+goal deadline
+objective deadline
+target date
+completion date
+finish date
+end date
+start date
+commencement date
+launch date
+go-live date
+implementation date
+milestone date
+review date
+assessment date
+evaluation date
+survey reminder
+feedback reminder
+rating reminder
+review reminder
+renewal coming
+cancellation window
+grace period ending
+cool-off period
+opt-out deadline
+cancellation deadline
+withdrawal deadline
+refund deadline
+return deadline
+exchange deadline
+warranty reminder
+guarantee reminder
+insurance reminder
+policy reminder
+coverage reminder
+claim deadline
+claim reminder
+filing deadline
+appeal deadline
+response deadline
+reply deadline
+acknowledge receipt
+confirm receipt
+confirm delivery
+confirm arrival
+confirm departure
+appointment prep
+appointment follow-up
+post-appointment
+pre-appointment
+next appointment
+previous appointment
+annual review
+quarterly review
+monthly review
+weekly check-in
+status meeting reminder
+standup reminder
+scrum reminder
+sprint deadline
+release deadline
+deployment deadline
+launch deadline
+go-live reminder
+migration deadline
+upgrade deadline
+maintenance window
+scheduled maintenance
+downtime reminder
+backup reminder
+security update
+patch reminder
+update reminder
+upgrade reminder
+renewal notification
+expiration alert
+expiry notice
+renewal request
+reminder sent
+reminder delivered
+reminder pending
+reminder scheduled
+alert sent
+alert pending
+notification sent
+notification pending
+notice sent
+notice pending
+upcoming due date
+imminent deadline
+critical date
+important date
+key date
+milestone alert
+calendar alert
+event alert
+deadline alert
+reminder alert
+countdown alert
+time-sensitive
+urgent reminder
+priority reminder
+high priority
+medium priority
+low priority
+flagged reminder
+starred reminder
+pinned reminder
+scheduled for today
+scheduled for tomorrow
+scheduled for this week
+scheduled for next week
+scheduled for this month

@@ -1,0 +1,422 @@
+# Urgency/SOS Keywords - High Priority
+# Priority Level: CRITICAL
+
+save me
+help me
+emergency
+urgent
+im stuck
+can't continue
+blocked
+critical issue
+asap
+immediately
+right now
+hurry
+fast
+quick
+need help now
+cant access
+can't access
+cant login
+can't login
+cant sign in
+can't sign in
+locked out
+frozen
+not working
+broken
+crashed
+not responding
+error
+failed
+failure
+stop
+halt
+stuck
+frozen screen
+page not loading
+loading failed
+connection lost
+server down
+cant complete
+can't complete
+not completing
+time out
+ timed out
+unable to proceed
+cant move forward
+can't move forward
+at standstill
+dead end
+roadblock
+blocked progress
+cant finish
+can't finish
+not finishing
+cant submit
+can't submit
+submission failed
+upload failed
+download failed
+transaction failed
+payment failed
+cant pay
+can't pay
+payment not going through
+card declined
+insufficient funds
+processing error
+cant process
+can't process
+cant load
+can't load
+cant view
+can't view
+blank screen
+white screen
+error message
+404
+500 error
+503 error
+bad gateway
+timeout error
+connection error
+network error
+no internet
+disconnected
+cant connect
+can't connect
+not connecting
+login failed
+authentication failed
+unauthorized
+forbidden
+access denied
+permission denied
+invalid credentials
+wrong password
+account locked
+suspended
+banned
+restricted
+limited access
+verification failed
+cant verify
+can't verify
+phone not working
+email not working
+cant receive
+can't receive
+not receiving
+message failed
+send failed
+cant send
+can't send
+delivery failed
+cant reach
+can't reach
+unable to contact
+no response
+can't proceed
+cant proceed
+unable to proceed
+cannot proceed
+stuck here
+im stuck here
+stuck at this point
+blocked here
+blocked at this step
+stopped here
+stopped at this stage
+cant get past this
+can't get past
+cannot get past
+hitting a wall
+hit a wall
+ran into a wall
+at a dead end
+dead end here
+no way forward
+cant move forward
+can't move forward
+cannot move forward
+no progress possible
+no progress being made
+progress stopped
+progress halted
+progress blocked
+cant continue
+can't continue
+cannot continue
+unable to continue
+forced to stop
+have to stop
+must stop
+stopping now
+stopped working
+quit working
+no longer working
+quit functioning
+stopped functioning
+ceased working
+ceased functioning
+not functioning
+not functioning properly
+malfunctioning
+experiencing malfunction
+system malfunction
+app malfunction
+software malfunction
+complete failure
+total failure
+absolute failure
+catastrophic failure
+system failure
+critical failure
+major failure
+serious failure
+significant failure
+substantial failure
+severe failure
+devastating failure
+failure to load
+failure to start
+failure to initialize
+failure to connect
+failure to communicate
+failure to respond
+failure to process
+failure to complete
+failure to finish
+failure to submit
+failure to save
+failure to update
+failure to sync
+failure to verify
+failure to authenticate
+failure to authorize
+process failed
+operation failed
+action failed
+task failed
+request failed
+attempt failed
+transaction failed
+submission failed
+upload failed
+download failed
+installation failed
+update failed
+sync failed
+backup failed
+restore failed
+recovery failed
+reset failed
+verification failed
+authentication failed
+authorization failed
+validation failed
+confirmation failed
+approval failed
+processing failed
+execution failed
+initialization failed
+configuration failed
+setup failed
+registration failed
+activation failed
+deactivation failed
+cancellation failed
+refund failed
+payment failed completely
+total system failure
+system crash
+complete crash
+major crash
+severe crash
+critical crash
+catastrophic crash
+app crash
+software crash
+program crash
+system crash
+server crash
+browser crash
+tab crash
+page crash
+window crash
+session crash
+crashed unexpectedly
+crashed suddenly
+crashed without warning
+keeps crashing
+keeps crashing repeatedly
+crashing constantly
+crashing intermittently
+crashing randomly
+crashing on startup
+crashing on launch
+crashing when opening
+crashing when loading
+crashing when saving
+crashing when submitting
+crashing when clicking
+crashing when scrolling
+crashing when typing
+crashing when uploading
+crashing when downloading
+crashing on mobile
+crashing on desktop
+crashing on browser
+crashing on app
+app keeps closing
+keeps shutting down
+unexpected shutdown
+forced shutdown
+abrupt shutdown
+sudden shutdown
+immediate shutdown
+emergency shutdown
+system shutdown
+computer shutdown
+device shutdown
+emergency stop
+everything stopped
+all systems down
+system is down
+service is down
+website is down
+app is down
+platform is down
+service unavailable
+service not available
+service temporarily unavailable
+503 service unavailable
+site not loading
+app not loading
+page not loading
+content not loading
+images not loading
+videos not loading
+stuck on loading
+infinite loading
+loading forever
+loading indefinitely
+endless loading
+never stops loading
+stuck at loading screen
+frozen at loading
+frozen on loading screen
+blank screen
+white screen
+black screen
+blue screen
+screen went blank
+screen is blank
+nothing displayed
+nothing showing
+no display
+no output
+no response
+no feedback
+no reaction
+no acknowledgment
+no confirmation
+silent failure
+quiet failure
+hidden failure
+undetected failure
+invisible error
+hidden error
+silent error
+missing error message
+unclear error message
+vague error message
+unhelpful error message
+confusing error message
+misleading error message
+wrong error message
+error message unclear
+cant understand error
+can't understand error
+cannot understand error
+error makes no sense
+nonsense error
+meaningless error
+pointless error
+useless error
+uninformative error
+not telling me whats wrong
+doesn't say whats wrong
+no indication of problem
+no hint of issue
+no clue whats wrong
+im lost
+completely lost
+totally lost
+utterly lost
+absolutely lost
+no idea what to do
+no idea whats happening
+no idea whats wrong
+clueless
+have no clue
+completely clueless
+at a complete loss
+don't know where to start
+don't know what to do
+don't know how to fix
+don't know how to proceed
+don't understand
+can't understand
+cannot understand
+unable to understand
+impossible to understand
+cant make sense of this
+can't make sense of this
+makes no sense
+doesn't make sense
+complete nonsense
+total nonsense
+utter nonsense
+absolute nonsense
+impossible
+impossible situation
+impossible to do
+impossible task
+impossible problem
+impossible error
+impossible bug
+impossible glitch
+impossible to resolve
+can't be fixed
+cant be fixed
+unfixable
+not fixable
+irreparable
+beyond repair
+beyond help
+beyond fixing
+hopeless situation
+no solution exists
+no solution found
+no fix available
+no workaround available
+permanent issue
+chronic problem
+ongoing issue
+persistent problem
+recurring problem
+repeating problem
+cyclical problem
+never ending problem
+never resolved
+never fixed
+always broken
+always failing
+always crashing
+always freezing
+always stopping
+always glitching
+ EOF

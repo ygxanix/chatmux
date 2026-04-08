@@ -1,0 +1,1653 @@
+# Emergency/Critical Keywords - HIGHEST Priority
+# Priority Level: CRITICAL
+
+emergency
+call 911
+call emergency
+call police
+call ambulance
+medical emergency
+heart attack
+stroke
+seizure
+unconscious
+not breathing
+bleeding heavily
+severe bleeding
+choking
+cant breathe
+stopped breathing
+cant move
+can't move
+paralyzed
+injured badly
+serious injury
+head injury
+spinal injury
+burn emergency
+chemical burn
+electrical shock
+poisoning
+drug overdose
+overdose
+suicidal
+suicide
+cutting self
+self harm
+hurt myself
+want to die
+kill myself
+end my life
+no reason to live
+giving up on life
+contemplating suicide
+crisis
+mental health crisis
+mental breakdown
+psychotic episode
+hallucinating
+seeing things
+hearing voices
+lost touch with reality
+manic episode
+deeply depressed
+cant go on
+can't go on
+911
+call an ambulance
+need ambulance
+hospital now
+cant wait
+can't wait
+life threatening
+critical condition
+emergency surgery
+dying
+might die
+fear of dying
+cant feel legs
+can't feel arms
+numbness
+severe pain
+chest pain
+sharp pain
+stabbing pain
+burning pain
+throbbing pain
+pain is unbearable
+cant stand the pain
+passing out
+fainting
+blacking out
+dizzy
+cant see
+can't see
+vision blurry
+vision lost
+cant hear
+can't hear
+hearing lost
+bleeding
+coughing blood
+vomiting blood
+blood in urine
+blood in stool
+high fever
+104 fever
+105 fever
+uncontrolled fever
+burning up
+freezing
+shivering uncontrollably
+severe allergic reaction
+anaphylaxis
+cant swallow
+can't swallow
+throat closing
+tongue swelling
+face swelling
+hives everywhere
+rash spreading rapidly
+exposure
+chemical exposure
+radiation exposure
+contamination
+gas leak
+fire
+cant get out
+trapped
+stuck in building
+stuck in car
+locked in
+locked out
+burst pipe
+flooding
+water everywhere
+electrical fire
+smoke
+smell gas
+explosion
+loud bang
+gunshots
+shots fired
+active shooter
+bomb threat
+threat received
+threat to life
+stalking
+being followed
+stranger danger
+break in
+burglary in progress
+robbery
+car accident
+accident
+hit and run
+pedestrian hit
+car crashed
+vehicle crash
+plane crash
+train crash
+building collapse
+earthquake
+flood warning
+hurricane
+tornado
+severe weather
+emergency alert
+amber alert
+missing person
+child missing
+person missing
+pet missing
+lost pet
+cant find
+can't find
+search and rescue
+search party
+ EOFlife support
+code blue
+code red
+code black
+rapid response
+trauma alert
+trauma team
+emergency room
+emergency department
+emergency physician
+trauma surgeon
+cardiac arrest
+respiratory arrest
+cardiac emergency
+heart stopped
+cardiac event
+myocardial infarction
+heart attack symptoms
+chest pain radiating
+chest tightness
+chest pressure
+crushing chest pain
+severe chest pain
+acute chest pain
+sudden chest pain
+persistent chest pain
+heart palpitations
+irregular heartbeat
+arrhythmia
+atrial fibrillation
+ventricular fibrillation
+tachycardia
+bradycardia
+heart failure
+congestive heart failure
+pulmonary edema
+fluid in lungs
+cardiogenic shock
+hypovolemic shock
+septic shock
+anaphylactic shock
+neurogenic shock
+hypothermia
+hyperthermia
+heat stroke
+heat exhaustion
+frostbite
+hypothermic
+burned severely
+third degree burn
+second degree burn
+chemical burn
+electrical burn
+radiation burn
+inhalation injury
+smoke inhalation
+airway compromise
+airway obstruction
+choking victim
+foreign body airway
+cant clear airway
+airway blocked
+blocked airway
+compromised airway
+difficult airway
+cant intubate
+intubation failed
+ventilator dependent
+ventilator alarm
+respiratory distress
+respiratory failure
+acute respiratory distress
+ARDS
+pneumothorax
+collapsed lung
+tension pneumothorax
+hemothorax
+flail chest
+sucking chest wound
+open chest wound
+penetrating chest trauma
+blunt chest trauma
+cardiac tamponade
+pericardial tamponade
+severe abdominal pain
+acute abdomen
+rigid abdomen
+board like abdomen
+abdominal distension
+bowel obstruction
+intestinal obstruction
+volvulus
+intussusception
+strangulated hernia
+bowel perforation
+intestinal perforation
+gastric perforation
+diverticulitis perforation
+ruptured appendix
+perforated appendix
+ruptured spleen
+lacerated spleen
+ruptured liver
+lacerated liver
+ruptured kidney
+lacerated kidney
+ruptured bladder
+urethral trauma
+vascular injury
+major vessel injury
+arterial bleed
+venous bleed
+uncontrolled hemorrhage
+exsanguination
+massive transfusion protocol
+bleeding out
+hemorrhagic shock
+internal bleeding
+retroperitoneal bleed
+intracranial bleed
+subarachnoid hemorrhage
+subdural hematoma
+epidural hematoma
+intracerebral hemorrhage
+traumatic brain injury
+TBI
+severe head trauma
+penetrating head injury
+depressed skull fracture
+basilar skull fracture
+CSF leak
+cerebrospinal fluid
+open head wound
+brain swelling
+cerebral edema
+increased intracranial pressure
+ICP monitoring
+brain herniation
+cerebral herniation
+tentorial herniation
+tonsillar herniation
+uncal herniation
+coma
+glasgow coma scale
+GCS less than 8
+decorticate posturing
+decerebrate posturing
+abnormal posturing
+fixed dilated pupils
+unequal pupils
+pupils nonreactive
+blown pupil
+cranial nerve deficit
+stroke symptoms
+FAST test
+facial droop
+arm weakness
+speech difficulty
+time to call 911
+transient ischemic attack
+TIA warning signs
+carotid dissection
+vertebral dissection
+aortic dissection
+type A dissection
+type B dissection
+aortic rupture
+aortic aneurysm rupture
+AAA rupture
+thoracic aortic rupture
+impending rupture
+unstable aneurysm
+widening mediastinum
+hemodynamically unstable
+vitals unstable
+blood pressure dropping
+systolic less than 90
+MAP less than 65
+hypotensive crisis
+hypertensive emergency
+ hypertensive urgency
+malignant hypertension
+ hypertensive encephalopathy
+preeclampsia
+eclampsia
+seizure in pregnancy
+HELLP syndrome
+placental abruption
+placental previa
+vasa previa
+cord prolapse
+nuchal cord
+fetal bradycardia
+fetal distress
+fetal decelerations
+late decelerations
+variable decelerations
+prolonged deceleration
+fetal tachycardia
+category 3 tracing
+nonreassuring fetal status
+intrauterine fetal demise
+stillbirth
+preterm labor
+premature rupture of membranes
+chorioamnionitis
+postpartum hemorrhage
+PPH
+uterine atony
+retained placenta
+placenta accreta
+placenta increta
+placenta percreta
+amniotic fluid embolism
+AFE
+obstetric emergency
+neonatal emergency
+newborn distress
+infant distress
+pediatric emergency
+child emergency
+toddler emergency
+altered mental status
+acute confusional state
+delirium
+acute psychosis
+drug induced psychosis
+suicidal ideation
+suicidal plan
+suicidal intent
+suicide attempt in progress
+overdose in progress
+poisoning in progress
+carbon monoxide poisoning
+cyanide poisoning
+organophosphate poisoning
+botulism
+anthrax exposure
+ricin exposure
+sarin exposure
+VX exposure
+nerve agent exposure
+biological agent exposure
+radiation exposure
+nuclear exposure
+chemical exposure
+toxic exposure
+environmental emergency
+environmental disaster
+industrial accident
+workplace emergency
+construction accident
+mining accident
+confined space emergency
+trench collapse
+scaffolding collapse
+fall from height
+high fall
+low fall
+fall with head strike
+fall with loss of consciousness
+fall with injury
+fall with fracture
+hip fracture
+femur fracture
+pelvic fracture
+spinal fracture
+compression fracture
+burst fracture
+chance fracture
+spinal cord injury
+SCI complete
+SCI incomplete
+quadriplegia
+paraplegia
+tetraplegia
+paralysis
+cauda equina syndrome
+conus medullaris syndrome
+neurogenic bladder
+neurogenic bowel
+autonomic dysreflexia
+spinal shock
+spinal hematoma
+epidural abscess
+vertebral osteomyelitis
+septic arthritis
+necrotizing fasciitis
+fournier gangrene
+gas gangrene
+clostridial myonecrosis
+severe sepsis
+septic shock
+SIRS
+qSOFA
+lactate elevated
+metabolic acidosis
+DKA
+HHS
+hypoglycemic coma
+severe hypoglycemia
+insulin shock
+diabetic emergency
+thyroid storm
+myxedema coma
+adrenal crisis
+Addisonian crisis
+Cushing crisis
+hyperkalemia
+severe hyperkalemia
+hypokalemia
+severe hypokalemia
+hypernatremia
+severe hypernatremia
+hyponatremia
+severe hyponatremia
+hypercalcemia
+severe hypercalcemia
+hypocalcemia
+severe hypocalcemia
+hypermagnesemia
+hypomagnesemia
+acidosis
+alkalosis
+severe dehydration
+hypovolemia
+anemia
+severe anemia
+hemoglobin less than 7
+thrombocytopenia
+severe thrombocytopenia
+platelets less than 10
+DIC
+disseminated intravascular coagulation
+hemophilia emergency
+sickle cell crisis
+acute chest syndrome
+vaso occlusive crisis
+aplastic crisis
+splenic sequestration
+priapism
+acute leukemia
+blast crisis
+hyperleukocytosis
+tumor lysis syndrome
+cancer emergency
+oncologic emergency
+spinal cord compression
+superior vena cava syndrome
+SVC syndrome
+malignant bowel obstruction
+malignant ascites
+malignant pleural effusion
+hemothorax
+chylothorax
+tracheal obstruction
+airway obstruction from tumor
+massive hemoptysis
+hemorrhagic cystitis
+severe neutropenia
+febrile neutropenia
+neutropenic fever
+sepsis in immunocompromised
+opportunistic infection
+PJP pneumonia
+cryptococcal meningitis
+toxoplasmosis
+CMV infection
+severe infection
+overwhelming infection
+necrotizing pneumonia
+lung abscess
+empyema
+bronchopleural fistula
+tension pneumothorax
+open pneumothorax
+hemothorax
+chylothorax
+pleural effusion
+pericardial effusion
+cardiac tamponade
+myocardial rupture
+papillary muscle rupture
+ventricular septal defect
+free wall rupture
+valve rupture
+aortic dissection
+pulmonary embolism
+massive PE
+saddle embolus
+submassive PE
+high risk PE
+hemodynamically significant PE
+pulmonary infarction
+deep vein thrombosis
+DVT with phlegmasia
+phlegmasia cerulea dolens
+venous gangrene
+acute limb ischemia
+ALI
+critical limb ischemia
+compartment syndrome
+abdominal compartment syndrome
+ACS
+intra abdominal hypertension
+rhabdomyolysis
+crush injury
+compartment syndrome
+fasciotomy needed
+emergent fasciotomy
+above knee amputation
+below knee amputation
+digit amputation
+traumatic amputation
+replantation needed
+emergent surgery
+time critical surgery
+damage control surgery
+massive transfusion protocol
+ MTP activated
+trauma code
+trauma activation
+trauma pager
+trauma team activation
+full trauma activation
+partial trauma activation
+level one trauma
+level two trauma
+level three trauma
+trauma survey
+primary survey
+secondary survey
+ABCDE approach
+airway first
+breathing second
+circulation third
+disability fourth
+exposure fifth
+hemorrhage control
+tourniquet applied
+direct pressure
+wound packing
+hemostatic dressing
+pressure dressing
+collar and board
+spinal immobilization
+log roll
+trauma xray
+trauma CT
+trauma ultrasound
+FAST exam
+EFAST
+extended FAST
+pneumothorax on ultrasound
+hemothorax on ultrasound
+pericardial fluid
+hemoperitoneum
+free fluid
+solid organ injury
+liver injury
+kidney injury
+spleen injury
+pancreas injury
+duodenal injury
+small bowel injury
+colon injury
+rectal injury
+bladder injury
+urethral injury
+vascular injury
+mesenteric injury
+diaphragm injury
+thoracic injury
+rib fracture
+flail chest
+pulmonary contusion
+pulmonary laceration
+tracheobronchial injury
+blunt cardiac injury
+myocardial contusion
+coronary artery injury
+cardiac valve injury
+chordae tendineae rupture
+papillary muscle rupture
+interventricular septum rupture
+ventricular free wall rupture
+pericardial injury
+thoracic aortic injury
+descending aorta injury
+aortic isthmus injury
+aortic root injury
+tracheal injury
+esophageal injury
+blunt esophageal rupture
+Boerhaave syndrome
+iastric injury
+aspiration pneumonia
+fat embolism syndrome
+FES
+long bone fracture
+femur fracture
+tibia fracture
+humerus fracture
+radius fracture
+ulna fracture
+forearm fracture
+wrist fracture
+scaphoid fracture
+colles fracture
+smith fracture
+barton fracture
+monteggia fracture
+galeazzi fracture
+both bone fracture
+segmental fracture
+segmental femur fracture
+segmental tibia fracture
+floating knee
+tibial plateau fracture
+pilon fracture
+calcaneal fracture
+talar fracture
+lisfranc injury
+chopart injury
+navicular fracture
+cuboid fracture
+cuneiform fracture
+metatarsal fracture
+phalangeal fracture
+dislocation
+shoulder dislocation
+hip dislocation
+knee dislocation
+elbow dislocation
+wrist dislocation
+finger dislocation
+patellar dislocation
+temporomandibular dislocation
+TMJ dislocation
+open fracture
+gustilo classification
+gustilo type I
+gustilo type II
+gustilo type III
+fracture with vascular injury
+fracture with nerve injury
+compartment syndrome post fracture
+fat embolism post fracture
+embolism
+air embolism
+fat embolism
+thromboembolism
+amniotic fluid embolism
+cement embolism
+talc embolism
+paradoxical embolism
+pulmonary embolism
+systemic embolism
+stroke from embolism
+mesenteric ischemia
+bowel ischemia
+ischemic colitis
+acute mesenteric ischemia
+chronic mesenteric ischemia
+volvulus
+intestinal volvulus
+caecal volvulus
+sigmoid volvulus
+gastric volvulus
+midgut volvulus
+malrotation with volvulus
+intussusception
+intestinal intussusception
+colic intussusception
+enteroenteric intussusception
+ileocolic intussusception
+rectal prolapse
+procidentia
+strangulated hernia
+incarcerated hernia
+irreducible hernia
+obstructed hernia
+femoral hernia
+obturator hernia
+spigelian hernia
+lumbar hernia
+sciatic hernia
+perineal hernia
+internal hernia
+paraduodenal hernia
+foramen of winslow hernia
+mesenteric defect
+internal hernia through mesenteric defect
+congenital diaphragmatic hernia
+Bochdalek hernia
+Morgagni hernia
+traumatic diaphragmatic hernia
+hiatal hernia
+paraesophageal hernia
+rolling hiatal hernia
+sliding hiatal hernia
+volvulus of stomach
+intrathoracic stomach
+upside down stomach
+achalasia
+pseudoachalasia
+Chagas disease
+esophageal stricture
+peptic stricture
+Schatzki ring
+esophageal web
+Plummer Vinson syndrome
+esophageal foreign body
+coin ingestion
+button battery ingestion
+magnet ingestion
+multiple magnet ingestion
+sharp object ingestion
+long object ingestion
+disk battery ingestion
+caustic ingestion
+acid ingestion
+alkali ingestion
+lye ingestion
+drain cleaner ingestion
+bleach ingestion
+hydrochloric acid ingestion
+phenol ingestion
+ammonia ingestion
+kerosene ingestion
+gasoline ingestion
+hydrocarbon ingestion
+toxic alcohol ingestion
+methanol poisoning
+ethylene glycol poisoning
+isopropanol poisoning
+acetaminophen overdose
+salicylate overdose
+NSAID overdose
+opioid overdose
+benzodiazepine overdose
+antidepressant overdose
+TCA overdose
+SSRI overdose
+SNRI overdose
+MAOI overdose
+antipsychotic overdose
+lithium overdose
+digoxin overdose
+beta blocker overdose
+calcium channel blocker overdose
+ACE inhibitor overdose
+ARB overdose
+diuretic overdose
+stimulant overdose
+amphetamine overdose
+cocaine overdose
+MDMA overdose
+ecstasy overdose
+GHB overdose
+ketamine overdose
+PCP overdose
+marijuana overdose
+cannabis overdose
+synthetic cannabinoid overdose
+K2 overdose
+Spice overdose
+bath salts overdose
+synthetic cathinone overdose
+fentanyl overdose
+heroin overdose
+morphine overdose
+oxycodone overdose
+hydrocodone overdose
+codeine overdose
+tramadol overdose
+methadone overdose
+buprenorphine overdose
+naloxone resistant overdose
+multidrug overdose
+polysubstance overdose
+withdrawal emergency
+alcohol withdrawal
+benzodiazepine withdrawal
+opioid withdrawal
+barbiturate withdrawal
+delirium tremens
+DTs
+severe alcohol withdrawal
+complicated alcohol withdrawal
+withdrawal seizure
+post withdrawal seizure
+serotonin syndrome
+neuroleptic malignant syndrome
+NMS
+malignant hyperthermia
+cocaine intoxication
+methamphetamine intoxication
+synthetic cannabinoid intoxication
+anticholinergic toxicity
+anticholinergic syndrome
+cholinergic toxicity
+cholinergic syndrome
+organophosphate toxicity
+nerve agent toxicity
+botulism
+tetanus
+rabies
+sepsis
+severe sepsis
+septic shock
+SIRS
+MODS
+multiple organ dysfunction
+DIC
+disseminated intravascular coagulation
+TTP
+thrombotic thrombocytopenic purpura
+HUS
+hemolytic uremic syndrome
+DITP
+drug induced thrombocytopenia
+HIT
+heparin induced thrombocytopenia
+TTP HUS overlap
+atypical HUS
+complement mediated HUS
+antiphospholipid syndrome
+catastrophic antiphospholipid syndrome
+CAPS
+APS with thrombosis
+HELLP syndrome
+acute fatty liver of pregnancy
+AFLP
+intrahepatic cholestasis of pregnancy
+ICP
+hyperemesis gravidarum
+Wernicke encephalopathy in pregnancy
+pulmonary embolism in pregnancy
+amniotic fluid embolism
+uterine rupture
+uterine inversion
+retained placental tissue
+postpartum endometritis
+postpartum infection
+postpartum sepsis
+mastitis
+breast abscess
+postpartum hemorrhage
+retained products of conception
+placenta accreta spectrum
+placenta previa with accreta
+invasive placentation
+percreta invading bladder
+uterine artery embolization
+emergent hysterectomy
+peripartum hysterectomy
+obstetric hemorrhage
+antepartum hemorrhage
+intrapartum hemorrhage
+secondary postpartum hemorrhage
+abnormal placentation
+vasa previa
+velamentous cord insertion
+cord entanglement
+nuchal cord
+body cord
+true knot
+umbilical cord prolapse
+umbilical cord compression
+fetal bradycardia from cord compression
+fetal tachycardia
+fetal anemia
+fetal hydrops
+immune hydrops
+non immune hydrops
+fetal arrhythmia
+fetal SVT
+fetal atrial flutter
+fetal congenital heart block
+fetal complete heart block
+fetal structural anomaly
+fetal cardiac defect
+fetal gastroschisis
+fetal omphalocele
+fetal neural tube defect
+fetal anencephaly
+fetal spina bifida
+fetal meningomyelocele
+fetal hydrocephalus
+fetal ventriculomegaly
+fetal intracranial hemorrhage
+fetal stroke
+fetal anemia from parvovirus
+fetal anemia from alloimmunization
+fetal thrombocytopenia
+fetal alloimmune thrombocytopenia
+fetal viral infection
+fetal CMV
+fetal toxoplasmosis
+fetal parvovirus
+fetal varicella
+fetal rubella
+fetal syphilis
+fetal Zika
+congenital Zika syndrome
+fetal limb reduction
+twin pregnancy complications
+twin to twin transfusion
+TTTS
+twin reversed arterial perfusion
+TRAP
+twin anemia polycythemia sequence
+TAPS
+conjoined twins
+monoamniotic twins
+cord entanglement in twins
+twin demise
+single intrauterine demise
+co twin demise
+multiple gestation complications
+triplet pregnancy
+triplet complications
+higher order multiples
+selective reduction
+multifetal pregnancy reduction
+MFPR
+emergency cerclage
+rescue cerclage
+preterm premature rupture of membranes
+PPROM
+prolonged rupture of membranes
+PROM
+chorioamnionitis
+clinical chorioamnionitis
+histologic chorioamnionitis
+endometritis
+puerperal infection
+postpartum pyrexia
+postpartum fever
+wound infection
+post cesarean wound infection
+postpartum wound dehiscence
+perineal tear
+third degree tear
+fourth degree tear
+obstetric anal sphincter injury
+OASIS
+rectal buttonhole
+rectovaginal fistula
+vaginal laceration
+cervical laceration
+uterine laceration
+broad ligament hematoma
+retroperitoneal hematoma
+postpartum hematoma
+vulvar hematoma
+vaginal hematoma
+retroperitoneal hemorrhage
+concealed hemorrhage
+uterine atony refractory
+refractory uterine atony
+uterine artery ligation
+internal iliac ligation
+B Lynch suture
+uterine compression sutures
+uterine balloon tamponade
+Bakri balloon
+vaginal packing
+uterine packing
+abdominal packing
+damage control surgery
+leaving packs in place
+relook laparotomy
+planned reoperation
+delayed abdominal closure
+temporary abdominal closure
+negative pressure wound therapy
+NPWT in abdomen
+open abdomen management
+abdominal compartment syndrome
+ACS management
+decompressive laparotomy
+abdominal decompression
+percutaneous decompression
+ECMO
+extracorporeal membrane oxygenation
+VA ECMO
+VV ECMO
+ECMO complications
+ECMO emergency
+ECMO cannulation emergency
+ECMO decannulation
+ECMO circuit emergency
+oxygenator failure
+pump failure
+ECMO circuit thrombosis
+limb ischemia from ECMO
+compartment syndrome from ECMO
+retroperitoneal bleed from ECMO
+ECMO related bleed
+heparin free ECMO
+ECMO without anticoagulation
+bridge to recovery
+bridge to transplant
+bridge to decision
+destination ECMO
+prolonged ECMO
+ECMO weaning failure
+ECMO transport
+mobile ECMO
+during ECMO CPR
+during ECPR
+mechanical CPR
+LUCAS device
+autopulse
+mechanical chest compression
+cardiac mechanical support
+Impella
+intra aortic balloon pump
+IABP
+IABP emergency
+IABP weaning
+temporary mechanical circulatory support
+MCS
+temporary VAD
+ventricular assist device
+bridge VAD
+destination VAD
+durable VAD
+LVAD
+RVAD
+BiVAD
+total artificial heart
+TAH
+artificial heart
+cardiac transplant emergency
+heart transplant rejection
+cardiac allograft rejection
+antibody mediated rejection
+cellular rejection
+cardiac transplant vasculopathy
+CAV
+post transplant lymphoproliferative disorder
+PTLD
+infection in transplant recipient
+opportunistic infection post transplant
+CMV in transplant
+EBV in transplant
+BK virus in transplant
+adenovirus in transplant
+respiratory virus in transplant
+coronavirus in transplant
+fungal infection in transplant
+invasive aspergillosis
+invasive candidiasis
+PJP in transplant
+nocardia in transplant
+mycobacterium in transplant
+tuberculosis in transplant
+toxoplasmosis in transplant
+cryptococcus in transplant
+histoplasmosis in transplant
+coccidioidomycosis in transplant
+blastomycosis in transplant
+strongyloides in transplant
+schistosomiasis in transplant
+malaria in transplant
+Chagas in transplant
+acute cellular rejection
+chronic rejection
+hyperacute rejection
+presensitized transplant recipient
+high panel reactive antibody
+desensitization protocol
+plasmapheresis
+IVIG
+rituximab
+eculizumab
+antithymocyte globulin
+thymoglobulin
+basiliximab
+alemtuzumab
+mycophenolate
+mycophenolic acid
+tacrolimus
+cyclosporine
+sirolimus
+everolimus
+prednisone
+methylprednisolone
+high dose steroids
+pulse steroids
+antirejection therapy
+rejection treatment
+rescue therapy for rejection
+salvage therapy
+graft failure
+primary graft failure
+secondary graft failure
+ventricular failure
+biventricular failure
+right heart failure
+left heart failure
+pulmonary hypertension
+pulmonary artery hypertension
+PAH
+pulmonary venous hypertension
+pulmonary edema
+cardiogenic pulmonary edema
+non cardiogenic pulmonary edema
+ARDS
+acute respiratory distress syndrome
+ventilator induced lung injury
+VILI
+ventilator associated pneumonia
+VAP
+ventilator associated events
+VAE
+barotrauma
+volutrauma
+atelectrauma
+biotrauma
+pneumothorax from ventilation
+pneumomediastinum
+pneumopericardium
+subcutaneous emphysema
+pneumoretroperitoneum
+pneumoperitoneum from ventilation
+gastric distension from ventilation
+aspiration during intubation
+aspiration during ventilation
+ventilator associated events
+prolonged mechanical ventilation
+difficult weaning
+failed weaning
+weaning failure
+spontaneous breathing trial
+SBT
+rapid shallow breathing index
+RSBI
+maximum inspiratory pressure
+MIP
+negative inspiratory force
+NIF
+maximum expiratory pressure
+MEP
+vital capacity
+forced vital capacity
+FVC
+forced expiratory volume
+FEV1
+peak expiratory flow rate
+PEFR
+airway resistance
+pulmonary compliance
+static compliance
+dynamic compliance
+driving pressure
+plateau pressure
+peak inspiratory pressure
+PEEP
+positive end expiratory pressure
+intrinsic PEEP
+auto PEEP
+airway pressure release ventilation
+APRV
+high frequency oscillatory ventilation
+HFOV
+high frequency percussive ventilation
+HFPV
+extracorporeal CO2 removal
+ECCO2R
+interventional lung assist
+iLA
+Novalung
+lung assist device
+pumpless ECMO
+pumpless arteriovenous CO2 removal
+pumpless extracorporeal lung assist
+extracorporeal life support
+ECLS
+ECLS emergency
+ECLS complication
+ECLS circuit failure
+membrane failure
+oxygenator failure
+pump failure
+circuit thrombosis
+limb ischemia
+compartment syndrome
+bleeding
+hemolysis
+infection
+neurologic injury
+renal failure
+multi organ failure
+ ECLS related
+ECMO transport
+interhospital transfer
+transport on ECLS
+transport on ECMO
+transport on ventilator
+transport on mechanical support
+transport on IABP
+transport on Impella
+transport on VAD
+mobile ICU
+transport team
+critical care transport
+emergency transport
+urgent transport
+air transport
+helicopter transport
+fixed wing transport
+ground transport
+ambulance transport
+critical care ambulance
+advanced life support
+ALS
+basic life support
+BLS
+paramedic
+EMT
+emergency medical technician
+EMT paramedic
+critical care paramedic
+flight paramedic
+flight nurse
+transport nurse
+critical care transport nurse
+transport physician
+transport team
+rapid sequence intubation
+RSI
+prehospital intubation
+emergency intubation
+difficult airway
+failed intubation
+awake intubation
+fibreoptic intubation
+video laryngoscopy
+direct laryngoscopy
+surgical airway
+cricothyrotomy
+tracheostomy
+emergency cricothyrotomy
+percutaneous cricothyrotomy
+surgical cricothyrotomy
+needle cricothyrotomy
+jet ventilation
+transtracheal jet ventilation
+TTJV
+high frequency jet ventilation
+emergency tracheostomy
+percutaneous tracheostomy
+surgical tracheostomy
+difficult airway algorithm
+cannot intubate cannot ventilate
+CICV
+failed mask ventilation
+failed supraglottic airway
+failed endotracheal intubation
+airway rescue
+emergency front of neck access
+FONA
+eFONA
+emergency surgical airway
+awake tracheostomy
+awake fiberoptic intubation
+awake intubation
+spontaneous ventilation intubation
+depolarizing neuromuscular blocker
+succinylcholine
+non depolarizing neuromuscular blocker
+rocuronium
+vecuronium
+cisatracurium
+atracurium
+pancuronium
+neuromuscular reversal
+sugammadex
+neostigmine
+glycopyrrolate
+atropine
+rapid sequence induction
+modified rapid sequence
+controlled rapid sequence
+awake rapid sequence
+cricoid pressure
+Sellick maneuver
+BURP maneuver
+backward upward rightward pressure
+laryngeal mask airway
+LMA
+supraglottic airway device
+SAD
+intubating LMA
+ILMA
+Fastrach
+LMA Supreme
+LMA ProSeal
+i gel
+king laryngeal tube
+Combitube
+esophageal tracheal Combitube
+ETC
+dual lumen airway
+difficult airway cart
+difficult airway trolley
+airway equipment
+video laryngoscope
+glide scope
+McGrath
+C MAC
+Airtraq
+King Vision
+bullard laryngoscope
+rigid fiberoptic laryngoscope
+flexible fiberoptic bronchoscope
+fiberoptic intubation
+awake fiberoptic
+asleep fiberoptic
+retrograde intubation
+lightwand intubation
+transillumination
+intubating stylet
+bougie
+esophageal detector device
+capnography
+colorimetric capnography
+quantitative capnography
+ETCO2 monitoring
+end tidal CO2
+waveform capnography
+capnogram
+bag valve mask
+BVM
+ambu bag
+self inflating bag
+flow inflating bag
+T piece resuscitator
+Neopuff
+positive pressure ventilation
+mechanical ventilation
+non invasive ventilation
+NIV
+non invasive positive pressure ventilation
+NPPV
+bilevel positive airway pressure
+BiPAP
+continuous positive airway pressure
+CPAP
+high flow nasal cannula
+HFNC
+high flow oxygen
+conventional oxygen therapy
+low flow oxygen
+nasal cannula
+simple face mask
+venturi mask
+partial rebreather mask
+non rebreather mask
+NRB
+high concentration oxygen
+oxygen toxicity
+hyperoxia
+hypoxia
+hypoxemia
+refractory hypoxemia
+severe hypoxemia
+oxygenation failure
+ventilation failure
+respiratory failure type I
+respiratory failure type II
+hypercapnia
+hypocapnia
+respiratory acidosis
+respiratory alkalosis
+metabolic acidosis
+metabolic alkalosis
+mixed acid base disorder
+triple acid base disorder
+anion gap metabolic acidosis
+normal anion gap metabolic acidosis
+lactic acidosis
+ketoacidosis
+toxic alcohol ingestion
+salicylate toxicity
+methanol toxicity
+ethylene glycol toxicity
+isopropanol toxicity
+paraldehyde toxicity
+iron toxicity
+lead toxicity
+mercury toxicity
+arsenic toxicity
+thallium toxicity
+chromium toxicity
+cadmium toxicity
+nickel toxicity
+aluminum toxicity
+manganese toxicity
+zinc toxicity
+copper toxicity
+silver toxicity
+bismuth toxicity
+lithium toxicity
+digoxin toxicity
+theophylline toxicity
+aspirin toxicity
+acetaminophen toxicity
+NSAID toxicity
+opioid toxicity
+benzodiazepine toxicity
+antidepressant toxicity
+tricyclic antidepressant toxicity
+SSRI toxicity
+SNRI toxicity
+MAOI toxicity
+antipsychotic toxicity
+lithium toxicity
+phenytoin toxicity
+carbamazepine toxicity
+valproic acid toxicity
+phenobarbital toxicity
+barbiturate toxicity
+gabapentin toxicity
+pregabalin toxicity
+levetiracetam toxicity
+topiramate toxicity
+zonisamide toxicity
+lamotrigine toxicity
+oxcarbazepine toxicity
+eslicarbazepine toxicity
+felbamate toxicity
+vigabatrin toxicity
+tiabigine toxicity
+ethosuximide toxicity
+methsuximide toxicity
+phensuximide toxicity
+acetazolamide toxicity
+zonisamide toxicity
+sultiame toxicity
+paramethadione toxicity
+trimethadione toxicity
+ethotoin toxicity
+mephenytoin toxicity
+primidone toxicity
+metharbital toxicity
+barbexaclone toxicity
+beclamide toxicity
+brivaracetam toxicity
+cenobamate toxicity
+cenobamate induced DRESS
+cenobamate induced Stevens Johnson
+rufinamide toxicity
+stiripentol toxicity
+cannabidiol toxicity
+fenfluramine toxicity
+ everolimus toxicity
+ sirolimus toxicity
+tacrolimus toxicity
+cyclosporine toxicity
+mycophenolate toxicity
+azathioprine toxicity
+6 mercaptopurine toxicity
+6 thioguanine toxicity
+methotrexate toxicity
+leflunomide toxicity
+hydroxychloroquine toxicity
+chloroquine toxicity
+quinine toxicity
+mefloquine toxicity
+artemisinin toxicity
+pyrimethamine toxicity
+atovaquone toxicity
+proguanil toxicity
+dapsone toxicity
+clofazimine toxicity
+rifampin toxicity
+isoniazid toxicity
+pyrazinamide toxicity
+ethambutol toxicity
+streptomycin toxicity
+amikacin toxicity
+gentamicin toxicity
+tobramycin toxicity
+vancomycin toxicity
+teicoplanin toxicity
+daptomycin toxicity
+linezolid toxicity
+tedizolid toxicity
+ertapenem toxicity
+meropenem toxicity
+imipenem toxicity
+doripenem toxicity
+aztreonam toxicity
+piperacillin tazobactam toxicity
+cefepime toxicity
+ceftazidime toxicity
+ceftriaxone toxicity
+cefotaxime toxicity
+cefoxitin toxicity
+cefaclor toxicity
+cefuroxime toxicity
+cefprozil toxicity
+cefazolin toxicity
+cephalexin toxicity
+penicillin toxicity
+amoxicillin toxicity
+ampicillin toxicity
+amoxicillin clavulanate toxicity
+piperacillin toxicity
+ticarcillin toxicity
+ticarcillin clavulanate toxicity
+azlocillin toxicity
+mezlocillin toxicity
+nafcillin toxicity
+oxacillin toxicity
+dicloxacillin toxicity
+cloxacillin toxicity
+flucloxacillin toxicity
+benzylpenicillin toxicity
+penicillin G toxicity
+penicillin V toxicity
+procaine penicillin toxicity
+benzathine penicillin toxicity
+macrolide toxicity
+erythromycin toxicity
+clarithromycin toxicity
+azithromycin toxicity
+telithromycin toxicity
+clindamycin toxicity
+lincomycin toxicity
+metronidazole toxicity
+tinidazole toxicity
+ornidazole toxicity
+secnidazole toxicity
+nitazoxanide toxicity
+paromomycin toxicity
+neomycin toxicity
+gentamicin toxicity
+amikacin toxicity
+tobramycin toxicity
+netilmicin toxicity
+plazomicin toxicity
+streptomycin toxicity
+spectinomycin toxicity
+polymyxin B toxicity
+colistin toxicity
+bacitracin toxicity
+rifaximin toxicity
+fidaxomicin toxicity
+vancomycin toxicity
+oral vancomycin toxicity
+intravenous vancomycin toxicity
+teicoplanin toxicity
+dalbavancin toxicity
+oritavancin toxicity
+telavancin toxicity
+daptomycin toxicity
+quinupristin dalfopristin toxicity
+colistin toxicity
+fosfomycin toxicity
+aztreonam toxicity
+meropenem vaborbactam toxicity
+imipenem cilastatin relebactam toxicity
+ceftazidime avibactam toxicity
+ceftolozane tazobactam toxicity
+ceftaroline fosamil toxicity
+eravacycline toxicity
+omadacycline toxicity
+sarecycline toxicity
+minocycline toxicity
+tigecycline toxicity
+tetracycline toxicity
+doxycycline toxicity
+oxytetracycline toxicity
+chlortetracycline toxicity
+demeclocycline toxicity
+methacycline toxicity
+lymecycline toxicity
+rolitetracycline toxicity
+these are emergency critical keywords expanded
+ EOF

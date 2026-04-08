@@ -1,0 +1,60 @@
+{
+  "priorities": {
+    "CRITICAL": {
+      "level": 1,
+      "files": [
+        "emergency_critical_keywords.txt",
+        "urgency_sos_keywords.txt",
+        "security_phishing_keywords.txt"
+      ],
+      "description": "Immediate human attention required",
+      "response_time": "< 5 minutes"
+    },
+    "HIGH": {
+      "level": 2,
+      "files": [
+        "emotional_distress_keywords.txt",
+        "account_financial_keywords.txt"
+      ],
+      "description": "Urgent but not life-threatening",
+      "response_time": "< 30 minutes"
+    },
+    "MEDIUM": {
+      "level": 3,
+      "files": [
+        "technical_support_keywords.txt",
+        "appointment_reminder_keywords.txt"
+      ],
+      "description": "Standard support queue",
+      "response_time": "< 4 hours"
+    },
+    "LOW": {
+      "level": 4,
+      "files": [
+        "general_inquiry_keywords.txt",
+        "advertisement_promotional_keywords.txt",
+        "friendly_conversation_keywords.txt"
+      ],
+      "description": "Non-urgent or automated response",
+      "response_time": "< 24 hours"
+    },
+    "SPAM": {
+      "level": 0,
+      "files": [
+        "spam_keywords.txt"
+      ],
+      "description": "Filter/Auto-block",
+      "response_time": "No response"
+    }
+  },
+  "matching_rules": {
+    "exact_match": true,
+    "case_sensitive": false,
+    "partial_match": true,
+    "fuzzy_match": false,
+    "threshold": 0.8
+  },
+  "created_date": "2024-01-08",
+  "total_keywords": "~12000+",
+  "categories": 11
+}

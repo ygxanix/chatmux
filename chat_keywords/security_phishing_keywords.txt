@@ -1,0 +1,830 @@
+# Security/Phishing Keywords - CRITICAL Priority
+# Priority Level: CRITICAL
+
+verify your account
+verify now
+verify immediately
+security check
+account verification
+identity verification
+confirm your identity
+suspicious activity detected
+unauthorized login attempt
+login from new device
+login from unknown location
+account will be suspended
+account suspension
+suspend account
+terminate account
+account closure
+account disabled
+locked out
+security alert
+security warning
+security breach
+compromised account
+hacked
+account hacked
+someone accessed my account
+unauthorized access
+strange activity
+login i didn't make
+purchase i didn't make
+transaction not mine
+fraud detected
+fraudulent activity
+potential fraud
+identity theft
+stolen identity
+someone pretending to be me
+impersonation
+phishing email
+phishing link
+phishing website
+fake email
+fake website
+spoofed email
+spoofed website
+counterfeit
+scam attempt
+report scam
+report fraud
+report phishing
+report suspicious
+mark as spam
+mark as phishing
+email from unknown sender
+untrusted sender
+suspicious attachment
+dont open attachment
+malicious file
+virus detected
+malware detected
+ransomware
+trojan
+keylogger
+spyware
+unauthorized software
+suspicious software
+credentials stolen
+password stolen
+email hacked
+phone hacked
+device compromised
+secure your account
+change your password now
+reset credentials
+two factor authentication
+2fa
+verification code
+otp
+one time password
+backup code
+recovery code
+security questions
+backup email
+backup phone
+login history
+recent activity
+active sessions
+log out everywhere
+sign out all devices
+revoke access
+remove device
+remove app
+permission revoked
+access revoked
+grant access
+request access
+access request
+pending approval
+approval needed
+waiting for approval
+identity document
+photo id
+passport copy
+proof of address
+verify identity
+kyc
+know your customer
+aml
+anti money laundering
+ EOFabnormal login activity
+access attempt blocked
+access from unknown source
+account accessed by third party
+account flagged for review
+account hold
+account information compromised
+account investigation
+account locked due to suspicious activity
+account login alert
+account monitoring alert
+account notification
+account restriction
+account security alert
+account takeover detected
+account under investigation
+account verification alert
+account verification failed
+account verification needed
+suspicious login
+unrecognized login
+unusual account activity
+potential fraud detected
+security incident detected
+data security alert
+information security alert
+network security alert
+system security alert
+unauthorized transaction detected
+unusual transaction pattern
+suspicious purchase attempt
+suspicious withdrawal attempt
+suspicious transfer attempt
+new login location
+login from unusual location
+login from suspicious ip
+ip address blocked
+browser fingerprint mismatch
+suspicious browser activity
+new device detected
+unknown device access
+suspicious device activity
+account accessed from new device
+suspicious software detected
+unauthorized software installation
+unauthorized app access
+suspicious email attachment
+email containing suspicious link
+suspicious message received
+phishing message detected
+smishing attempt
+vishing attempt
+social engineering attempt
+credential phishing attempt
+password spray attack detected
+brute force attempt detected
+multiple failed login attempts detected
+login throttling activated
+account temporarily locked for security
+security freeze
+security hold
+fraud alert on account
+fraud monitoring alert
+identity monitoring alert
+identity protection alert
+credit monitoring alert
+dark web alert
+compromised credentials detected
+credentials found in breach
+password found in data breach
+email found in data breach
+username found in data breach
+phone number found in data breach
+personal information found on dark web
+ssn found in data breach
+date of birth found in data breach
+address found in data breach
+account recovery initiated
+account recovery attempt
+password reset requested by unknown party
+password change requested
+security settings changed
+2fa disabled
+mfa disabled
+two factor authentication disabled
+multi factor authentication disabled
+authentication method changed
+recovery email changed
+recovery phone changed
+trusted device removed
+login alert disabled
+security question changed
+account email changed
+account password changed
+new payment method added
+new bank account added
+new credit card added
+suspicious payment method
+unrecognized charge
+chargeback initiated
+payment dispute
+unauthorized purchase claim
+transaction reversal
+suspicious refund request
+suspicious withdrawal request
+suspicious transfer request
+suspicious payment request
+wire transfer fraud
+ach fraud
+check fraud
+credit card fraud
+debit card fraud
+payment fraud
+crypto fraud
+investment fraud
+ponzi scheme detected
+pyramid scheme detected
+advance fee fraud
+lottery scam detected
+inheritance scam detected
+romance scam detected
+employment scam detected
+rental scam detected
+ticket scam detected
+tech support scam detected
+irs scam detected
+social security scam detected
+medicare scam detected
+insurance scam detected
+loan scam detected
+scholarship scam detected
+charity scam detected
+disaster relief scam detected
+crowdfunding scam detected
+online marketplace scam detected
+fake check scam detected
+overpayment scam detected
+re shipping scam detected
+mystery shopper scam detected
+car wrap scam detected
+ EOFalternative login detected
+another device login
+attempted account access
+attempted breach
+attempted hack
+attempted intrusion
+attempted login
+attempted security breach
+attempted unauthorized access
+attempted violation
+authentication anomaly
+authentication failed
+authentication token expired
+authentication token stolen
+automated threat detected
+backdoor detected
+bank account compromise
+bank account hacked
+bank fraud alert
+banking credentials stolen
+banned account
+billing fraud
+biometric authentication failed
+biometric data breach
+biometric mismatch
+blacklisted device
+blacklisted ip
+bot attack
+bot detected
+bot login attempt
+brute force detected
+brute force login
+browser hijack detected
+browser not trusted
+browser session hijacked
+bulk account creation
+bulk suspicious activity
+cached credentials stolen
+cannot verify identity
+card cloning detected
+card compromised
+card fraud
+card not present fraud
+card skimming detected
+card testing fraud
+cellular authentication failed
+certificate error
+certificate expired
+certificate invalid
+certificate not trusted
+certificate revoked
+chargeback fraud
+child account compromise
+credential compromise
+credential harvesting
+credential stuffing attack
+critical security flaw
+cross site request forgery
+cross site scripting attack
+cryptocurrency scam
+current session invalid
+cyber attack
+cyber intrusion
+cyber threat detected
+data breach alert
+data exfiltration
+data integrity compromised
+data leak detected
+device authentication failed
+device ban
+device blacklisted
+device certificate invalid
+device compromised
+device fingerprint mismatch
+device flagged
+device hacked
+device integrity failed
+device jailbroken
+device malware detected
+device not authorized
+device not recognized
+device quarantined
+device rooted
+device security breach
+device tampered
+device untrusted
+DNS hijacking
+dormant account activated
+double authentication
+dubious activity
+dubious login
+dubious transaction
+email account hacked
+email breach
+email compromise
+email forwarding changed
+email hijacking
+email spoofing detected
+emergency account lock
+emergency security alert
+encrypted connection failed
+end to end encryption broken
+expired certificate
+fake app detected
+fake banking app
+fake cryptocurrency exchange
+fake login page
+fake notification
+fake payment site
+fake profile detected
+fake security alert
+fake shopping site
+fake verification
+financial fraud detected
+fingerprint authentication failed
+fraud pattern detected
+fraudulent account creation
+fraudulent application
+fraudulent claim
+fraudulent document
+fraudulent employment
+fraudulent enrollment
+fraudulent identity
+fraudulent investment
+fraudulent loan application
+fraudulent order
+fraudulent registration
+fraudulent transaction pattern
+generic phishing
+geo location anomaly
+government impersonation
+hacked session
+hardware security module failure
+hijacked account
+hijacked browser session
+hijacked email
+honeypot triggered
+hostile takeover
+hostile takeover attempt
+id verification failed
+identity document fraud
+identity mismatch
+identity theft report
+illegal access attempt
+impersonation attempt
+inappropriate access
+infected device detected
+infected download
+integrity check failed
+integrity compromise
+intrusion detection alert
+invalid authentication
+credentials
+invalid biometric
+invalid device certificate
+invalid login credentials
+invalid security certificate
+ip address blacklisted
+ip blocked
+ip flagged
+key logger detected
+keystroke logger
+location fraud
+location spoofing
+locked for suspicious activity
+login anomaly
+login attempt blocked
+login attempt from banned region
+login attempt from high risk country
+login attempt from unusual time
+login blocked
+login breach
+login credentials exposed
+login credentials leaked
+login from anonymous proxy
+login from blacklisted ip
+login from compromised device
+login from emulator
+login from known bad actor
+login from public computer
+login from TOR network
+login from VPN
+login from zombie computer
+malicious attachment
+malicious code injection
+malicious cookie
+malicious email
+malicious extension
+malicious file detected
+malicious iframe
+malicious intent detected
+malicious javascript
+malicious link clicked
+malicious payload
+malicious redirect
+malicious script
+malware infection
+man in the browser attack
+man in the middle attack
+mass compromise
+mass phishing campaign
+mass security breach
+mass suspicious activity
+mfa bypass attempt
+mfa token stolen
+mobile banking fraud
+mobile device compromise
+mobile malware
+network intrusion
+new device not authorized
+new device suspicious
+nonce reuse attack
+nonsecure connection
+not authorized device
+old password reused
+one click fraud
+otp bypass
+otp phishing
+out of band authentication failed
+password breach
+password changed by third party
+password compromise
+password exposed
+password hash leaked
+password in breach database
+password on blacklist
+password pattern detected
+password spray attack
+pattern of suspicious logins
+payment card fraud
+payment fraud
+payment fraud alert
+persistent threat detected
+personal information leaked
+pharming attack
+phishing campaign detected
+phishing kit detected
+phishing link clicked
+phishing malware
+phishing site detected
+phone number ported
+phone ported
+PIN brute force
+PIN compromise
+policy violation
+potentially harmful app
+previously breached password
+privilege escalation
+prohibited access
+proxy detected
+ransomware detected
+reconnaissance activity
+recursive security flaw
+redirect to malicious site
+registration fraud
+remote access trojan
+remote code execution
+report phishing attempt
+reported suspicious email
+reported suspicious message
+reputation risk
+credentials reused
+risky device
+risky login
+root access detected
+root certificate invalid
+rootkit detected
+routing anomaly
+same password different site
+screen scraping
+script injection
+second factor compromised
+secure connection required
+secure session expired
+secure session hijacked
+secure token expired
+secure token stolen
+security anomaly
+security audit failed
+security breach detected
+security certificate error
+security check required
+security compromise
+security control bypass
+security event detected
+security incident detected
+security patch required
+security policy violation
+security protocol failure
+security scan failed
+security token expired
+security token invalid
+security token not found
+security update required
+security vulnerability
+self XSS
+sensitive data access
+sensitive data breach
+sensitive data exposure
+sensitive data leak
+sensitive information accessed
+sensitive information compromised
+sensitive information disclosed
+sensitive information exposed
+sensitive information leaked
+sensitive information shared
+session anomaly
+session fixation
+session fixation attack
+session hijacking
+session id stolen
+session takeover
+session token compromised
+session token expired
+session token reuse
+shared credential breach
+shoulder surfing
+credentials in signature
+SIM cloning
+SIM swap attack
+SIM swapped
+SIM swapping
+SMS interception
+SMS phishing
+SMS spoofing
+social engineering attempt
+sophisticated attack
+spear phishing campaign
+spear phishing detected
+spike in failed logins
+spoofed certificate
+spoofed device
+spoofed email address
+spoofed message
+spoofed phone number
+spoofed sender
+spoofed session
+spoofed website
+spyware detected
+SQL injection
+SSL certificate error
+SSL pinning failure
+SSL stripping attack
+stolen account
+stolen biometric data
+stolen cookie
+stolen credentials
+stolen device
+stolen identity
+stolen laptop
+stolen phone
+stolen session
+suspicious account behavior
+suspicious API usage
+suspicious application behavior
+suspicious automation
+suspicious batch activity
+suspicious browsing pattern
+suspicious bulk action
+suspicious button click
+suspicious certificate
+suspicious connection
+suspicious cookie
+suspicious credit card use
+suspicious data access
+suspicious data export
+suspicious data pattern
+suspicious device behavior
+suspicious device fingerprint
+suspicious DNS query
+suspicious domain
+suspicious download
+suspicious email header
+suspicious encryption
+suspicious endpoint
+suspicious error message
+suspicious executable
+suspicious file access
+suspicious file behavior
+suspicious file extension
+suspicious form submission
+suspicious geolocation
+suspicious header
+suspicious host
+suspicious HTTP request
+suspicious inbound connection
+suspicious inbound traffic
+suspicious inquiry
+suspicious IP range
+suspicious JavaScript
+suspicious latency
+suspicious link domain
+suspicious login anomaly
+suspicious login pattern
+suspicious logout
+suspicious network activity
+suspicious network traffic
+suspicious new account
+suspicious new device
+suspicious new location
+suspicious OAuth request
+suspicious outbound connection
+suspicious outbound traffic
+suspicious packet
+suspicious password change
+suspicious pattern detected
+suspicious payment activity
+suspicious phone number
+suspicious port scan
+suspicious privilege escalation
+suspicious proxy usage
+suspicious referrer
+suspicious registration
+suspicious remote access
+suspicious request pattern
+suspicious script execution
+suspicious search behavior
+suspicious security event
+suspicious server request
+suspicious session behavior
+suspicious session creation
+suspicious session duration
+suspicious sign up
+suspicious SSL certificate
+suspicious timing
+suspicious TLS certificate
+suspicious token
+suspicious traffic spike
+suspicious transaction velocity
+suspicious update
+suspicious upload
+suspicious user agent
+suspicious user behavior
+suspicious verification attempt
+suspicious VPN usage
+suspicious web request
+suspicious website certificate
+suspicious whois data
+suspicious wireless connection
+system breach
+targeted attack
+targeted phishing
+targeted threat
+telemetry anomaly
+temporary block
+temporary restriction
+threat actor detected
+time based anomaly
+timezone anomaly
+TLS certificate error
+token compromise
+token manipulation
+token mismatch
+token not valid
+token replay
+token reuse
+token theft
+token timeout
+too many devices
+tor browser detected
+traffic anomaly
+unauthorized account creation
+unauthorized API access
+unauthorized biometric access
+unauthorized data access
+unauthorized device access
+unauthorized disclosure
+unauthorized download
+unauthorized email forwarding
+unauthorized file access
+unauthorized login detected
+unauthorized modification
+unauthorized password change
+unauthorized payment
+unauthorized permission grant
+unauthorized privilege escalation
+unauthorized remote access
+unauthorized request
+unauthorized session
+unauthorized sharing
+unauthorized software
+unauthorized transaction
+unauthorized upload
+unauthorized use
+unauthorized user detected
+unexplained account activity
+unexplained charges
+unfamiliar app
+unfamiliar charge
+unfamiliar device
+unfamiliar login location
+unfamiliar transaction
+unfamiliar website
+unrecognized application
+unrecognized authentication
+unrecognized biometric
+unrecognized browser
+unrecognized certificate
+unrecognized charge
+unrecognized connection
+unrecognized device type
+unrecognized email
+unrecognized file
+unrecognized login attempt
+unrecognized network
+unrecognized payment method
+unrecognized phone number
+unrecognized purchase
+unrecognized security alert
+unrecognized software
+unrecognized transaction
+unrecognized URL
+unsecure certificate
+unsecure connection
+unsecure network
+unsecure WiFi
+unsecured endpoint
+unsecured port
+untrusted application
+untrusted certificate
+untrusted connection
+untrusted device
+untrusted extension
+untrusted network
+untrusted source
+untrusted website
+unusual API call
+unusual authorization
+unusual biometric pattern
+unusual browsing
+unusual charge amount
+unusual data access
+unusual device usage
+unusual download activity
+unusual file access
+unusual geographic location
+unusual login time
+unusual network activity
+unusual payment pattern
+unusual permission request
+unusual purchase
+unusual refund request
+unusual session
+unusual spending pattern
+unusual time of access
+unusual transaction amount
+unusual upload activity
+unverified app
+unverified certificate
+unverified connection
+unverified device
+unverified download
+unverified email
+unverified link
+unverified login
+unverified payment
+unverified software
+unverified transaction
+unverified website
+unused account accessed
+URL manipulation
+user agent anomaly
+user behavior anomaly
+user privilege escalation
+vishing attempt
+voice authentication failed
+voice phishing
+volume based attack
+vulnerable endpoint detected
+web injection attack
+web shell detected
+website defacement
+wire fraud
+worm detected
+XSS attempt
+zero day exploit
+zombie computer
+zone transfer anomaly
+ EOF

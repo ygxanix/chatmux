@@ -1,0 +1,1301 @@
+# General Inquiry Keywords - Low Priority
+# Priority Level: LOW
+
+hello
+hi
+hey
+question
+i have a question
+can i ask
+wondering if
+curious about
+interested in
+looking for
+searching for
+need information
+more information
+can you tell me
+what is
+what are
+where is
+where can i find
+how much
+cost
+price
+pricing
+availability
+available
+in stock
+when will
+when can i
+how long
+timeframe
+timeline
+schedule
+hours of operation
+business hours
+open hours
+closed when
+location
+address
+directions
+contact info
+phone number
+email address
+customer service
+support team
+help center
+faq
+frequently asked questions
+return policy
+exchange policy
+refund policy
+warranty info
+terms and conditions
+privacy policy
+data policy
+cookie policy
+legal info
+terms of service
+user agreement
+can i get
+is it possible
+can you do
+would you
+will you
+could you
+is there
+are there
+do you have
+can i
+may i
+should i
+is this
+what happens if
+what about
+how about
+regarding
+about
+concerning
+in regards to
+with respect to
+feedback
+suggestion
+complaint
+grievance
+review
+rate
+rating
+experience
+testimonial
+share my thoughts
+positive feedback
+negative feedback
+constructive criticism
+ideas
+recommendations
+feature request
+improvement suggestion
+bug report
+feature suggestion
+what does this mean
+can you explain
+im not sure
+i don't understand
+unclear to me
+confused about this
+need clarity
+need confirmation
+can you confirm
+is this correct
+is that right
+verify this
+double check
+just checking
+quick question
+simple question
+one question
+another question
+follow up question
+more questions
+i have questions
+question about
+inquiry regarding
+asking about
+wondering about
+curious if
+interested to know
+would like to know
+want to know
+need to know
+looking for info
+seeking information
+info needed
+request for info
+more details
+specifics
+particulars
+clarification needed
+can you clarify
+could you clarify
+help me understand
+explain this to me
+break this down
+make sense of this
+walk me through
+im trying to understand
+im trying to figure out
+how does this work
+how does that work
+what happens next
+what comes next
+whats the process
+what is the procedure
+how do i proceed
+what should i do next
+next steps
+whats the next step
+can i do this
+is it okay to
+is it alright to
+is this allowed
+am i allowed to
+can i get permission
+is permission needed
+do i need approval
+approval required
+can you approve
+permission to
+authorization for
+consent for
+agreement on
+terms acceptable
+conditions acceptable
+is this standard
+is this normal
+is this typical
+whats standard
+whats usual
+whats common
+is there a standard
+is there a policy
+whats the policy
+policy question
+guideline question
+rule question
+procedure question
+protocol question
+best practice
+can you recommend
+any recommendations
+what do you suggest
+what would you suggest
+any suggestions
+your thoughts
+your opinion
+what do you think
+im thinking about
+considering this
+pondering
+weighing options
+comparing options
+which is better
+which do you prefer
+which should i choose
+help me decide
+need advice
+seeking advice
+looking for guidance
+could use some help
+assistance appreciated
+any assistance
+your assistance
+kindly help
+please assist
+could you help
+would you mind helping
+if you could help
+can someone help
+is anyone there
+are you there
+are you available
+when are you available
+availability check
+are you open
+is this open
+hours question
+what are your hours
+when do you open
+when do you close
+what time
+what day
+which day
+what date
+specific date
+time availability
+time slot
+when works
+when is good
+when is convenient
+best time
+suitable time
+convenient time
+work for you
+works for me
+that works
+that doesn't work
+can we reschedule
+reschedule request
+move appointment
+change time
+change date
+switch time
+switch date
+different time
+different date
+another time
+another date
+earlier time
+later time
+sooner
+later
+asap
+whenever
+flexible
+not flexible
+strict deadline
+tight deadline
+loose deadline
+no rush
+take your time
+whenever you can
+at your convenience
+at your earliest convenience
+whenever works
+im flexible
+not in a hurry
+no deadline
+open ended
+pending
+on hold
+wait and see
+still deciding
+undecided
+not sure yet
+maybe
+possibly
+perhaps
+could be
+might be
+can be
+should be
+will be
+would be
+may be
+ought to be
+likely
+probably
+most likely
+unlikely
+could happen
+might happen
+will happen
+should happen
+what if
+suppose that
+assuming that
+in case
+just in case
+if possible
+if you can
+if its possible
+would it be possible
+is it possible
+could it be
+is there a way
+can we
+should we
+would we
+will we
+are we
+were we
+was there
+has there been
+have there been
+is there any
+are there any
+do you have any
+would you have any
+could you have any
+is this available
+are these available
+do you have this
+do you have these
+in stock
+out of stock
+available now
+sold out
+discontinued
+back in stock
+coming soon
+new arrival
+brand new
+latest model
+newest version
+updated version
+current version
+previous version
+older version
+old model
+refurbished
+pre owned
+used
+second hand
+like new
+mint condition
+excellent condition
+good condition
+fair condition
+worn
+has wear
+signs of use
+some damage
+fully functional
+working condition
+as is
+where is
+where can
+where do i find
+where to find
+where is it
+where are they
+location of
+place where
+spot where
+address of
+location question
+directions to
+how to get to
+how do i get there
+whats the address
+street address
+mailing address
+shipping address
+billing address
+home address
+work address
+current address
+previous address
+change address
+update address
+wrong address
+correct address
+verify address
+confirm address
+address confirmation
+ EOFwhat is your policy
+return policy question
+exchange policy question
+refund policy question
+warranty question
+warranty information
+how long is warranty
+coverage question
+what is covered
+not covered
+exclusions
+limitations
+time limit
+money back guarantee
+satisfaction guarantee
+do you offer guarantee
+what is guarantee
+policy details
+where to find policy
+read policy
+terms and conditions question
+terms of service question
+user agreement question
+legal terms
+legal information
+legal questions
+compliance question
+regulatory question
+industry standards
+compliance requirements
+data protection question
+data privacy question
+GDPR question
+CCPA question
+privacy rights
+data rights
+right to be forgotten
+access my data
+delete my data
+export my data
+data portability
+data breach question
+was my data compromised
+has there been a breach
+security incident
+am i affected
+personal information
+PII question
+personally identifiable information
+sensitive data
+credit card information
+payment information security
+is my payment secure
+secure checkout
+encryption question
+SSL certificate
+is site secure
+security certificate
+https question
+secure connection
+trusted site
+verified site
+site legitimacy
+is this legit
+is this real
+is this authentic
+genuine product
+authentic product
+counterfeit concern
+fake product worry
+is this official
+authorized dealer
+authorized seller
+authorized retailer
+official distributor
+official partner
+certified
+verified seller
+trusted seller
+reputable seller
+seller rating
+seller reviews
+seller feedback
+where is this from
+country of origin
+made in
+manufactured in
+assembled in
+domestic or imported
+imported goods
+local products
+support local
+where are you located
+where is company located
+headquarters location
+where is hq
+company address
+business address
+registered address
+office location
+regional office
+local office
+international shipping
+do you ship internationally
+overseas shipping
+global shipping
+worldwide delivery
+international delivery
+shipping worldwide
+domestic shipping
+local delivery
+regional shipping
+shipping zones
+shipping restrictions
+where do you ship
+countries you ship to
+shipping destinations
+available in my country
+available in my region
+ship to my address
+ship to this location
+delivery to zip code
+delivery area
+service area
+coverage area
+available locations
+availability by region
+can i order from
+can you deliver to
+zip code check
+postal code check
+enter zip code
+shipping calculator
+shipping estimator
+calculate shipping
+estimate delivery
+how much is shipping
+shipping cost
+shipping fee
+delivery fee
+handling fee
+processing fee
+additional charges
+hidden charges
+extra fees
+surcharge
+are there extra costs
+total cost
+final price
+what will i pay
+total amount
+total due
+amount charged
+charge amount
+will i be charged
+when will i be charged
+billing date
+charge date
+payment date
+due date for payment
+when is payment due
+payment schedule
+payment plan
+installment plan
+can i pay in installments
+monthly payments
+split payments
+divided payments
+payment options
+ways to pay
+how can i pay
+what payment methods
+accepted payment
+payment types
+credit cards accepted
+debit card accepted
+which cards do you take
+visa accepted
+mastercard accepted
+amex accepted
+discover accepted
+paypal accepted
+apple pay
+google pay
+venmo accepted
+zelle accepted
+bank transfer
+wire transfer accepted
+check payment
+cash payment
+COD
+cash on delivery
+buy now pay later
+BNPL
+affirm
+klarna
+afterpay
+sezzle
+quadpay
+splitit
+financing available
+financing options
+credit check
+no credit check financing
+interest free
+payment in full
+full payment
+partial payment
+down payment
+deposit required
+how much deposit
+refundable deposit
+security deposit
+holding fee
+reservation fee
+booking fee
+service fee
+convenience fee
+subscription fee
+membership fee
+annual fee
+monthly fee
+recurring charge
+automatic renewal
+auto renew
+will it renew
+can i cancel renewal
+how to cancel renewal
+cancel auto renew
+stop recurring payments
+manage subscription
+subscription settings
+billing settings
+payment settings
+account settings
+profile settings
+notification settings
+email preferences
+marketing preferences
+communication preferences
+privacy settings
+security settings
+two factor authentication settings
+2fa settings
+password settings
+change password
+reset password
+forgot password
+password recovery
+account recovery
+recover account
+restore account
+reactivate account
+close account
+delete account permanently
+remove my account
+can i delete account
+how to delete account
+account deletion
+account termination
+close my account
+shut down account
+discontinue service
+cancel service
+stop service
+end membership
+leave service
+quit service
+opt out completely
+remove my data
+data deletion
+erase my data
+forget me
+right to deletion
+can i remove everything
+start over
+fresh start
+new account
+multiple accounts
+can i have multiple accounts
+family plan
+group plan
+team account
+business account
+enterprise account
+upgrade account
+downgrade account
+switch plan
+change tier
+subscription tier
+plan comparison
+compare plans
+which plan is best
+recommended plan
+suggested plan
+plan recommendation
+what do i need
+which should i choose
+help me pick
+what suits me
+best option for me
+cheapest option
+most expensive
+premium option
+basic option
+standard option
+pro option
+plus option
+elite option
+gold tier
+silver tier
+bronze tier
+platinum tier
+diamond tier
+custom plan
+tailored solution
+bespoke solution
+enterprise solution
+corporate solution
+business solution
+personal solution
+individual plan
+solo plan
+starter plan
+beginner plan
+basic plan
+free plan
+trial plan
+limited plan
+full access
+complete access
+unlimited access
+restricted access
+limited access
+time limited
+trial period
+grace period
+free period
+introductory period
+promotional period
+special period
+how long does it last
+duration
+length of time
+time frame
+period length
+when does it end
+expiration
+valid through
+valid until
+valid from
+start date
+end date
+commencement
+termination
+cancellation effective when
+when does cancellation take effect
+can i get refund after cancel
+prorated refund
+partial refund
+full refund
+no refund
+refund timeline
+refund policy details
+money back timeline
+when will refund arrive
+refund method
+how will i be refunded
+original payment method
+different refund method
+store credit
+gift card refund
+check refund
+cash refund
+bank transfer refund
+digital refund
+refund confirmation
+refund notification
+refund tracking
+track refund
+where is my refund
+refund status
+pending refund
+processed refund
+completed refund
+failed refund
+refund declined
+refund rejected
+refund denied
+can't get refund
+why was refund denied
+refund appeal
+refund dispute
+chargeback
+dispute charge
+contest charge
+reverse charge
+credit card dispute
+unauthorized charge dispute
+fraudulent charge dispute
+dispute transaction
+file dispute
+open dispute
+dispute status
+won dispute
+lost dispute
+dispute evidence
+provide proof
+supporting documents
+receipt needed
+proof of purchase
+order confirmation
+invoice needed
+billing statement
+bank statement
+payment confirmation
+transaction ID
+reference number
+order number
+ticket number
+support ticket
+case number
+incident number
+request number
+claim number
+reference ID
+where can i find
+how to locate
+find my order
+track my order
+order status
+where is my order
+shipping status
+delivery status
+has it shipped
+when will it ship
+expected ship date
+ship date
+pick up date
+ready for pickup
+pickup location
+pickup time
+pickup instructions
+store hours for pickup
+curbside pickup
+contactless pickup
+in store pickup
+ship to store
+buy online pick up in store
+BOPIS
+ship from store
+direct from store
+warehouse shipment
+fulfillment center
+distribution center
+shipping origin
+where shipped from
+shipper information
+courier information
+delivery service
+shipping partner
+shipping company
+carrier information
+which carrier
+FedEx tracking
+UPS tracking
+USPS tracking
+DHL tracking
+ontrac tracking
+lasership tracking
+amazon logistics tracking
+track shipment
+tracking number
+tracking ID
+where is tracking number
+can't find tracking
+lost tracking number
+how to track
+where to track
+online tracking
+track package
+track parcel
+track delivery
+track shipment
+real time tracking
+live tracking
+current location
+last known location
+in transit
+out for delivery
+delivered
+attempted delivery
+failed delivery
+delivery exception
+delivery failed
+delivery refused
+delivery rescheduled
+held at facility
+held for pickup
+held for customs
+customs hold
+customs clearance
+customs duty
+customs fees
+import tax
+duty fees
+brokerage fees
+COD fees
+delivery instructions
+special instructions
+handling instructions
+care instructions
+fragile
+delicate
+handle with care
+this side up
+temperature sensitive
+perishable
+hazardous materials
+dangerous goods
+restricted items
+prohibited items
+forbidden items
+can't ship this
+shipping restrictions
+what can't you ship
+denied shipment
+return to sender
+undeliverable
+address undeliverable
+insufficient address
+wrong address
+invalid address
+no such address
+address doesn't exist
+recipient moved
+recipient unknown
+addressee unknown
+forwarding address expired
+unable to forward
+returned to sender
+RTS
+address correction needed
+address update needed
+confirm delivery address
+verify shipping address
+wrong item received
+incorrect item
+damaged item received
+broken item
+item defective
+item not working
+item missing parts
+incomplete order
+partial delivery
+short shipment
+over shipment
+extra items received
+not what i ordered
+order error
+shipping error
+fulfillment error
+packing error
+labeling error
+sent to wrong address
+delivered to wrong address
+package stolen
+package lost
+missing package
+where is my package
+package not delivered
+didn't receive package
+never arrived
+never got it
+still waiting
+waiting for delivery
+late delivery
+delayed delivery
+delivery delayed
+shipment delayed
+shipping delay
+when will it arrive
+estimated arrival
+ETA
+expected arrival
+scheduled delivery
+delivery window
+delivery timeframe
+delivery appointment
+scheduled appointment
+delivery slot
+time slot available
+preferred time
+delivery time options
+deliver on weekend
+deliver after hours
+evening delivery
+morning delivery
+signature required
+adult signature required
+indirect signature
+direct signature
+no signature required
+leave at door
+leave with neighbor
+leave in safe place
+authority to leave
+ATL
+package left at door
+delivered to front porch
+delivered to mailbox
+delivered to office
+delivered to concierge
+delivered to leasing office
+delivered to reception
+delivered to mailroom
+delivered to locker
+package locker
+amazon locker
+smart locker
+pickup point
+collection point
+delivery point
+access point
+retail location
+partner location
+drop off location
+ship from location
+return location
+return center
+returns facility
+where to return
+how to return
+return process
+return steps
+return instructions
+initiate return
+start return
+begin return process
+return label
+return shipping label
+prepaid label
+print return label
+create return
+request return
+submit return
+return request
+return authorization
+RMA
+return merchandise authorization
+RA number
+return approval
+approved for return
+return window
+return period
+time to return
+how long to return
+extended return
+holiday return policy
+seasonal return policy
+gift return
+return without receipt
+can i return this
+is this returnable
+return eligibility
+eligible for return
+not eligible
+final sale
+no returns
+non returnable
+exchange only
+store credit only
+no exchanges
+exchange window
+exchange period
+time to exchange
+how long to exchange
+can i exchange this
+is this exchangeable
+exchange eligibility
+eligible for exchange
+swap item
+switch item
+replace item
+replacement needed
+can i get replacement
+request replacement
+need replacement
+broken need new
+defective need replacement
+damaged need replacement
+wrong size need exchange
+wrong color need exchange
+wrong item need exchange
+different size
+size up
+size down
+alternate size
+alternate color
+different style
+different model
+newer version
+updated version
+latest model
+current model
+outdated model
+older model
+previous generation
+next generation
+upgrade model
+replacement model
+compatible model
+comparable product
+similar item
+matching item
+alternative product
+substitute product
+equivalent product
+comparable option
+similar option
+budget option
+economy option
+premium option
+luxury option
+high end option
+mid range option
+entry level option
+professional grade
+consumer grade
+commercial grade
+industrial grade
+medical grade
+food grade
+safety certified
+UL listed
+CE marked
+FCC certified
+FDA approved
+USDA approved
+EPA registered
+BBB accredited
+ISO certified
+organic certified
+fair trade certified
+rainforest alliance
+non GMO verified
+vegan certified
+kosher certified
+halal certified
+quality assured
+quality tested
+lab tested
+third party tested
+independently verified
+scientifically proven
+clinically proven
+doctor recommended
+dentist recommended
+veterinarian recommended
+pediatrician recommended
+pediatrician approved
+baby safe
+child safe
+pet safe
+non toxic
+environmentally safe
+green product
+sustainable product
+eco friendly
+biodegradable
+recyclable
+made from recycled materials
+renewable resources
+low carbon footprint
+carbon neutral
+climate positive
+B corp certified
+benefit corporation
+socially responsible
+ethically sourced
+fair labor
+fair wage
+worker owned
+cooperative
+minority owned
+woman owned
+veteran owned
+small business
+local business
+family owned
+handmade
+artisan made
+craft made
+small batch
+limited production
+made to order
+bespoke
+custom made
+tailored
+personalized
+monogrammed
+engraved
+embossed
+printed on demand
+POD
+custom printed
+white label
+private label
+store brand
+name brand
+national brand
+international brand
+global brand
+luxury brand
+designer brand
+boutique brand
+exclusive brand
+vintage brand
+heritage brand
+legacy brand
+iconic brand
+cult brand
+niche brand
+specialty brand
+specialized product
+category leader
+category dominant
+market leader
+best selling
+top selling
+number one selling
+most popular
+most loved
+highest rated
+top rated
+five star rated
+award winning
+prize winning
+acclaimed
+critically acclaimed
+expert approved
+professional approved
+industry approved
+benchmark product
+gold standard
+platinum standard
+flagship product
+signature product
+hero product
+star product
+core product
+essential product
+must have item
+cult favorite
+fan favorite
+customer choice
+people's choice
+clear winner
+runaway hit
+breakout hit
+viral hit
+social media sensation
+trending product
+viral product
+current trend
+hot trend
+top trend
+latest trend
+emerging trend
+new trend
+popular trend
+massive trend
+viral trend
+social media trend
+TikTok made me buy it
+Instagram famous
+TikTok famous
+viral on TikTok
+viral on Instagram
+seen on social media
+as seen on TikTok
+as seen on Instagram
+as seen on YouTube
+influencer approved
+influencer recommended
+celebrity endorsed
+celebrity favorite
+celebrity used
+used by celebrities
+red carpet approved
+award show favorite
+hollywood approved
+seen on TV
+as seen on TV
+TV advertised
+commercial product
+infomercial
+home shopping
+QVC product
+home shopping network
+direct response
+DRTV
+informercial special
+limited TV offer
+as advertised on TV
+ EOF

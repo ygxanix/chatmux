@@ -1,0 +1,1642 @@
+# Account/Financial Keywords - High Priority
+# Priority Level: HIGH
+
+# Credits/deposits (money received, payment received, etc.)
+account credited
+money received
+payment received
+transfer received
+deposit received
+refund received
+refund processed
+credit applied
+balance updated
+amount credited
+funds received
+incoming transfer
+deposit confirmed
+money deposited
+credit to account
+direct deposit received
+salary credited
+paycheck deposited
+wages received
+commission received
+dividend received
+interest credited
+cashback received
+cashback credited
+reward points credited
+bonus received
+refund issued
+refund deposited
+return processed
+merchant refund
+seller refund
+partial refund
+full refund
+deposit confirmation
+deposit successful
+funds available
+money available
+balance increase
+credit limit increase
+credit limit approved
+payment credited
+wire received
+remittance received
+money transfer received
+peer to peer received
+p2p payment received
+mobile deposit
+check deposited
+electronic deposit
+auto deposit
+scheduled deposit
+deposit scheduled
+
+# Debits/charges (money deducted, payment deducted, etc.)
+account debited
+money deducted
+payment deducted
+charge on account
+unauthorized charge
+suspicious charge
+unknown charge
+charge dispute
+dispute transaction
+deducted from account
+funds deducted
+money taken out
+withdrawal made
+cash withdrawal
+atm withdrawal
+debited amount
+charge applied
+fee charged
+service fee
+maintenance fee
+monthly fee
+annual fee
+overdraft fee
+late fee
+penalty charge
+processing fee
+transaction fee
+foreign transaction fee
+wire transfer fee
+atm fee
+cash advance fee
+balance transfer fee
+payment deducted
+auto debit
+automatic payment
+recurring deduction
+subscription deducted
+membership fee
+administration fee
+documentation fee
+setup fee
+activation fee
+cancellation fee
+early termination fee
+account closure fee
+minimum balance fee
+inactive account fee
+excess transaction fee
+over limit fee
+returned payment fee
+stop payment fee
+check printing fee
+statement fee
+paper statement fee
+replacement card fee
+pin change fee
+balance inquiry fee
+
+# Failed transactions (payment failed, declined, etc.)
+payment failed
+payment declined
+transaction declined
+transaction failed
+transaction error
+transaction cancelled
+failed transfer
+failed transaction
+unsuccessful payment
+unsuccessful transaction
+payment unsuccessful
+transaction unsuccessful
+processing failed
+authorization failed
+payment rejected
+transaction rejected
+payment blocked
+transaction blocked
+payment stopped
+transaction stopped
+declined by bank
+declined by issuer
+declined by merchant
+insufficient funds
+declined insufficient funds
+payment not processed
+transaction not processed
+error processing payment
+payment gateway error
+payment timeout
+transaction timeout
+network error
+connection error
+card declined
+debit card declined
+credit card declined
+generic decline
+soft decline
+hard decline
+issuer declined
+acquirer declined
+merchant declined
+try another card
+card not accepted
+payment method declined
+3d secure failed
+authentication failed
+verification failed
+authorization error
+settlement failed
+batch failed
+reconciliation error
+
+# Balance issues (low balance, overdraft, etc.)
+insufficient balance
+low balance
+zero balance
+negative balance
+overdraft
+account overdrawn
+overdrawn account
+balance too low
+minimum balance not met
+balance below minimum
+account balance low
+running low on funds
+low funds
+no money in account
+empty account
+balance insufficient
+not enough money
+insufficient funds
+funds unavailable
+unavailable funds
+hold on funds
+frozen funds
+blocked funds
+reserved amount
+pending balance
+available balance
+ledger balance
+running balance
+balance mismatch
+balance discrepancy
+balance not updated
+wrong balance
+incorrect balance
+balance error
+balance inquiry
+balance check
+statement balance
+current balance
+ending balance
+opening balance
+average balance
+daily balance
+minimum balance requirement
+maintaining balance
+balance maintenance fee
+overdraft protection
+overdraft line of credit
+overdraft limit
+overdraft fee waived
+overdraft transfer
+overdraft coverage
+opt in overdraft
+opt out overdraft
+
+# Card problems (card blocked, expired, not working, etc.)
+card blocked
+card frozen
+card expired
+card not working
+card declined
+new card needed
+replace card
+lost card
+stolen card
+card damaged
+card broken
+card chip not working
+card magnetic stripe damaged
+card unreadable
+card invalid
+card error
+invalid card number
+invalid expiration date
+invalid cvv
+card verification failed
+card authentication failed
+3d secure error
+card restricted
+card limited
+card suspended
+card deactivated
+card cancelled
+card closed
+card replacement
+card renewal
+card reissue
+card not received
+new card not arrived
+replacement card status
+card delivery
+card shipping
+card tracking
+card activation
+card not activated
+activate new card
+pin not working
+forgot pin
+reset pin
+change pin
+pin locked
+pin blocked
+pin tries exceeded
+wrong pin entered
+pin authentication failed
+card locked
+card limit reached
+daily card limit
+monthly card limit
+international card usage
+card not working abroad
+card blocked overseas
+foreign card usage
+card usage blocked
+atm card not working
+pos card not working
+online card not working
+contactless not working
+chip card issues
+swipe not working
+pin pad error
+
+# Fraud/security alerts
+fraud alert
+suspicious activity
+account compromised
+unauthorized access
+unauthorized transaction
+unauthorized purchase
+unauthorized withdrawal
+unauthorized transfer
+unauthorized charge
+suspicious login
+login from unknown device
+login from new location
+unusual activity
+unusual transaction
+unusual purchase
+security alert
+security breach
+security incident
+security concern
+security notification
+security warning
+account hacked
+account breached
+phishing attempt
+phishing email
+phishing text
+smishing
+vishing
+social engineering
+identity theft
+identity stolen
+stolen identity
+fraudulent charge
+fraudulent transaction
+fraudulent activity
+report fraud
+fraud report
+fraud investigation
+fraud case
+fraud dispute
+chargeback
+chargeback request
+chargeback dispute
+dispute charge
+flag transaction
+transaction flagged
+review transaction
+hold on account
+account restricted
+account limited
+temporary block
+freeze account
+unfreeze account
+lift restriction
+remove block
+verify identity
+identity verification
+security verification
+security question
+security code
+otp not received
+verification code
+authentication code
+two factor authentication
+2fa issue
+biometric authentication failed
+face recognition failed
+fingerprint not working
+
+# Verification requirements
+verification required
+additional verification
+document required
+proof of identity
+identity proof
+documents needed
+upload documents
+submit documents
+document upload
+kyc required
+know your customer
+kyc verification
+kyc pending
+kyc incomplete
+kyc update
+update kyc
+address verification
+address proof
+residence proof
+utility bill required
+bank statement required
+income proof
+salary proof
+employment verification
+employment proof
+self employed documents
+business verification
+business documents
+tax document required
+tax id verification
+tax identification
+pan card required
+ssn required
+social security verification
+government id required
+passport required
+driver license required
+national id required
+id upload
+photo id required
+selfie required
+video verification
+live verification
+in person verification
+branch visit required
+notarized documents
+apostille documents
+certified copy
+original documents
+document rejected
+document unclear
+document expired
+document invalid
+expired id
+expired passport
+expired license
+update address
+update phone
+update email
+update personal information
+profile update required
+information mismatch
+name mismatch
+date of birth wrong
+
+# Transfer issues
+transfer failed
+transfer declined
+transfer rejected
+transfer cancelled
+transfer stopped
+transfer on hold
+transfer pending
+transfer delayed
+transfer not received
+transfer not showing
+missing transfer
+lost transfer
+transfer stuck
+transfer processing
+transfer in progress
+transfer incomplete
+transfer incomplete
+partial transfer
+incomplete transfer
+transfer amount wrong
+wrong transfer amount
+incorrect transfer amount
+transfer to wrong account
+sent to wrong account
+wrong recipient
+incorrect beneficiary
+beneficiary details wrong
+account number wrong
+ifsc code wrong
+swift code wrong
+routing number wrong
+transfer limits
+transfer limit exceeded
+daily transfer limit
+monthly transfer limit
+transfer fee
+transfer charges
+transfer fees too high
+transfer timing
+when will transfer arrive
+transfer arrival time
+transfer settlement time
+same day transfer
+next day transfer
+instant transfer
+transfer not instant
+delayed transfer
+transfer reversal
+transfer recall
+transfer cancellation
+cancel transfer
+modify transfer
+edit transfer
+transfer modification
+add beneficiary
+remove beneficiary
+beneficiary not added
+beneficiary pending
+beneficiary approval
+
+# Refund requests/status
+refund request
+refund status
+where is my refund
+refund not received
+refund pending
+refund processing
+refund approved
+refund rejected
+refund denied
+refund cancelled
+refund delayed
+refund timeline
+refund time
+when will i get refund
+how long for refund
+refund amount wrong
+partial refund
+full refund expected
+merchant refund
+seller refund
+refund policy
+refund eligibility
+refund not processed
+refund stuck
+refund error
+refund failed
+refund dispute
+chargeback request
+request chargeback
+dispute charge
+refund form
+refund application
+refund claim
+claim refund
+demand refund
+ask for refund
+request money back
+get my money back
+return and refund
+cancel and refund
+refund confirmation
+refund receipt
+refund notification
+refund email
+refund sms
+refund credited
+refund deposited
+refund to card
+refund to account
+refund to wallet
+refund to bank
+refund method
+refund options
+choose refund method
+cash refund
+store credit
+exchange instead
+
+# Billing problems
+billing issue
+billing error
+billing discrepancy
+wrong bill
+incorrect bill
+wrong charge
+incorrect charge
+wrong amount charged
+charged wrong amount
+overcharged
+undercharged
+missing charge
+missing payment
+payment not applied
+payment not credited
+billing cycle
+billing period
+billing date
+billing statement
+billing history
+billing summary
+billing detail
+itemized bill
+detailed bill
+billing breakdown
+understand my bill
+explain charges
+what is this charge
+unknown charge on bill
+unrecognized charge
+unexpected charge
+surprise charge
+billing question
+billing inquiry
+billing dispute
+dispute bill
+contest charge
+billing adjustment
+adjust my bill
+correct my bill
+bill correction
+billing update
+update billing
+change billing address
+update billing address
+billing email
+billing notification
+billing reminder
+past due bill
+overdue bill
+late bill
+final bill
+closing bill
+pro rated bill
+prorated charge
+pro rated refund
+billing support
+billing department
+
+# Subscription charges
+subscription charge
+recurring payment
+auto debit
+automatic payment
+standing order
+direct debit
+subscription fee
+monthly subscription
+annual subscription
+yearly subscription
+quarterly subscription
+weekly subscription
+daily subscription
+subscription renewal
+auto renewal
+subscription cancelled
+subscription expired
+subscription active
+subscription paused
+subscription resumed
+subscription modified
+change subscription
+upgrade subscription
+downgrade subscription
+cancel subscription
+end subscription
+stop subscription
+subscription refund
+subscription billing
+subscription payment
+subscription charge date
+subscription amount
+subscription cost
+subscription price
+subscription increase
+price hike
+rate increase
+subscription terms
+subscription agreement
+subscription contract
+free trial ended
+trial converted
+subscription started
+new subscription
+multiple subscriptions
+duplicate subscription
+subscription error
+subscription not working
+subscription benefits
+subscription features
+access subscription
+subscription login
+subscription account
+membership charge
+membership fee
+membership renewal
+membership cancelled
+membership upgrade
+membership downgrade
+
+# Limits reached
+limit reached
+credit limit reached
+spending limit reached
+transfer limit reached
+daily limit reached
+monthly limit reached
+yearly limit reached
+withdrawal limit reached
+deposit limit reached
+purchase limit reached
+online limit reached
+atm limit reached
+pos limit reached
+contactless limit reached
+limit exceeded
+over limit
+limit reached error
+cannot exceed limit
+maximum limit
+limit cap
+account limit
+profile limit
+verified limit
+unverified limit
+tier limit
+upgrade limit
+increase limit
+limit increase
+request limit increase
+apply for higher limit
+limit restriction
+temporary limit
+permanent limit
+hard limit
+soft limit
+limit warning
+approaching limit
+near limit
+80 percent limit
+90 percent limit
+limit utilization
+limit usage
+available limit
+remaining limit
+credit available
+available credit
+spending power
+purchasing power
+transfer capacity
+
+# Currency/exchange issues
+currency exchange
+exchange rate
+foreign currency
+foreign transaction
+international transaction
+overseas transaction
+abroad transaction
+currency conversion
+conversion rate
+exchange fee
+currency fee
+forex fee
+foreign transaction fee
+international fee
+currency not supported
+unsupported currency
+exchange rate wrong
+wrong exchange rate
+bad exchange rate
+unfair exchange rate
+rate fluctuation
+exchange rate changed
+historic exchange rate
+spot rate
+mid market rate
+interbank rate
+buy rate
+sell rate
+bid rate
+ask rate
+currency pair
+base currency
+quote currency
+usd to eur
+eur to usd
+gbp to usd
+usd to gbp
+jpy to usd
+usd to inr
+inr to usd
+cny to usd
+usd to cny
+cad to usd
+aud to usd
+chf to usd
+sek to usd
+nzd to usd
+krw to usd
+mxn to usd
+brl to usd
+zar to usd
+rub to usd
+crypto exchange
+bitcoin exchange
+ethereum exchange
+crypto to fiat
+fiat to crypto
+stablecoin
+conversion error
+currency conversion failed
+exchange failed
+
+# Payment method issues
+payment method declined
+payment method error
+payment method not working
+invalid payment method
+unsupported payment method
+payment method expired
+payment method removed
+payment method added
+update payment method
+change payment method
+new payment method
+add payment method
+delete payment method
+remove payment method
+saved payment methods
+payment method list
+default payment method
+primary payment method
+backup payment method
+secondary payment method
+payment method verification
+verify payment method
+payment method pending
+payment method restricted
+payment method blocked
+payment method frozen
+payment method suspended
+credit card issue
+debit card issue
+prepaid card issue
+gift card issue
+virtual card issue
+digital card issue
+bank account issue
+savings account issue
+checking account issue
+current account issue
+net banking issue
+online banking issue
+mobile banking issue
+check payment issue
+cash payment issue
+voucher issue
+coupon issue
+promo code issue
+discount code issue
+gift voucher
+store credit issue
+payment wallet issue
+mobile wallet issue
+payment app issue
+payment link issue
+qr code payment
+nfc payment issue
+contactless payment issue
+tap to pay issue
+biometric payment
+payment method compatibility
+payment method accepted
+payment method not accepted
+
+# Tax-related
+tax refund
+tax payment
+tax return
+tax filing
+tax season
+tax year
+tax bracket
+tax rate
+tax deduction
+tax credit
+tax liability
+tax owed
+tax due
+tax deadline
+tax extension
+tax form
+tax document
+tax receipt
+tax invoice
+tax statement
+tax summary
+tax calculation
+tax software
+tax preparer
+tax accountant
+tax advisor
+tax professional
+tax help
+tax question
+tax inquiry
+tax audit
+tax review
+tax notice
+tax bill
+tax penalty
+tax interest
+tax lien
+tax levy
+tax garnishment
+w2 form
+1099 form
+1040 form
+schedule c
+schedule d
+schedule e
+itemized deductions
+standard deduction
+personal exemption
+dependent deduction
+capital gains tax
+income tax
+sales tax
+use tax
+property tax
+estate tax
+gift tax
+self employment tax
+payroll tax
+withholding tax
+fica tax
+medicare tax
+social security tax
+federal tax
+state tax
+local tax
+international tax
+foreign tax credit
+tax treaty
+double taxation
+tax haven
+tax shelter
+tax planning
+tax strategy
+tax optimization
+
+# Loan/mortgage payments
+loan payment
+mortgage payment
+loan due
+mortgage due
+loan installment
+mortgage installment
+monthly payment
+due date
+payment date
+payment schedule
+amortization schedule
+payment amount
+principal payment
+interest payment
+escrow payment
+property tax payment
+insurance payment
+hoa payment
+hoa dues
+late payment
+missed payment
+missed installment
+payment bounced
+payment returned
+insufficient funds payment
+automatic loan payment
+auto debit loan
+loan payment failed
+mortgage payment failed
+loan servicer
+mortgage servicer
+loan company
+mortgage company
+mortgage lender
+loan officer
+escrow account
+escrow analysis
+escrow shortage
+escrow surplus
+impound account
+prepayment
+payoff amount
+early payoff
+lump sum payment
+extra payment
+additional principal
+recast mortgage
+refinance mortgage
+loan modification
+forbearance
+deferment
+loan deferral
+payment deferral
+grace period
+late fee
+penalty interest
+prepayment penalty
+balloon payment
+adjustable rate
+fixed rate
+interest rate
+apr
+annual percentage rate
+loan term
+mortgage term
+15 year mortgage
+30 year mortgage
+
+# EMI/installment issues
+emi issue
+emi payment
+emi due
+emi date
+emi amount
+emi schedule
+emi not deducted
+emi failed
+emi bounced
+emi returned
+emi late
+emi missed
+emi overdue
+emi penalty
+emi interest
+reduce emi
+increase emi
+emi holiday
+emi moratorium
+emi deferment
+emi pause
+emi skip
+emi modification
+emi restructuring
+emi rescheduling
+emi calculator
+emi formula
+installment plan
+installment payment
+installment due
+installment schedule
+monthly installment
+quarterly installment
+pay in installments
+buy now pay later
+bnpl
+split payment
+divided payment
+partial payment plan
+payment plan
+financing plan
+consumer finance
+retail finance
+point of sale financing
+pos financing
+no cost emi
+zero percent emi
+interest free emi
+processing fee emi
+cancel emi
+foreclose emi
+prepay emi
+early emi payment
+complete emi
+
+# Insurance premiums
+insurance premium
+premium payment
+premium due
+premium date
+premium amount
+monthly premium
+annual premium
+quarterly premium
+semi annual premium
+premium increase
+premium hike
+premium reduction
+lower premium
+auto insurance
+health insurance
+life insurance
+home insurance
+renters insurance
+disability insurance
+long term care
+pet insurance
+travel insurance
+business insurance
+liability insurance
+professional insurance
+policy payment
+policy premium
+policy due
+coverage payment
+insurance bill
+insurance invoice
+insurance statement
+renewal premium
+policy renewal
+grace period
+lapse notice
+policy lapse
+reinstatement
+policy reinstate
+premium refund
+insurance refund
+cancel policy
+end policy
+terminate policy
+policy cancellation
+policy termination
+policy effective date
+policy expiration
+policy expired
+premium calculation
+premium quote
+premium estimate
+premium discount
+multi policy discount
+safe driver discount
+no claims discount
+bundle discount
+
+# Wire transfers
+wire transfer
+bank wire
+swift transfer
+swift payment
+swift code
+swift bic
+iban number
+routing number
+aba number
+sort code
+fed wire
+chips
+chaps
+sepa transfer
+sepa payment
+sepa direct debit
+ach transfer
+ach payment
+eft transfer
+eft payment
+wire received
+wire sent
+wire pending
+wire delayed
+wire failed
+wire rejected
+wire returned
+wire recall
+wire amendment
+wire modification
+wire cancellation
+incoming wire
+outgoing wire
+domestic wire
+international wire
+foreign wire
+same day wire
+next day wire
+recurring wire
+standing wire instruction
+wire fee
+wire charges
+wire cost
+wire amount
+wire limit
+wire cutoff time
+wire processing time
+wire settlement
+wire confirmation
+swift confirmation
+wire tracking
+wire status
+wire inquiry
+beneficiary bank
+intermediary bank
+correspondent bank
+remitting bank
+receiving bank
+wire instructions
+wire details
+wire template
+wire authorization
+wire approval
+
+# Digital wallets (PayPal, Venmo, etc.)
+paypal issue
+paypal payment
+paypal transfer
+paypal refund
+paypal dispute
+paypal claim
+paypal limited
+paypal restricted
+paypal frozen
+paypal account
+paypal balance
+paypal fees
+venmo issue
+venmo payment
+venmo transfer
+venmo refund
+venmo declined
+venmo not working
+zelle issue
+zelle payment
+zelle transfer
+zelle not working
+zelle limit
+zelle error
+cash app issue
+cash app payment
+cash app transfer
+cash app refund
+cash app not working
+cash app limit
+apple pay issue
+apple pay not working
+apple pay declined
+apple pay error
+google pay issue
+google pay not working
+google pay declined
+google pay error
+samsung pay issue
+samsung pay not working
+amazon pay issue
+amazon pay not working
+shop pay issue
+shop pay not working
+stripe issue
+stripe payment
+stripe refund
+square issue
+square payment
+square refund
+wise issue
+wise transfer
+wise payment
+remitly issue
+remitly transfer
+western union issue
+western union transfer
+moneygram issue
+moneygram transfer
+skrill issue
+neteller issue
+payoneer issue
+payoneer payment
+webmoney issue
+perfect money
+alipay issue
+wechat pay issue
+paytm issue
+phonepe issue
+gpay issue
+upi issue
+upi payment
+upi transfer
+upi refund
+digital wallet
+mobile wallet
+e wallet
+virtual wallet
+online wallet
+wallet balance
+wallet transfer
+wallet payment
+wallet refund
+wallet limit
+wallet verification
+wallet security
+wallet hacked
+wallet compromised
+
+# Receipts/invoices
+receipt needed
+receipt not received
+receipt request
+invoice needed
+invoice not received
+invoice request
+missing receipt
+missing invoice
+lost receipt
+lost invoice
+duplicate receipt
+duplicate invoice
+receipt copy
+invoice copy
+reprint receipt
+reprint invoice
+e receipt
+e invoice
+digital receipt
+digital invoice
+paper receipt
+paper invoice
+itemized receipt
+detailed receipt
+itemized invoice
+detailed invoice
+purchase receipt
+payment receipt
+transaction receipt
+deposit receipt
+withdrawal receipt
+atm receipt
+pos receipt
+email receipt
+sms receipt
+receipt number
+invoice number
+order number
+receipt date
+invoice date
+due date
+payment due
+net terms
+payment terms
+invoice amount
+total amount
+subtotal
+tax amount
+discount amount
+amount paid
+balance due
+outstanding invoice
+overdue invoice
+paid invoice
+unpaid invoice
+partially paid
+fully paid
+payment status
+invoice status
+reconciliation
+account reconciliation
+bank reconciliation
+statement reconciliation
+
+# Outstanding amounts
+outstanding balance
+amount due
+balance due
+total due
+payment due
+bill due
+invoice due
+due amount
+remaining balance
+remaining amount
+pending payment
+pending balance
+unpaid balance
+unpaid amount
+unsettled amount
+open balance
+open invoice
+open item
+aging report
+accounts receivable
+accounts payable
+debt owed
+money owed
+liability
+financial obligation
+credit balance
+debit balance
+net balance
+current balance
+previous balance
+opening balance
+closing balance
+running total
+cumulative balance
+aggregate balance
+consolidated balance
+principle outstanding
+interest outstanding
+fees outstanding
+charges outstanding
+total outstanding
+currently owing
+money still owed
+what do i owe
+how much do i owe
+balance inquiry
+balance check
+
+# Late/overdue payments
+late payment
+overdue payment
+past due
+payment overdue
+late fee
+penalty charge
+past due amount
+overdue amount
+delinquent account
+payment delinquent
+delinquency
+arrears
+in arrears
+behind on payments
+missed payment
+payment missed
+missed due date
+payment not made
+forgot to pay
+did not pay
+unable to pay
+cant afford payment
+financial hardship
+payment arrangement
+payment plan
+payment schedule
+workout plan
+forbearance agreement
+deferment option
+grace period ended
+grace period expired
+collection notice
+sent to collections
+third party collections
+collection agency
+collections department
+recovery department
+credit report impact
+credit score impact
+credit damage
+negative reporting
+report to credit bureau
+payment reminder
+past due notice
+overdue notice
+late notice
+payment demand
+final notice
+ultimatum
+legal notice
+notice of default
+default
+loan default
+payment default
+credit default
+
+# Disputes
+dispute charge
+dispute transaction
+contest charge
+contest transaction
+challenge charge
+challenge transaction
+unrecognized transaction
+unauthorized transaction
+fraudulent transaction
+dispute claim
+file dispute
+open dispute
+dispute case
+dispute investigation
+dispute review
+dispute resolution
+dispute outcome
+dispute decision
+dispute won
+dispute lost
+dispute settled
+dispute closed
+dispute status
+dispute update
+dispute evidence
+provide evidence
+upload proof
+supporting documents
+transaction details
+merchant response
+chargeback
+chargeback request
+chargeback filed
+chargeback won
+chargeback lost
+chargeback fee
+chargeback reason
+friendly fraud
+true fraud
+dispute arbitration
+arbitration case
+pre arbitration
+compliance case
+retrieval request
+copy request
+information request
+provisional credit
+conditional credit
+final credit
+merchant dispute
+buyer protection
+seller protection
+purchase protection
+payment protection
+fraud protection
+dispute protection
+
+# Account status changes
+account status
+account active
+account inactive
+account dormant
+account closed
+account suspended
+account restricted
+account limited
+account frozen
+account blocked
+account locked
+account unlocked
+account opened
+account reopened
+account pending
+account under review
+account flagged
+account verified
+account unverified
+account pending verification
+account upgrade
+account downgrade
+account modification
+account settings
+account preferences
+account closure request
+close my account
+terminate account
+delete account
+remove account
+account deletion
+account termination
+account reactivation
+activate account
+deactivate account
+disable account
+enable account
+account recovery
+recover account
+restore account
+account access
+account login
+account logout
+password reset
+forgot password
+change password
+update password
+reset security questions
+update profile
+edit profile
+profile settings
+notification settings
+alert settings
+privacy settings
+security settings
+two factor setup
+enable 2fa
+disable 2fa
+
+# Additional financial/account terms
+account statement
+bank statement
+transaction history
+payment history
+account summary
+account overview
+account details
+account information
+account number
+account holder
+primary account
+joint account
+secondary account
+authorized user
+account ownership
+account type
+savings account
+checking account
+current account
+money market account
+certificate of deposit
+cd account
+ira account
+401k account
+retirement account
+investment account
+brokerage account
+trading account
+forex account
+crypto account
+digital currency account
+loan account
+credit account
+mortgage account
+line of credit
+home equity line
+personal loan
+auto loan
+student loan
+debt consolidation
+balance transfer
+cash advance
+overdraft line
+reserve line
+account opening
+account closing
+account maintenance
+account service
+account fee
+account charges
+account benefits
+account rewards
+account perks
+account features
+account tools
+account resources
+account support
+account help
+account manager
+relationship manager
+personal banker
+financial advisor
+wealth manager
+private banking
+priority banking
+retail banking
+commercial banking
+business banking
+corporate banking
+investment banking
+online banking platform
+mobile app
+banking portal
+customer portal
+self service
+automated service
+digital banking
+virtual banking
+remote banking
+branch banking
+in person banking
+phone banking
+telephone banking
+video banking
+chat banking
+messaging banking
+ai assistant
+virtual assistant
+chatbot support
+bot help
+
+EOF

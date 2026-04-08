@@ -1,0 +1,769 @@
+# Technical Support Keywords - Medium Priority
+# Priority Level: MEDIUM
+
+how to
+how do i
+can you help
+need assistance
+need help
+having trouble
+having issues
+technical issue
+technical problem
+cant figure out
+can't figure out
+confused about
+not sure how to
+don't know how to
+help me understand
+explain how to
+step by step
+guide me
+walk me through
+tutorial needed
+instructions needed
+can't install
+cant install
+installation failed
+install error
+uninstall
+reinstall
+update failed
+cant update
+system update
+app update
+software update
+cant download
+download failed
+corrupted file
+file error
+file not found
+file missing
+cant open file
+cant open app
+app crashing
+app not responding
+app freezing
+slow loading
+slow performance
+laggy
+running slow
+system slow
+cant connect
+connection issue
+network problem
+wifi not working
+no signal
+poor signal
+cant login
+cant sign in
+forgot password
+reset password
+change password
+password reset
+account recovery
+recover account
+delete account
+close account
+deactivate
+reactivate
+account settings
+privacy settings
+notification settings
+email settings
+profile update
+change email
+change phone
+update info
+personal info
+account info
+subscription
+upgrade
+premium
+billing question
+payment method
+credit card on file
+invoice
+receipt
+tax invoice
+refund policy
+cancellation
+cancel subscription
+cancel order
+order status
+shipping status
+track order
+delivery issue
+shipping problem
+damaged item
+wrong item
+missing item
+return item
+exchange item
+warranty
+guarantee
+defective
+broken product
+not as described
+different from photo
+color wrong
+size wrong
+fit issue
+measurements
+specifications
+compatibility
+can't sync
+sync error
+backup failed
+cant restore
+lost data
+data recovery
+export data
+import data
+transfer data
+migrate account
+ EOFaccess denied error
+account creation failed
+account error
+account issue
+account locked error
+account recovery failed
+account registration error
+account synchronization error
+app keeps stopping
+app not installed
+application error
+authentication error
+backup error
+billing error
+blue screen of death
+browser compatibility issue
+browser crash
+browser error
+browser not responding
+buffer overflow error
+bug report needed
+button not working
+cache error
+cant add to cart
+cant add to wishlist
+cant apply coupon
+cant attach file
+cant browse
+cant checkout
+cant click
+cant comment
+cant copy
+cant create account
+cant customize
+cant delete
+cant download app
+cant drag and drop
+cant edit
+cant export
+cant filter
+cant find item
+cant follow
+cant get verification code
+cant go back
+cant insert image
+cant join
+cant like
+cant link account
+cant locate
+cant make payment
+cant modify
+cant navigate
+cant open attachment
+cant open link
+cant paste
+cant play video
+cant post
+cant preview
+cant print
+cant proceed
+cant publish
+cant purchase
+cant read
+cant refresh
+cant remove
+cant reply
+cant save changes
+cant scroll
+cant search
+cant select
+cant send email
+cant send message
+cant share
+cant sign out
+cant sort
+cant subscribe
+cant type
+cant unfollow
+cant unsubscribe
+cant upload document
+cant upload image
+cant upload photo
+cant upload video
+cant use feature
+cant view attachment
+cant view image
+cant view page
+cant view profile
+cant zoom
+chat not working
+clipboard error
+configuration error
+confirmation email not received
+connection failed error
+connection refused error
+connection timeout
+corrupted data error
+coupon not working
+crashes on startup
+csv import error
+data import error
+data loss issue
+data not syncing
+device compatibility issue
+disk full error
+dns error
+domain error
+double charge issue
+drag and drop not working
+driver error
+dropdown not working
+duplicate entry error
+email bounced
+email delivery failed
+email not sending
+email verification failed
+empty cart error
+error 400
+error 401
+error 403
+error 404
+error 408
+error 410
+error 429
+error 500
+error 502
+error 503
+error 504
+error accessing database
+error adding item
+error applying settings
+error browsing
+error building
+error checking out
+error clicking
+error closing
+error communicating with server
+error compiling
+error connecting
+error copying
+error creating
+error deleting
+error detecting
+error displaying
+error downloading
+error editing
+error executing
+error exporting
+error fetching data
+error filtering
+error finding
+error formatting
+error generating
+error handling
+error importing
+error initializing
+error installing
+error joining
+error loading
+error locating
+error logging in
+error merging
+error moving
+error opening
+error parsing
+error processing
+error publishing
+error reading
+error refreshing
+error removing
+error rendering
+error restoring
+error retrieving
+error running
+error saving
+error scanning
+error searching
+error selecting
+error sending
+error setting up
+error sharing
+error starting
+error submitting
+error syncing
+error trying
+error updating
+error uploading
+error validating
+error verifying
+error writing
+expired session
+extension not working
+feature disabled
+feature not available
+feature request
+file corrupted
+file format not supported
+file not found error
+file too large
+file upload failed
+filter not working
+flash player error
+folder access denied
+font not loading
+form submission error
+forgot password link not working
+game crash
+gateway timeout error
+general error
+connection error
+function not working
+feature broken
+feature disabled
+feature malfunction
+feature missing
+feature not available
+feature not loading
+feature not responding
+feature removed
+feature unavailable
+feature won't load
+feature won't open
+feature won't work
+file access denied
+file cannot be opened
+file compatibility issue
+file corrupted
+file damaged
+file decoding error
+file download failed
+file encoding error
+file error
+file format error
+file has been deleted
+file is corrupted
+file is missing
+file load error
+file not downloading
+file not found
+file not readable
+file not recognized
+file not supported
+file open error
+file permission denied
+file processing error
+file read error
+file transfer failed
+file type not supported
+file upload error
+file write error
+filter not applying
+font display issue
+format not supported
+freeze
+freezing
+function error
+game not loading
+gateway error
+general error occurred
+glitch
+graphical glitch
+graphics bug
+graphics error
+guide not working
+hardware acceleration issue
+hardware compatibility
+help not loading
+home button not working
+homepage error
+icon missing
+image broken
+image error
+image load error
+image not displaying
+image not found
+image not loading
+import error
+import failed
+incompatible browser
+incompatible device
+incompatible file
+incompatible format
+incompatible version
+incorrect data
+incorrect display
+incorrect error
+incorrect information
+incorrect password
+incorrect settings
+installation not complete
+installing error
+interface bug
+interface error
+internal bug
+internal error
+internal server error
+internet error
+invalid access
+invalid account
+invalid activation code
+invalid address
+invalid api key
+invalid authentication
+invalid certificate
+invalid code
+invalid credentials
+invalid data
+invalid date
+invalid device
+invalid discount code
+invalid email
+invalid entry
+invalid file
+invalid format
+invalid input
+invalid key
+invalid link
+invalid login
+invalid number
+invalid operation
+invalid option
+invalid parameter
+invalid password
+invalid payment
+invalid payment method
+invalid permission
+invalid phone
+invalid pin
+invalid promo code
+invalid request
+invalid response
+invalid session
+invalid token
+invalid url
+invalid user
+invalid verification
+javascript error
+key not working
+keyboard not working
+lag
+latency issue
+license error
+license expired
+license invalid
+link broken
+link dead
+link error
+link expired
+link not found
+link not working
+link redirected
+link timeout
+loading animation stuck
+loading bar stuck
+loading broken
+loading content
+loading data
+loading error
+loading failed
+loading icon stuck
+loading incomplete
+loading issue
+loading never completes
+loading page
+loading problem
+loading screen
+loading spinner
+loading stuck
+local storage error
+location access denied
+location error
+location not found
+location permission
+location service error
+location unavailable
+locked out
+locked out of account
+log in error
+log out error
+login authentication failed
+login button not working
+login credentials invalid
+login error
+login expired
+login failed
+login loop
+login not working
+login page error
+login redirect error
+login session expired
+login timeout
+login unsuccessful
+logout error
+lost connection
+lost data
+lost session
+macro error
+malformed data
+malformed request
+malformed url
+map not loading
+match not found
+matchmaking error
+max retries exceeded
+media error
+memory error
+menu broken
+menu error
+menu frozen
+menu glitch
+menu item missing
+menu missing
+menu not loading
+menu not opening
+menu not responding
+merchant error
+merchant processing error
+message blocked
+message delivery failed
+message error
+message failed to send
+message not delivered
+message not received
+message sending failed
+message timeout
+metadata error
+microphone access denied
+microphone error
+microphone not detected
+microphone not found
+microphone not working
+mismatch error
+missing button
+missing content
+missing data
+missing element
+missing feature
+missing field
+missing file
+missing images
+missing information
+missing item
+missing link
+missing module
+missing option
+missing page
+missing parameters
+missing payment
+missing resources
+missing section
+missing text
+missing videos
+mobile compatibility
+mobile display issue
+mobile error
+mobile not working
+modal not closing
+modal not opening
+module error
+module not found
+monitor error
+mouse cursor issue
+mouse not working
+multiple errors
+mute not working
+navigation broken
+navigation error
+network authentication error
+network configuration error
+network congestion
+network connection failed
+network disconnected
+network error occurred
+network failure
+network latency
+network not available
+network request failed
+network timeout
+network unavailable
+new version error
+no audio
+no audio output
+no connection
+no internet access
+no network found
+no response from server
+no search results
+no server response
+no service
+no signal
+no sound
+no stream
+no stream available
+no supported app
+not accepted
+not activated
+not authorized
+not available in region
+not clickable
+not compatible
+not connected
+not displaying
+not eligible
+not found error
+not installed
+not loading
+not playing
+not recognized
+not registered
+not responding
+not sending
+not supported
+type not supported
+notification access denied
+notification error
+notification failed
+notification issue
+notification not received
+notification not sending
+notification not showing
+notification not working
+null pointer
+null reference
+number format error
+offline error
+ok button not working
+old version incompatible
+online error
+open failed
+open file error
+optimization error
+option greyed out
+option missing
+option not available
+out of memory
+out of range
+out of space
+output error
+over quota
+overflow error
+package error
+page blank
+page cannot be displayed
+page crash
+page error
+page expired
+page load error
+page not displaying
+page not found
+page not loading
+page not opening
+page not rendering
+page not responding
+page timeout
+page unavailable
+page unresponsive
+pagination error
+parse error
+parser error
+password authentication failed
+password complexity requirement
+password criteria
+password does not match
+password error
+password expired
+password failed
+password incorrect
+password locked
+password mismatch
+password not accepted
+password not recognized
+password not reset
+password not set
+password not strong
+password not working
+password prompt
+password recovery error
+password rejected
+password requirements
+password reset error
+password reset failed
+password strength
+password too long
+password too short
+password wrong
+path not found
+payment authorization failed
+payment capture failed
+payment declined
+payment error
+payment failed to process
+payment gateway error
+payment issue
+payment not authorized
+payment not completed
+payment not going through
+payment not processed
+payment not received
+payment pending
+payment processing error
+payment rejected
+payment unsuccessful
+payment verification failed
+peer connection failed
+pending error
+performance issue
+permission denied error
+permission error
+permission request
+permission required
+permissions not granted
+personalization error
+pin error
+playback error
+playback failed
+player error
+plugin crash
+plugin disabled
+plugin error
+plugin not loaded
+plugin not supported
+pointer error
+popup blocked
+popup error
+popup not showing
+port error
+precondition failed
+preview error
+privacy error
+privacy settings error
+private browsing error
+processing error
+processing exception
+processing failed
+processing timeout
+profile error
+profile load error
+profile not found
+profile not loading
+proxy authentication error
+proxy error
+proxy not responding
+purchase error
+purchase failed
+push notification error

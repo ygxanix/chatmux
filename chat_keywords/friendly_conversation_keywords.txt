@@ -1,0 +1,670 @@
+# Friendly Conversation Keywords - Low Priority
+# Casual greetings, daily routine, social chat
+
+# Greetings - Morning
+good morning
+morning
+morning sunshine
+top of the morning
+top of the morning to you
+early bird
+rise and shine
+wakey wakey
+good day
+have a great morning
+have a wonderful morning
+have a beautiful morning
+morning greetings
+good morning friend
+morning buddy
+morning pal
+morning mate
+good morning to you
+morning everyone
+morning all
+good morning all
+morning team
+morning folks
+good morning folks
+
+# Greetings - Afternoon/Evening
+good afternoon
+afternoon
+have a good afternoon
+have a great afternoon
+have a wonderful afternoon
+nice afternoon
+good evening
+evening
+have a good evening
+have a great evening
+have a nice evening
+good night
+goodnight
+good night sleep tight
+sleep well
+sweet dreams
+good night to you
+night night
+nighty night
+good night everyone
+have a peaceful night
+rest well
+
+# Greetings - General
+hello
+hi
+hey
+hey there
+hi there
+hello there
+hiya
+howdy
+yo
+hey yo
+what's up
+whats up
+sup
+wassup
+how's it going
+how is it going
+how are you
+how you doing
+how you been
+how have you been
+how's everything
+how is everything
+how's life
+how is life
+how's your day
+how is your day
+how was your day
+how are things
+how are you doing
+good to see you
+nice to see you
+great to see you
+pleased to see you
+long time no see
+it's been a while
+been a while
+nice to meet you
+pleased to meet you
+glad to meet you
+good to meet you
+
+# Farewells
+goodbye
+bye
+bye bye
+see you later
+see ya
+see ya later
+catch you later
+catch ya later
+talk to you later
+talk soon
+chat soon
+until next time
+take care
+have a good one
+have a great day
+have a wonderful day
+have a fantastic day
+have a lovely day
+see you tomorrow
+see you next time
+see you around
+later
+later alligator
+peace out
+peace
+I'm out
+gotta go
+have to go
+got to run
+be right back
+BRB
+back soon
+
+# Daily Routine
+good day at work
+how was work
+how was your day at work
+long day
+tired day
+busy day
+productive day
+what did you do today
+how's your day going
+how is your day going
+what's for lunch
+what did you have for lunch
+did you eat
+got lunch
+having lunch
+good morning coffee
+need coffee
+morning coffee
+coffee time
+tea time
+breakfast time
+dinner time
+supper time
+meal time
+what's for dinner
+what's cooking
+making dinner
+having dinner
+just woke up
+just got up
+just going to bed
+heading to bed
+time for bed
+early to bed
+early to rise
+in the office
+at work
+working from home
+remote work
+WFH
+commuting
+on my way
+heading out
+just got home
+back home
+home now
+at home
+relaxing at home
+chilling at home
+unwinding
+time to relax
+weekend plans
+what are you doing this weekend
+any plans for the weekend
+friday feeling
+TGIF
+thank god it's friday
+weekend vibes
+sunday funday
+sunday night
+monday blues
+hump day
+midweek
+almost friday
+friday night
+saturday night
+sunday morning
+
+# Casual Chat
+what's new
+what's happening
+what's going on
+what's the news
+any news
+anything new
+what's up with you
+how's it hanging
+how's tricks
+cool
+cool beans
+awesome
+rad
+sweet
+nice
+that's nice
+that's cool
+that's awesome
+that's great
+sounds good
+sounds great
+sounds perfect
+nice one
+good stuff
+great stuff
+love it
+love that
+thumbs up
+
+# Friendly Questions
+how was your weekend
+how was your week
+how is your week going
+did you have a good weekend
+any plans today
+what are you up to
+what are you doing
+what's on your mind
+what's on the agenda
+how's the weather
+cold today
+hot today
+raining today
+snowing today
+nice weather
+beautiful day
+terrible weather
+
+# Social Chat
+just checking in
+wanted to say hi
+thought I'd say hello
+reaching out
+getting in touch
+touching base
+following up
+circling back
+wanted to catch up
+let's catch up
+let's chat
+let's talk
+let's connect
+let's touch base
+keeping in touch
+staying in touch
+staying connected
+nice hearing from you
+good to hear from you
+thanks for reaching out
+appreciate you reaching out
+glad you messaged
+
+# Well Wishes
+hope you're doing well
+hoping you're well
+hope all is well
+hope everything is good
+wishing you well
+thinking of you
+take care of yourself
+look after yourself
+stay safe
+stay healthy
+get well soon
+feel better
+hoping you feel better
+wishing you a speedy recovery
+happy birthday
+happy anniversary
+congratulations
+well done
+great job
+proud of you
+you got this
+you can do it
+keep it up
+
+# Expressions
+lol
+haha
+hehe
+lmao
+rofl
+omg
+oh my god
+oh my gosh
+wow
+wowzers
+whoa
+no way
+seriously
+really
+for real
+are you serious
+you're kidding
+no kidding
+kidding me
+get out
+c'mon
+come on
+oh come on
+please
+pretty please
+pretty please with sugar on top
+thanks a million
+thanks so much
+thank you so much
+really appreciate it
+so grateful
+many thanks
+big thanks
+ty
+thank u
+
+# Casual Responses
+np
+no problem
+no worries
+no big deal
+don't mention it
+my pleasure
+happy to help
+anytime
+you're welcome
+yw
+yep
+yeah
+yup
+yessir
+yes ma'am
+sure
+sure thing
+of course
+absolutely
+definitely
+totally
+for sure
+right on
+you bet
+bet
+got it
+understood
+makes sense
+I see
+I hear you
+I feel you
+I get it
+I gotcha
+alright
+okay
+ok
+gotcha
+roger that
+
+# Sharing Updates
+just wanted to share
+thought you'd like to know
+wanted to let you know
+in case you didn't know
+heads up
+FYI
+for your information
+quick update
+just a heads up
+update for you
+news to share
+something to tell you
+excited to share
+happy to announce
+
+# Friendly Closing
+best
+all the best
+best wishes
+warm regards
+kind regards
+fondly
+yours truly
+yours
+cheers
+take it easy
+ciao
+later gator
+toodle-oo
+toodles
+ta ta
+tata
+xoxo
+hugs and kisses
+hugs
+smile
+
+# Weather Small Talk
+beautiful weather today
+lovely day today
+gorgeous weather
+perfect weather
+sunny day
+rainy day
+cloudy day
+windy day
+cold day
+chilly
+freezing
+hot day
+humid
+
+# Time of Day
+early morning
+mid morning
+late morning
+noon
+midday
+afternoon
+late afternoon
+evening
+night
+midnight
+dawn
+dusk
+
+# Casual Plans
+free tonight
+busy tonight
+what are you doing tonight
+want to hang out
+wanna hang
+let's hang out
+let's meet up
+meet for coffee
+grab lunch
+catch up over coffee
+coffee catch up
+lunch break
+coffee break
+tea break
+
+# Expressions of Agreement
+couldn't agree more
+absolutely agree
+completely agree
+totally agree
+ditto
+same here
+me too
+me either
+same
+totally
+exactly
+precisely
+you said it
+tell me about it
+ain't that the truth
+too true
+right you are
+you're right
+good point
+well said
+
+# Expressions of Sympathy
+sorry to hear that
+that's too bad
+that sucks
+that stinks
+bummer
+tough break
+rough day
+sounds rough
+that's rough
+hang in there
+chin up
+things will get better
+tomorrow is another day
+better luck next time
+don't worry about it
+it happens
+no biggie
+could be worse
+look on the bright side
+silver lining
+
+# Humor/Playful
+just kidding
+only joking
+jk
+laughing out loud
+LOL
+ROFL
+LMAO
+hilarious
+so funny
+that's hilarious
+you're funny
+made me laugh
+made my day
+you crack me up
+that's a good one
+good one
+nice try
+better luck next time
+oh well
+what can you do
+
+# Personal Check-ins
+are you okay
+you okay
+you alright
+everything okay
+everything alright
+is everything okay
+what's wrong
+what happened
+what's the matter
+are you feeling okay
+are you sick
+are you tired
+you look tired
+you seem tired
+need rest
+take a break
+
+# Gratitude
+just wanted to say thanks
+wanted to say thank you
+so thankful
+really appreciate you
+appreciate your help
+couldn't have done it without you
+you're a lifesaver
+you're the best
+you're amazing
+you're incredible
+
+# Encouragement
+keep going
+don't give up
+stay strong
+hang in there
+you can do this
+believe in yourself
+have faith
+stay positive
+think positive
+positive vibes
+positive energy
+good vibes only
+
+# Weekend/Vacation
+any vacation plans
+going on vacation
+just got back from vacation
+back from holiday
+back from trip
+trip was amazing
+trip was great
+vacation was wonderful
+need a vacation
+need a break
+time off
+PTO
+personal day
+sick day
+day off
+
+# Food/Meals
+breakfast time
+lunch time
+dinner time
+what's for breakfast
+what's for lunch
+grab a bite
+getting food
+food time
+hungry
+starving
+food was delicious
+great meal
+yummy food
+food pics
+
+# Exercise/Health
+going to the gym
+workout time
+just finished workout
+morning run
+evening walk
+staying active
+healthy lifestyle
+self care day
+mental health day
+feeling good today
+feeling energized
+
+# Entertainment
+watching a movie
+saw a great movie
+binge watching
+netflix and chill
+favorite show
+new series
+just started watching
+finished the series
+game night
+playing games
+
+# Music
+listening to music
+new album
+favorite song
+concert was amazing
+live music
+spotify playlist
+podcast recommendation
+listening to podcast
+
+# Pet/Family
+my dog says hi
+my cat is cute
+family time
+kids are great
+kids driving me crazy
+parenting is hard
+family dinner
+time with family
+
+# Work/Study
+busy at work
+crazy busy
+swamped at work
+deadline approaching
+finished my project
+finally done
+long meeting
+meeting was boring
+back to work
+study time
+exam tomorrow
+finished studying
+
+# Random/Fun
+random thought
+fun fact
+did you know
+something funny happened
+you won't believe what happened
+funny story
+interesting fact
+today I learned
+trivia question
+quick question
+random question

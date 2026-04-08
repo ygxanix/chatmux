@@ -1,0 +1,1864 @@
+# Emotional Distress Keywords - High Priority
+# Priority Level: HIGH
+
+# Frustration
+frustrated
+im frustrated
+this is frustrating
+very frustrated
+so frustrated
+cant take this anymore
+can't take this
+fed up
+had enough
+at my wit's end
+losing patience
+losing my mind
+this is ridiculous
+this is absurd
+this is insane
+this is crazy
+extremely frustrated
+beyond frustrated
+im at my limit
+ive had it
+i've had it
+cant stand this
+can't stand this
+so annoying
+very annoying
+this is annoying
+im annoyed
+pissing me off
+really frustrating
+super frustrating
+too frustrating
+frustrating as hell
+frustrating situation
+endlessly frustrating
+constantly frustrated
+always frustrated
+getting frustrated
+getting really frustrated
+im irritated
+so irritated
+irritating
+this is irritating
+makes me mad
+bothered
+im bothered
+this bothers me
+aggravated
+im aggravated
+aggravating
+this is aggravating
+irked
+im irked
+irked by this
+vexed
+im vexed
+displeased
+im displeased
+not happy about this
+unhappy with this
+disappointed
+im disappointed
+let down
+feel let down
+not working
+this isnt working
+this isn't working
+nothing works
+why wont this work
+why won't this work
+stupid system
+dumb system
+broken
+this is broken
+not functioning
+malfunctioning
+unreliable
+this is unreliable
+inconsistent
+so inconsistent
+unpredictable
+too complicated
+overly complicated
+confusing
+this is confusing
+im confused
+cant figure this out
+can't figure this out
+dont understand this
+don't understand this
+makes no sense
+this makes no sense
+nonsense
+this is nonsense
+pointless
+this feels pointless
+waste of time
+this is a waste of time
+wasting my time
+you're wasting my time
+running in circles
+going in circles
+around in circles
+loop
+in a loop
+stuck in a loop
+same issue
+same problem
+keeps happening
+happening again
+not again
+this again
+why does this keep happening
+repeatedly failing
+keeps failing
+failing again
+failed again
+cant get it right
+can't get it right
+never get it right
+always wrong
+constantly wrong
+every time
+happens every time
+without fail
+predictably bad
+expected this
+knew this would happen
+of course this happened
+typical
+just my luck
+murphy's law
+why me
+why always me
+ singled out
+picked on
+being picked on
+ targeted
+targeted
+unfair
+this is unfair
+not fair
+why is this happening to me
+what did i do to deserve this
+deserve better
+i deserve better
+shouldn't have to deal with this
+shouldnt have to deal with this
+don't deserve this
+dont deserve this
+
+# Anger
+angry
+im angry
+so angry
+very angry
+really angry
+extremely angry
+furious
+im furious
+im mad
+so mad
+really mad
+pissed off
+im pissed
+im pissed off
+pissed
+fuming
+im fuming
+seething
+im seething
+livid
+im livid
+irate
+im irate
+enraged
+im enraged
+infuriated
+im infuriated
+incensed
+im incensed
+outraged
+im outraged
+indignant
+im indignant
+resentful
+im resentful
+bitter
+im bitter
+hostile
+im feeling hostile
+antagonistic
+im antagonistic
+aggressive
+im aggressive
+confrontational
+im confrontational
+heated
+getting heated
+tempers flaring
+flared up
+blew up
+i blew up
+lost my temper
+lost it
+i lost it
+snapped
+i snapped
+went off
+i went off
+blew a gasket
+blew my top
+seeing red
+im seeing red
+blood boiling
+my blood is boiling
+steam coming out of my ears
+want to scream
+need to scream
+screaming inside
+screaming internally
+shouting
+im shouting
+yelling
+im yelling
+raised my voice
+raised voice
+angry outburst
+outburst
+temper tantrum
+tantrum
+fit of rage
+rage
+im raging
+full of rage
+consumed by anger
+angry at everyone
+angry at everything
+hate this
+i hate this
+hate you
+i hate you
+despise
+despise this
+despise you
+loathe
+i loathe this
+detest
+i detest this
+resent
+i resent this
+resent you
+resent everything
+
+# Sadness
+sad
+im sad
+so sad
+very sad
+really sad
+extremely sad
+heartbroken
+im heartbroken
+devastated
+im devastated
+crushed
+im crushed
+destroyed
+im destroyed
+im ruined
+this ruined everything
+everything is ruined
+broken
+im broken
+in pieces
+falling apart
+im falling apart
+shattered
+im shattered
+torn apart
+im torn apart
+wrecked
+im wrecked
+mess
+im a mess
+total mess
+complete mess
+emotional mess
+crying
+im crying
+in tears
+burst into tears
+started crying
+cant stop crying
+can't stop crying
+cried all night
+crying myself to sleep
+sobbing
+im sobbing
+wept
+i wept
+miserable
+im miserable
+unhappy
+im unhappy
+melancholy
+im melancholy
+depressed
+im depressed
+feeling depressed
+major depression
+clinical depression
+depressive episode
+in a funk
+down in the dumps
+feeling down
+feeling low
+low
+feeling really low
+rock bottom
+hit rock bottom
+at rock bottom
+in the gutter
+sinking
+im sinking
+drowning
+im drowning
+cant keep my head above water
+can't keep my head above water
+suffocating
+im suffocating
+underwater
+im underwater
+cant breathe
+can't breathe
+sadness overwhelming
+overwhelming sadness
+grief
+im grieving
+in mourning
+mourning
+lost someone
+missing someone
+miss them so much
+emptiness
+feel empty
+empty inside
+hollow
+feel hollow
+void
+feel a void
+numb
+feeling numb
+gone numb
+emotionally numb
+detached
+feeling detached
+disconnected
+feeling disconnected
+distant
+feeling distant
+withdrawn
+im withdrawn
+isolated myself
+pulled away
+shut down
+i shut down
+shut everyone out
+pushed everyone away
+no joy
+no happiness
+lost interest
+lost all interest
+nothing makes me happy
+nothing brings joy
+cant feel happy
+can't feel happy
+anhedonia
+no pleasure
+cant enjoy anything
+can't enjoy anything
+
+# Anxiety
+worried
+im worried
+so worried
+very worried
+really worried
+extremely worried
+worried sick
+im worried sick
+anxious
+im anxious
+so anxious
+very anxious
+really anxious
+extremely anxious
+anxiety
+having anxiety
+anxiety attack
+having an anxiety attack
+panic attack
+having a panic attack
+stressed
+im stressed
+so stressed
+very stressed
+really stressed
+extremely stressed
+stressed out
+im stressed out
+so stressed out
+very stressed out
+really stressed out
+extremely stressed out
+under pressure
+so much pressure
+too much pressure
+pressure is crushing me
+stressed to the max
+maxed out stress
+tense
+im tense
+so tense
+very tense
+nervous
+im nervous
+so nervous
+very nervous
+really nervous
+extremely nervous
+on edge
+im on edge
+so on edge
+very on edge
+really on edge
+extremely on edge
+jittery
+im jittery
+jumpy
+im jumpy
+skittish
+im skittish
+restless
+im restless
+so restless
+uneasy
+im uneasy
+feel uneasy
+apprehensive
+im apprehensive
+apprehension
+filled with apprehension
+concerned
+im concerned
+so concerned
+very concerned
+really concerned
+extremely concerned
+fearful
+im fearful
+so fearful
+very fearful
+afraid
+im afraid
+so afraid
+very afraid
+really afraid
+scared
+im scared
+so scared
+very scared
+really scared
+terrified
+im terrified
+so terrified
+very terrified
+really terrified
+extremely terrified
+frightened
+im frightened
+so frightened
+very frightened
+petrified
+im petrified
+frozen with fear
+paralyzed by fear
+overwhelming fear
+panic
+im panicking
+so panicking
+full panic mode
+panic setting in
+panic taking over
+anxiety spiraling
+spiraling anxiety
+anxiety overwhelming
+anxiety consuming me
+consumed by anxiety
+anxiety through the roof
+off the charts anxiety
+crippling anxiety
+debilitating anxiety
+severe anxiety
+chronic anxiety
+constant anxiety
+never ending anxiety
+persistent anxiety
+background anxiety
+low grade anxiety
+high anxiety
+mounting anxiety
+rising anxiety
+escalating anxiety
+
+# Overwhelm
+overwhelmed
+im overwhelmed
+so overwhelmed
+very overwhelmed
+really overwhelmed
+extremely overwhelmed
+cant handle this
+can't handle this
+cant handle it
+can't handle it
+cant handle anymore
+can't handle anymore
+cant handle life
+can't handle life
+cant take it
+can't take it
+cant take anymore
+can't take anymore
+this is too much
+it's too much
+too much to handle
+too much for me
+way too much
+more than i can handle
+beyond my capacity
+beyond what i can handle
+at my breaking point
+reaching my limit
+hit my limit
+past my limit
+over my limit
+maxed out
+im maxed out
+at capacity
+over capacity
+beyond capacity
+pushed to the limit
+driven to the edge
+on the brink
+at the brink
+brink of collapse
+about to break
+ready to break
+breaking point
+past breaking point
+beyond breaking point
+im drowning
+im sinking
+cant keep up
+can't keep up
+can't keep up with everything
+cant keep up with everything
+too much going on
+too many things
+too many demands
+too many obligations
+too much responsibility
+too much on my plate
+too much to do
+too much happening at once
+everything at once
+all at once
+too many balls in the air
+too many irons in the fire
+spread too thin
+stretched too thin
+stretched to the breaking point
+torn in too many directions
+pulled in every direction
+no time to breathe
+no time for myself
+no time to think
+no time to process
+racing thoughts
+mind racing
+mind wont stop
+can't shut off my brain
+brain wont turn off
+cant turn off my mind
+can't turn off my mind
+mental overload
+information overload
+sensory overload
+overstimulated
+im overstimulated
+too much stimulation
+need to escape
+want to escape
+need to get away
+want to get away
+need to run away
+want to run away
+
+# Hopelessness
+hopeless
+im hopeless
+this is hopeless
+feeling hopeless
+completely hopeless
+utterly hopeless
+no hope
+no hope left
+lost all hope
+lost hope
+losing hope
+fast losing hope
+rapidly losing hope
+no hope for me
+no hope for the future
+future looks bleak
+bleak future
+dark future
+no future
+no future for me
+no light at the end of the tunnel
+cant see the light
+can't see the light
+no end in sight
+never ending
+feels endless
+endless suffering
+perpetual suffering
+constant suffering
+unending pain
+never get better
+never going to get better
+things will never improve
+situation will never change
+stuck like this forever
+trapped forever
+forever trapped
+no way out
+no escape
+no solution
+no answer
+no fix
+unfixable
+beyond repair
+irreparable damage
+cant be fixed
+can't be fixed
+cant be helped
+can't be helped
+beyond help
+beyond saving
+unsalvageable
+lost cause
+im a lost cause
+waste of space
+waste of life
+wasted life
+wasted potential
+ruined my life
+ive ruined everything
+ive ruined my life
+i've ruined everything
+i've ruined my life
+no point
+whats the point
+what's the point
+no point in trying
+no point anymore
+no reason to try
+no reason to go on
+why bother
+why even bother
+why try
+why even try
+why go on
+why keep going
+why continue
+why exist
+why am i here
+what's the point of living
+whats the point of living
+no purpose
+no meaning
+meaningless
+life is meaningless
+my life is meaningless
+everything is meaningless
+pointless existence
+empty existence
+existence is suffering
+life is suffering
+my life is suffering
+only suffering
+nothing but pain
+nothing but suffering
+constant pain
+unrelenting pain
+unrelenting suffering
+endless despair
+abyss of despair
+in the abyss
+darkness
+dark place
+in a dark place
+very dark place
+consumed by darkness
+surrounded by darkness
+
+# Isolation
+alone
+so alone
+very alone
+really alone
+completely alone
+utterly alone
+all alone
+all by myself
+by myself
+on my own
+on my own in this
+no one here
+no one around
+no one with me
+no one to talk to
+no one to turn to
+no one to help
+no one understands
+nobody understands
+no one gets it
+nobody gets it
+no one cares
+nobody cares
+no one gives a damn
+nobody gives a damn
+no one gives a shit
+nobody gives a shit
+no one notices
+nobody notices
+invisible
+im invisible
+i feel invisible
+like i don't exist
+like i dont exist
+might as well not exist
+wouldn't be missed
+wouldnt be missed
+no one would miss me
+nobody would miss me
+no one would notice
+nobody would notice
+no one would care
+nobody would care
+ignored
+im ignored
+being ignored
+can't get anyone's attention
+cant get anyones attention
+talking to walls
+falling on deaf ears
+no one listens
+nobody listens
+no one hears me
+nobody hears me
+my voice doesn't matter
+my voice doesnt matter
+unheard
+my cries go unanswered
+pleas ignored
+reaching out to no one
+reaching out but no response
+left on read
+ghosted
+ive been ghosted
+cut off
+cut everyone off
+everyone left me
+left me behind
+abandoned
+ive been abandoned
+abandoned by everyone
+abandoned by all
+rejected
+ive been rejected
+constantly rejected
+repeatedly rejected
+rejection after rejection
+ostracized
+im ostracized
+excluded
+im excluded
+left out
+im left out
+on the outside
+on the outside looking in
+not part of the group
+not fitting in
+dont fit in
+don't fit in
+dont belong
+don't belong
+nowhere to belong
+no place for me
+no community
+no support system
+no support network
+no friends
+lost all my friends
+no real friends
+no close friends
+no one close
+no intimate relationships
+no connections
+no real connections
+surface level only
+superficial relationships
+shallow connections
+lonely
+im lonely
+so lonely
+very lonely
+really lonely
+extremely lonely
+chronically lonely
+perpetually lonely
+painfully lonely
+aching loneliness
+loneliness hurts
+loneliness is crushing
+loneliness is killing me
+solitary
+in solitary
+solitary existence
+isolated existence
+lonely existence
+solitude
+forced solitude
+unwanted solitude
+
+# Desperation
+desperate
+im desperate
+so desperate
+very desperate
+really desperate
+extremely desperate
+desperate for help
+desperately need help
+need help now
+need help immediately
+need help urgently
+urgent help needed
+pleading
+im pleading
+pleading with you
+begging
+im begging
+begging you
+begging for help
+imploring
+im imploring
+imploring you
+beseeching
+im beseeching
+please help
+please help me
+please someone help
+someone please help
+anyone please help
+help me please
+im begging you to help
+im pleading for help
+i desperately need help
+i really need help
+i need help so bad
+i need help so badly
+at my wit's end
+dont know what to do
+don't know what to do
+out of options
+no options left
+no other choice
+no other option
+last resort
+this is my last resort
+final plea
+last hope
+only hope
+my only hope
+clutching at straws
+grasping at straws
+hanging by a thread
+on my last legs
+at the end of my rope
+reaching out
+reaching out desperately
+reaching out in desperation
+crying out for help
+screaming for help
+screaming into the void
+screaming but no one hears
+anyone there
+is anyone there
+please respond
+please reply
+please answer me
+say something
+say anything
+need someone to talk to
+need someone to listen
+just need to talk
+just need someone
+need a friend
+need support
+need emotional support
+need mental health support
+need professional help
+need therapy
+need medication
+need intervention
+need crisis help
+need crisis support
+in crisis
+im in crisis
+having a crisis
+mental health crisis
+emotional crisis
+personal crisis
+crisis situation
+crisis mode
+emergency
+this is an emergency
+mental health emergency
+emergency situation
+911 for my mind
+need 911
+need emergency help
+suicidal
+im suicidal
+having suicidal thoughts
+suicidal ideation
+active suicidal ideation
+passive suicidal ideation
+planning suicide
+suicide plan
+made a plan
+have a plan
+intend to die
+want to die
+ready to die
+dont want to live
+don't want to live
+not want to wake up
+don't want to wake up
+don't want to be here
+don't want to exist
+don't want to be alive
+wish i was dead
+wish i would die
+wish it would end
+make it stop
+need it to end
+need the pain to stop
+cant take the pain anymore
+can't take the pain anymore
+
+# Mental Exhaustion
+burnt out
+im burnt out
+so burnt out
+completely burnt out
+totally burnt out
+severely burnt out
+burned out
+im burned out
+burnout
+experiencing burnout
+in burnout
+heading for burnout
+approaching burnout
+burnout imminent
+burnout warning signs
+exhausted
+im exhausted
+so exhausted
+very exhausted
+really exhausted
+completely exhausted
+totally exhausted
+utterly exhausted
+absolutely exhausted
+mentally exhausted
+im mentally exhausted
+so mentally exhausted
+very mentally exhausted
+really mentally exhausted
+emotionally exhausted
+im emotionally exhausted
+so emotionally exhausted
+very emotionally exhausted
+really emotionally exhausted
+physically exhausted
+im physically exhausted
+completely drained
+totally drained
+utterly drained
+absolutely drained
+mentally drained
+im mentally drained
+emotionally drained
+im emotionally drained
+physically drained
+im physically drained
+wiped out
+im wiped out
+completely wiped out
+totally wiped out
+depleted
+im depleted
+completely depleted
+running on empty
+on empty
+empty tank
+no energy left
+no energy
+zero energy
+no motivation
+lost all motivation
+no drive
+no willpower
+willpower depleted
+willpower exhausted
+cant focus
+can't focus
+can't concentrate
+cant concentrate
+brain fog
+im experiencing brain fog
+mental fog
+cognitive fog
+fuzzy headed
+cant think straight
+can't think straight
+cant think clearly
+can't think clearly
+mental fatigue
+severe mental fatigue
+chronic fatigue
+cognitive fatigue
+emotional fatigue
+spiritual fatigue
+soul tired
+tired in my soul
+deep tiredness
+deep exhaustion
+beyond tired
+past tired
+more than tired
+worn out
+im worn out
+completely worn out
+worn down
+im worn down
+run down
+im run down
+beat
+im beat
+spent
+im spent
+at the end of my energy
+no reserves left
+no reserves
+depleted reserves
+tapped out
+im tapped out
+nothing left to give
+have nothing left
+got nothing left
+empty tank
+can't go on
+cant go on
+physically cant continue
+physically can't continue
+need to stop
+need a break
+cant keep going
+can't keep going
+need to rest
+cant rest
+can't rest
+no time to rest
+no chance to recover
+no recovery time
+no downtime
+always on
+constantly going
+cant slow down
+can't slow down
+forced to keep going
+have to keep going
+obligated to continue
+must continue
+trapped in this cycle
+stuck in this cycle
+cant escape this
+can't escape this
+neverending cycle
+endless cycle
+
+# Panic
+panicking
+im panicking
+so panicking
+really panicking
+stop panicking
+cant stop panicking
+can't stop panicking
+full panic
+in full panic mode
+panic mode
+panic attack
+having a panic attack
+severe panic attack
+massive panic attack
+panic attacks
+multiple panic attacks
+frequent panic attacks
+recurring panic attacks
+chronic panic attacks
+anxiety attack
+having an anxiety attack
+severe anxiety attack
+cant breathe
+can't breathe
+short of breath
+difficulty breathing
+breathing difficulty
+can't catch my breath
+cant catch my breath
+gasping for air
+can't get enough air
+cant get enough air
+suffocating
+im suffocating
+feels like im suffocating
+hyperventilating
+im hyperventilating
+breathing too fast
+rapid breathing
+shallow breathing
+heart racing
+my heart is racing
+racing heart
+pounding heart
+my heart is pounding
+chest hurts
+chest pain
+pain in my chest
+tight chest
+chest feels tight
+pressure in chest
+feels like heart attack
+having a heart attack
+think im having a heart attack
+dizziness
+im dizzy
+dizzy
+spinning room
+room is spinning
+lightheaded
+im lightheaded
+feel faint
+about to faint
+might faint
+gonna faint
+going to faint
+feel like passing out
+about to pass out
+might pass out
+world spinning
+everything spinning
+unsteady
+feeling unsteady
+shaking
+im shaking
+trembling
+im trembling
+hands shaking
+hands are shaking
+legs shaking
+whole body shaking
+shaking all over
+cant stop shaking
+can't stop shaking
+nauseous
+im nauseous
+feel sick
+feel like throwing up
+feel like vomiting
+chills
+im having chills
+sweating
+im sweating
+sweating profusely
+cold sweat
+breaking out in sweat
+flushed
+im flushed
+hot flash
+having a hot flash
+tingling
+im tingling
+numbness
+feeling numb
+pins and needles
+cant feel my hands
+cant feel my feet
+losing feeling
+detached from reality
+feel detached
+feel unreal
+feeling of unreality
+derealization
+im experiencing derealization
+depersonalization
+im experiencing depersonalization
+out of body
+out of body experience
+watching myself
+from outside my body
+not real
+this isn't real
+feels like a dream
+nightmare
+this is a nightmare
+living nightmare
+screaming inside
+wanting to scream
+cant control it
+can't control it
+losing control
+im losing control
+out of control
+spiraling out of control
+spiraling
+im spiraling
+downward spiral
+in a downward spiral
+spinning out
+losing my grip
+losing it completely
+cant handle this feeling
+can't handle this feeling
+make it stop
+need it to stop
+wont stop
+it won't stop
+can't make it stop
+cant make it stop
+
+# Self-Deprecation
+worthless
+im worthless
+feel worthless
+completely worthless
+utterly worthless
+so worthless
+very worthless
+really worthless
+failure
+im a failure
+total failure
+complete failure
+utter failure
+complete and utter failure
+big failure
+huge failure
+massive failure
+catastrophic failure
+failed at everything
+failed at life
+failed in life
+life failure
+failure at life
+loser
+im a loser
+such a loser
+complete loser
+total loser
+pathetic
+im pathetic
+so pathetic
+really pathetic
+absolutely pathetic
+useless
+im useless
+so useless
+completely useless
+totally useless
+utterly useless
+no good
+im no good
+good for nothing
+im good for nothing
+burden
+im a burden
+such a burden
+complete burden
+total burden
+burden to everyone
+burden to my family
+burden to my friends
+burden on society
+waste
+im a waste
+waste of space
+waste of oxygen
+waste of resources
+waste of life
+waste of potential
+waste of time
+waste of effort
+waste of energy
+shouldn't exist
+shouldnt exist
+shouldn't be here
+shouldnt be here
+shouldnt be alive
+shouldn't be alive
+don't deserve to live
+dont deserve to live
+don't deserve happiness
+dont deserve happiness
+don't deserve good things
+dont deserve good things
+don't deserve love
+dont deserve love
+don't deserve friends
+dont deserve friends
+unlovable
+im unlovable
+completely unlovable
+utterly unlovable
+no one could love me
+no one will ever love me
+undesirable
+im undesirable
+repulsive
+im repulsive
+disgusting
+im disgusting
+so disgusting
+hate myself
+i hate myself
+really hate myself
+absolutely hate myself
+loathe myself
+i loathe myself
+despise myself
+i despise myself
+cant stand myself
+can't stand myself
+cant look at myself
+can't look at myself
+cant stand the sight of myself
+can't stand the sight of myself
+ashamed
+im ashamed
+so ashamed
+really ashamed
+deeply ashamed
+mortified
+im mortified
+embarrassed
+im embarrassed
+so embarrassed
+humiliated
+im humiliated
+so humiliated
+degraded
+im degraded
+feel degraded
+shame
+full of shame
+consumed by shame
+shameful
+im shameful
+my existence is shameful
+stupid
+im stupid
+so stupid
+really stupid
+idiot
+im an idiot
+such an idiot
+dumb
+im dumb
+so dumb
+incompetent
+im incompetent
+completely incompetent
+utterly incompetent
+incapable
+im incapable
+cant do anything right
+can't do anything right
+cant get anything right
+can't get anything right
+cant do anything
+can't do anything
+cant do this
+can't do this
+cant do it
+can't do it
+not good enough
+im not good enough
+never good enough
+never will be good enough
+cant measure up
+can't measure up
+not measuring up
+falling short
+constantly falling short
+always falling short
+let everyone down
+i let everyone down
+always let everyone down
+constantly disappointing
+disappointment
+im a disappointment
+such a disappointment
+total disappointment
+complete disappointment
+to my parents
+to my family
+to everyone
+
+# Catastrophizing
+ruined everything
+everything is ruined
+i ruined everything
+ive ruined everything
+i've ruined everything
+destroyed everything
+everything is destroyed
+i destroyed everything
+ive destroyed everything
+i've destroyed everything
+everything is broken
+everything is damaged
+everything is wrecked
+its all over
+it's all over
+game over
+end of the world
+feels like end of the world
+worst thing ever
+worst possible outcome
+worst case scenario
+worst imaginable
+nothing could be worse
+nothing will ever be good again
+never be happy again
+never recover from this
+never get past this
+never move on from this
+permanently damaged
+permanently scarred
+permanently broken
+will never heal
+will never get better
+irreversible
+this is irreversible
+cant undo this
+can't undo this
+no going back
+point of no return
+crossed the line
+went too far
+beyond redemption
+unforgivable
+what i did is unforgivable
+unredeemable
+im unredeemable
+lost everything
+ive lost everything
+i've lost everything
+no chance of recovery
+no chance of getting better
+no chance of success
+no hope of improvement
+no hope of recovery
+situation is hopeless
+totally hopeless
+completely hopeless
+catastrophe
+this is a catastrophe
+total catastrophe
+complete catastrophe
+complete disaster
+total disaster
+disaster
+this is a disaster
+im a disaster
+my life is a disaster
+everything is a mess
+total mess
+complete mess
+chaos
+everything is chaos
+my life is chaos
+spiraling downward
+in freefall
+in a tailspin
+out of control
+cant be fixed
+can't be fixed
+beyond fixing
+unfixable situation
+impossible situation
+no solution possible
+no way to fix this
+no way out of this
+no way to recover
+no recovery possible
+
+# Emotional Combinations
+angry and sad
+angry and tired
+angry and frustrated
+sad and angry
+sad and tired
+sad and lonely
+anxious and depressed
+anxious and overwhelmed
+anxious and scared
+scared and sad
+scared and alone
+worried and stressed
+worried and anxious
+frustrated and angry
+frustrated and tired
+frustrated and hopeless
+exhausted and overwhelmed
+exhausted and depressed
+exhausted and hopeless
+hopeless and helpless
+hopeless and worthless
+lonely and sad
+lonely and depressed
+lonely and abandoned
+overwhelmed and anxious
+overwhelmed and exhausted
+overwhelmed and breaking down
+breaking down and crying
+breaking down and screaming
+falling apart completely
+completely falling apart
+totally falling apart
+emotional wreck
+im an emotional wreck
+complete emotional wreck
+total emotional wreck
+emotional breakdown
+having an emotional breakdown
+on the verge of breakdown
+verge of breakdown
+nervous breakdown
+having a nervous breakdown
+on the verge of nervous breakdown
+meltdown
+im having a meltdown
+complete meltdown
+total meltdown
+emotional meltdown
+mental breakdown
+psychological breakdown
+breaking down
+cant hold it together
+can't hold it together
+cant keep it together
+can't keep it together
+falling to pieces
+shattered emotionally
+emotionally shattered
+crushed emotionally
+emotionally crushed
+emotionally destroyed
+devastated emotionally
+emotionally devastated
+wrecked emotionally
+emotionally wrecked
+emotionally exhausted
+emotionally spent
+emotionally drained
+emotionally depleted
+emotionally numb
+emotionally detached
+emotionally distant
+emotionally unavailable
+drained emotionally
+spent emotionally
+tapped out emotionally
+
+# Physical Manifestations of Distress
+cant sleep
+can't sleep
+insomnia
+have insomnia
+sleep deprived
+im sleep deprived
+not sleeping
+havent slept
+haven't slept
+no sleep
+got no sleep
+running on no sleep
+cant eat
+can't eat
+not eating
+lost my appetite
+no appetite
+havent eaten
+haven't eaten
+not hungry
+cant stomach food
+can't stomach food
+feeling sick to my stomach
+sick to my stomach
+stomach in knots
+knots in my stomach
+butterflies in stomach
+nervous stomach
+upset stomach
+stomach hurts
+stomach pain
+abdominal pain
+chest tightness
+tightness in chest
+chest pressure
+pressure on chest
+chest pain
+chest hurts
+heart palpitations
+having palpitations
+racing pulse
+fast heartbeat
+irregular heartbeat
+shortness of breath
+cant breathe properly
+can't breathe properly
+difficulty breathing
+gasping
+breathing hard
+panting
+hyperventilating
+dizziness
+dizzy spells
+feeling faint
+light headed
+headache
+bad headache
+migraine
+having a migraine
+throbbing headache
+pounding headache
+tension headache
+stress headache
+muscle tension
+tense muscles
+tight muscles
+muscle pain
+muscle aches
+body aches
+aching all over
+pain everywhere
+physical pain
+emotional pain manifesting physically
+psychosomatic symptoms
+stress symptoms
+anxiety symptoms
+panic symptoms
+shaking hands
+trembling hands
+shaky hands
+trembling all over
+uncontrollable shaking
+nervous energy
+restless legs
+restless body
+cant sit still
+can't sit still
+pacing
+im pacing
+cant relax
+can't relax
+tense all the time
+carrying tension
+holding tension
+jaw clenching
+clenched jaw
+grinding teeth
+teeth grinding
+biting nails
+nail biting
+picking skin
+skin picking
+hair pulling
+pulling my hair
+tr pulling
+tracheal pull
+self harm
+hurting myself
+cutting
+im cutting
+burning myself
+hitting myself
+scratching myself
+pinching myself
+harming myself
+physical release
+pain as release
+pain to feel something
+numb so i cut
+
+# Other Emotional Distress Indicators
+need help
+i need help
+really need help
+badly need help
+crying for help
+screaming for help
+reaching out for help
+cant do this alone
+can't do this alone
+cant do this anymore
+can't do this anymore
+need someone
+cant cope
+can't cope
+cant deal
+can't deal
+cant handle
+can't handle
+not okay
+im not okay
+not doing okay
+not doing well
+doing badly
+doing really badly
+struggling
+im struggling
+really struggling
+struggling badly
+struggling hard
+struggling so much
+struggling to cope
+struggling to get by
+struggling to survive
+barely holding on
+hanging on by a thread
+just barely
+barely making it
+hanging in there
+barely hanging in there
+at my limit
+past my limit
+beyond my limit
+crossed my limit
+threshold crossed
+edge
+on the edge
+over the edge
+tipping point
+reached tipping point
+breaking point
+reached breaking point
+point of no return
+no turning back
+final straw
+last straw
+this is the last straw
+this is the final straw
+straw that broke the camel's back
+camel's back broken
+cant take one more thing
+can't take one more thing
+cant handle one more thing
+can't handle one more thing
+one thing too many
+too many things
+pile on
+everything piling up
+pile is too high
+too much piled on
+accumulated stress
+accumulated pressure
+cumulative effect
+cumulative stress
+years of stress
+years of pain
+years of suffering
+decades of pain
+lifetime of suffering
+been like this forever
+forever like this
+always been this way
+never been different
+never known happiness
+never known peace
+never been okay
+never been well
+always struggled
+always had issues
+always had problems
+chronic issues
+chronic problems
+chronic pain
+chronic suffering
+chronic condition
+ongoing battle
+constant battle
+daily struggle
+everyday struggle
+constant struggle
+relentless struggle
+unending struggle
+never ending battle
+never ending struggle
+fight im losing
+fight i'm losing
+losing the battle
+losing this fight
+about to lose
+about to give up
+close to giving up
+so close to giving up
+on the verge
+verge of giving up
+edge of giving up
+brink of giving up
+ready to give up
+want to give up
+feel like giving up
+feel like quitting
+ready to quit
+want to quit
+quitting
+im quitting
+i quit
+i give up
+im giving up
