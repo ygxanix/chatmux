@@ -79,16 +79,76 @@ async def grade_task(request: dict):
 
 
 @app.post("/baseline")
-async def run_baseline(request: dict):
-    """Run baseline inference with OpenAI API using WORK.md as system prompt."""
+async def run_baseline(request: dict = None):
+    """Run baseline inference. Uses LLM if OPENAI_API_KEY is set, otherwise falls back to keyword-based."""
+    if request is None:
+        request = {}
+    
     import json
     
     difficulty = request.get("difficulty", "medium")
     api_key = os.environ.get("OPENAI_API_KEY")
     
+    # No API key - use keyword-based baseline (works without LLM!)
     if not api_key:
-        return {"error": "OPENAI_API_KEY not set", "instructions": "Set OPENAI_API_KEY environment variable"}
+        env = UrgentChatPrioritizerEnvironment(difficulty=difficulty)
+        obs = env.reset()
+        
+        total_reward = 0.0
+        step = 0
+        prioritized = []
+        
+        while not obs.done and step < 20:
+            step += 1
+            if not obs.pending_chats:
+                break
+            
+            # Keyword-based prioritization (no API key needed)
+            scored = []
+            for msg in obs.pending_chats:
+                score = 0
+                # Sender importance
+                if msg.sender_type.value in ['boss', 'family']:
+                    score += 30
+                elif msg.sender_type.value == 'close_friend':
+                    score += 15
+                # Urgency keywords
+                if msg.urgency_keywords:
+                    score += 40
+                # Relationship
+                score += int(msg.relationship_strength * 20)
+                # Time (newer = higher)
+                if msg.time_since_arrival < 60:
+                    score += 10
+                # Spam penalty
+                if msg.sender_type.value == 'bot' or msg.is_promotional:
+                    score -= 50
+                scored.append((msg.message_id, score, msg))
+            
+            scored.sort(key=lambda x: x[1], reverse=True)
+            best = scored[0][2] if scored else obs.pending_chats[0]
+            
+            priority = "highest" if scored[0][1] >= 70 else "high" if scored[0][1] >= 50 else "normal"
+            
+            action = UrgentChatPrioritizerAction(
+                action_type="prioritize",
+                chat_id=best.message_id,
+                new_priority=priority
+            )
+            obs = env.step(action)
+            total_reward += obs.reward
+            prioritized.append(best.message_id)
+        
+        return {
+            "task_id": "all",
+            "total_steps": step,
+            "total_reward": round(total_reward, 2),
+            "avg_reward": round(total_reward / max(step, 1), 2),
+            "method": "keyword-based (no OPENAI_API_KEY)",
+            "prioritized_messages": prioritized[:10]
+        }
     
+    # Has API key - use LLM
     try:
         import openai
         client = openai.OpenAI(api_key=api_key)
