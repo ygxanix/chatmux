@@ -1,11 +1,18 @@
-# ChatMux - RL Environment for Chat Message Prioritization
+---
+title: ChatMux
+emoji: 💬
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_file: server/app.py
+pinned: false
+---
 
-<div align="center">
+# ChatMux
 
 **Meta PyTorch OpenEnv Hackathon 2026**
 
 [![HuggingFace Space](https://img.shields.io/badge/HuggingFace-ChatMux-blue?style=flat-square)](https://huggingface.co/spaces/Ygxanix/chatmux)
-[![License](https://img.shields.io/badge/License-BSD--style-blue?style=flat-square)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.10+-green?style=flat-square)
 ![OpenEnv](https://img.shields.io/badge/OpenEnv-0.2.2+-green?style=flat-square)
 
@@ -36,12 +43,15 @@ cd chatmux
 # Install dependencies
 pip install openenv-core openai rapidfuzz pydantic fastapi uvicorn
 
-# Run baseline with LLM
+# Run server
+python app.py
+
+# Or run with custom port
+python app.py --port 8000
+
+# Test baseline (requires OPENAI_API_KEY)
 export OPENAI_API_KEY=your_openai_api_key
 python baseline.py --difficulty medium
-
-# Or run server
-python -m server.app
 ```
 
 ### Try Online
@@ -161,24 +171,23 @@ The project is deployed at: **https://ygxanix-chatmux.hf.space**
 
 ```
 chatmux/
-├── baseline.py               # LLM-based baseline inference
-├── client.py                 # OpenEnv client
-├── grader.py                 # Task graders (3 difficulties)
-├── models.py                 # Data models (Action, Observation)
-├── WORK.md                   # LLM system prompt
-├── README.md                 # This file
-├── index.html                # Landing page
-├── pyproject.toml            # Python project config
-├── openenv.yaml              # OpenEnv configuration
-├── Dockerfile                # Main Dockerfile
-├── chat_keywords/            # 11,578 urgency keywords
+├── app.py                       # Main FastAPI server (entry point)
+├── baseline.py                  # CLI baseline inference script
+├── client.py                    # OpenEnv client
+├── grader.py                    # Task graders (3 difficulties)
+├── models.py                    # Data models (Action, Observation)
+├── WORK.md                      # LLM system prompt
+├── README.md                    # This file
+├── index.html                   # Landing page
+├── pyproject.toml               # Python project config
+├── openenv.yaml                 # OpenEnv configuration
+├── Dockerfile                   # Main Dockerfile
+├── chat_keywords/               # 11,578 urgency keywords
 │   ├── priority_config.json
 │   ├── emergency_critical_keywords.txt
 │   ├── technical_support_keywords.txt
 │   └── ...
 └── server/
-    ├── app.py                # FastAPI server
-    ├── Dockerfile            # Server container
     └── urgent_chat_prioritizer_environment.py  # Core RL environment
 ```
 

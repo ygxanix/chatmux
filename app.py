@@ -23,7 +23,7 @@ except Exception as e:
     ) from e
 
 from models import UrgentChatPrioritizerAction, UrgentChatPrioritizerObservation
-from .urgent_chat_prioritizer_environment import UrgentChatPrioritizerEnvironment
+from server.urgent_chat_prioritizer_environment import UrgentChatPrioritizerEnvironment
 
 
 app = create_app(

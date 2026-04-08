@@ -9,14 +9,17 @@ requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "openenv-urgent_chat_prioritizer"
+name = "chatmux"
 version = "0.1.0"
-description = "Urgent Chat Prioritizer environment for OpenEnv"
+description = "ChatMux - RL Environment for Chat Message Prioritization"
 requires-python = ">=3.10"
 dependencies = [
     "openenv-core[core]>=0.2.2",
     "rapidfuzz>=3.0.0",
     "openai>=1.0.0",
+    "pydantic>=2.0.0",
+    "fastapi>=0.100.0",
+    "uvicorn>=0.20.0",
 ]
 
 [project.optional-dependencies]
@@ -25,12 +28,7 @@ dev = [
     "pytest-cov>=4.0.0",
 ]
 
-[project.scripts]
-# Server entry point - enables running via: uv run --project . server
-# or: python -m urgent_chat_prioritizer.server.app
-server = "urgent_chat_prioritizer.server.app:main"
-
 [tool.setuptools]
 include-package-data = true
-packages = ["urgent_chat_prioritizer", "urgent_chat_prioritizer.server"]
-package-dir = { "urgent_chat_prioritizer" = ".", "urgent_chat_prioritizer.server" = "server" }
+packages = ["server"]
+package-dir = { "server" = "server" }

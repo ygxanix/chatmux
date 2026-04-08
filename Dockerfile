@@ -1,6 +1,4 @@
-# Universal Dockerfile for UrgentChat Prioritizer
-# Works on all systems (Linux, Windows, Mac)
-# Compatible with Hugging Face Spaces and local deployment
+# ChatMux - Docker container for RL Environment
 
 FROM python:3.10-slim
 
@@ -29,5 +27,5 @@ ENV PORT=8000
 # Expose port
 EXPOSE 8000
 
-# Run the server
-CMD ["python", "-m", "server.app"]
+# Run server using uvicorn
+CMD ["uvicorn", "server.app:app", "--host", "0.0.0.0", "--port", "8000"]

@@ -1,5 +1,5 @@
 spec_version: 1
-name: urgent_chat_prioritizer
+name: chatmux
 type: space
 runtime: python
 app: server.app:app
